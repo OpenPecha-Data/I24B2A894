@@ -1,0 +1,8511 @@
+༄༅།།བོད་ཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་བ།།
+www
+Tibetan Buddhist Resource Center
+Text Scan Input Form - Title Page
+TBRC Volume Number
+TBRC Work Number (W)
+Title
+6022
+30268
+རྒྱ་དཀར་ནག་རྒྱ་སེར་ཀཤྲཱི་ར་བལ་བོད་ཧོར་གྱི་ཡི་གེ་དང་དཔེ་རིས་རྣམ་གྲངས་མང་བ།
+སང་བ་
+rgya dkar nag rgya ser kash+mi ra bal bod hor gyi yi ge dang dpe
+ris rnam grangs mang ba
+ངག་དབང་བློ་བཟང་བསྟན་པའི་རྒྱལ་མཚན།
+Author
+ngag dbang blo bzang bstan pa'i rgyal mtshan
+Descriptor
+reproduced from an incomplet a-ba-ga bsod-nams-kun-sdud-gling
+blockprint from the library of the 4th sga-rje khams-sprul
+rinpoche
+Original Publication
+Place
+dharmamsala
+Publisher
+library of tibetan works and archives
+1991
+Date
+Total Volumes
+Current Volume (of Total)
+Number of TBRC Introductory Pages
+Number of Introductory Pages
+Number of Text Pages
+TBRC Scanning Information
+190+4
+scanned at m/s satluj infotech images, e-45, sector 27 noida,
+district gautam buddha nagar, u.p. 201301 via new delhi, india
+for the tibetan buddhist resource center, 150 w 17th st., new york
+city, ny 10011, usa 2006
+
+
+
+Rgya dkar nag rgya ser Kasmira Bal Bod Hor gyi yi ge dan dpe ris rnam...
+.
+LC Control Number: 93908690
+Type of Material: Book (Print, Microform, Electronic, etc.)
+Personal Name: Nag-dban-blo-bzan-bstan-pa'i-rgyal-mtshan, Lcan-lun Pandita, 1770-1846.
+Main Title: Rgya dkar nag rgya ser Kasmira Bal Bod Hor gyi yi ge dan dpe ris rnam gran
+man ba : graphic tables of Indic and allied scripts with ornamental and
+cryptographic characters of Tibet / by Lcan-lun Pandita.
+Published/Created: Dharamsala : Library of Tibetan Works and Archives, 1991.
+Description: 30 p. ; 11 x 50 cm.
+Notes: Tibetan, Mongolian, Nepali, and several Indic languages; prefatory matters in
+English.
+"Reproduced from a imcomplete A-ba-ga Bsod-nams-kun-sdud-glin
+blockprints from the library of the 4th Sga-rje Khams-sprul Rinpoche."
+Subjects: Tibetan language--Writing.
+India--Languages--Writing.
+Tibet--Languages--Orthography and spelling.
+LC Classification: PK119 .N335 1991
+Language Code: tibmul
+Overseas Acq. No.: I-Tib-3071
+Geog. Area Code: a-cc-ti
+Quality Code: lcode
+wwwwwwwwwwwwwwwwwwwwww
+w
+
+
+
+INDIAN
+SCRIPTS
+IN
+TIBET
+reproduced by
+LOKESH CHANDRA
+FROM THE COLLECTION OF PROF. RAGHUVIRA
+NEW DELHI, 1982
+
+
+
+SATA-PITAKA SERIES
+INDO-ASIAN LITERATURES
+Volume 297
+Reproduced in original scripts and languages
+Translated, annotated and critically evaluated by
+specialists of the East and the West
+Founded by
+RAGHU VIRA M.A., Ph.D., D. Litt. et Phil.
+आचार्य-रघुवीर-समुपक्रान्तं
+जम्बुद्वीप-राष्ट्राणां
+(भारत-नेपाल-गान्पार-शूलिक-तुरुष्क-पारस-ताजक-भोट-चीन-मोंगोल-म .
+उदयवर्ष-सिंहल-सुवर्णभू-श्याम-कम्बुज-चम्पा-द्वीपान्तरादीनां)
+एकैकेषां समसोतसां संस्कृति-साहित्य-समुच्चय-
+सरितां सागरभूतं
+Rs.100ls
+शतपिटकम्
+Printed at Jayyed Press, Delhi 110006
+Published by Mrs. Sharada Rani, New Delhi 110016
+1982
+
+
+
+3
+PREFACE
+This volume reproduces ll manuals of Indic scripts or scripts created
+on their basis. They were collected from Tibet, China and Mongolia by Prof.
+RaghuVira and the author during their trips to these regions. The oldest of them
+dates back to Thob-chin-dban or Prince Yin-lu who lived during 1695-1767. It
+was described and reproduced by Prof. RaghuVira as early as June 1941. We
+shall take up the script-manuals one by cne.
+1.
+Ali-kāli bijahāram (Sanskrit)
+Dbyans gsal bzhugs (Tibetan)
+Egesig üsug kiged geyigülügči üsug-üd orusiba (Mongolian)
+'Herein are contained vowels and consonants'
+Xylographed in Peking
+Accession number at the Academy : MONG.01.01, 01.03.
+It was compiled by the director of the Tibetan school Mgon-po-skyabs
+at the instance of Prince Thob-chin-dban, the 16th son of the late Emperor
+Shëng-tsu. The Prince had ordered its compilation for the collation of sūtras
+to spread Buddhism. It refers to an earlier Alikāli compiled by Ayuši Güüsi at
+the instance of the Dalai Lama III in A.D. 1586. Mgon-po-skyabs wrote the
+Mongolian lines of the triglot to ensure clear legibility.
+References :
+1941
+Raghuvira, Alikalibijaharam: being a Sanskrit-Tibetan-Mongolian
+Abecedarium, International Academy of Indian Culture.
+1953
+Walther Heissig, Die Libri Mongolici der Westdeutschen Bibliothek
+Marburg, ZDMG .103.406.
+1954
+Walther Feissig, Die Pekinger Lamaistischen Blockdrucke in
+Mongolischen Sprache, Wiesbaden (Otto Harrassowitz).
+1955
+David M. Farquhar, A description of the Mongolian manuscripts and
+xylographs in Washington, D.C., Central Asiatic Journal 1.206.
+1961
+Walther Heissig, Mongolische Handschriften, Blockdrucke,
+Landkarten, Wiesbaden (Franz Steiner Verlag), p.287 Nr.532.
+Herebelow follows an analysis of the contents of the first Ali-kāli :
+
+
+
+LANTSHA (=RANJANA) SCRIPT
+(i) The first group is of sixteen letters : vowels (including long I
+which is found in similar lists in Tibet, China and elsewhere) together with
+anusvāra and visarga appended to a. Folio lbl.
+(ii) Eight groups of 34 letters, kşa being treated as a separate item
+(the visarga after kşa is intended to be a full stop). Folio lbl.
+(iii) Thirty-four groups of sodasākşarī, Folio 1b2-4al.
+(iv) Another set of 33 groups ( ksa being ignored!) of conjuncts, every
+consonant being shown in combination with y, r, l, v. Folio 4al-bl.
+(v) Eight groups ( kşa forming a group by itself), showing each conso-
+.nant doubled. Folio 4b1,2.
+(vi) Five groups of nasals with consonants . Folio 4b2.
+2
+f
+U2
+(vii) Five groups of 1 with consonants. Similarly 5 groups of s, ş, s, r
+and 7 groups of r. Folio 4b2-5bl.
+(viii) Variant forms begin on folio 5b1.
+(ix) Two groups illustrate different ways of writing jihvămūlīya and
+upadhmānīya. Kua which is distinct in Tibetan and Mongolian, is a mistake
+for ñka, Folio 5bl.
+(x) A group of variant forms, picked up at random--consonants,
+singly or in groups. The line ends with phat and O. Folio 5bl.
+(xi)
+A miscellany of variant forms. This brings us up to e . Folio 5b2.
+(xii) Monograms, the last one is daśakāro vasi 'h.k.sh.m.l.b.r.
+y.a.m', the monogram of Kālacakra consisting of ten letters. Folio 5b2.
+VARTULA SCRIPT is another type of script complete from a to ksa.
+The şodasākşart of ka and a few interesting ligatures. Folio 5b2-6al.
+POSTSCRIPTS. There are two postscripts, one on folio 6a4-7; the other
+covering the whole of folio 6b and four lines of 7a. The first one is in Tibetan
+and Mongolian. It contains the colophon. It says that the primer, giving a
+description of the Brāhmi script (Ishans-pa'i yi-ge), the Tibetan and the Mongol
+(Hor-sog), was compiled by the orders of Prince Thob-chin-dban (Chinese :
+Ch'in Wang), a hereditary prince of the first class, and was printed by the orders
+of this very prince "for the increase of religious charity." The prince is described
+as being the sixteenth in the line of the Emperor Dharmarāja Shêng-tsu..
+
+
+
+The second postscript runs over 53 lines of Mongolian. The main
+purpose is the deciphering of dharanis. Three books are said to have been
+utilised. The postscript seeks to explain the differences between the sounds
+and forms of several letters (simple or in conjunction with others). It con-
+cludes : "At the command of Thob wang I have composed according to my ability
+because of the necessity of explaining slight differences in the Mongol script.
+Written by Gombojab, the director of the Tibetan school. This has been written
+with great diligence for learned men to see, to read with forbearance. May good
+increase."
+The concluding verse is the famous gātha Ye dharmā It is the dharma-
+kāya of Buddha and is recommended to be written down and placed in a caitya.
+There are several versions of this gāthā. Our version agrees with the Chinese
+(Bunyiu Nanjio 523). In Kasyapa the second quarter is teşań hetum tathāgata
+uvăca. The Pali version of Mahāvagga 1.23.5,10, wherein it is called
+dhamma-pariyāya , is as follows :
+Ye dhammā hetupabhavā tesam hetun tathāgato āhaj
+tesam ca yo nirodho evam vādi mahasama no II
+An inscription from Keddah (Malaysia) reads the Sanskrit verse with
+teşan hetuin in the second quarter.
+The primer closes with a grandiose MANGALAM. The rest of the blank
+on the folio is filled up by three Chinese symbols, the middle one being SHOU
+'old age' (one of the five blessings of China : 1 old age, 2 wealth, 3 health,
+4 love of virtue, 5 natural death).
+2. Title page lost. Another edition of No.1 in 8 folios. It seems to have
+formed the basis of the next xylograph No.3. Photocopy of the original in the
+Academy of Sciences, Leningrad: A 2710/M.Nova 244.
+Accession number at the Academy : MONG.05,51.
+3.
+Alikāli bijahāram (Sanskrit in Lantsha script)
+Dbyans gsal bzhugs (Tibetan)
+Egesig üsüg kiged geyigülügči üsúg-üd orusiba (Mongolian).
+It is a later edition of the Lantsha portion of the first work and ends with
+HKSMLBRYAM.
+Brought from Buryatia by Lokesh Chandra.
+Accession number at the Academy : MONG.01.91.
+
+
+
+4. Rgya dkar nag rgya-ser kaśmi-ra bal bod hor-gyi yi-ge dan dpe-ris
+rnam-grans man-ba bzhugs-so.
+It is a Peking xylograph, with the marginal Chinese signature de
+Accession number at the Academy : MONG.01.92. The left-hand margins
+indicate the following subject headings :
+lb-2a
+2b-16b
+16b-21b
+Invocatory verse in Sanskrit and Tibetan
+Scripts (yi-ge)
+Vinaya (hdu z ris)
+36 illustrations of yoga āsanas of Nāropa
+(Na-ro) with captions
+Surgical instruments (dpyad.dpe)
+Musical notation (dun)
+22a-24a
+24b-28a
+28b-29a
+The different scripts given with Tibetan transliteration are Rañjana 2b,
+Vartu (la) 6a, Dhari 7a, Kashmir 7b, Nagara 7b, Magadha 8a, Gola 8b,
+Markola 8b, Gauta 9a, Ghahura 9b, Sindhura 10a, Kamata 10a, Pukkamagi 10b,
+Rgya-mtsho-mthaḥ lla, Gron-khyer-phal-yig llb, Bal-po = Nepal llb, Chag-
+loņi yig gsar (new script of Chag lotsava) 12a, ugoslohi yig gsar (new script
+of Hgos lotsava) 12a, Skyogs-lohi yig gsar (new script of Skyogs lotsava) 12b,
+No-mtshar yig,gsar 13a, Rdor-gdan yig gsar 13a, Svayambhūjyoti 13b, Rin-spuns
+yig gsar 13b, Śa chen (thick fat letters) 14a, Khon sen 14a, monograms of mantras
+like HKSMLBRYM and classes of consonants in different scripts, gñis dkrugs,
+gsum dkrugs, bzhi dkrugs, sum-cu dkrugs, bco-lna dkrugs sam phyed dkrugs and
+an yig (alphabet of figures) 15b, Chinese and Tibetan 16a.
+The section of Vinaya comprises illustrations of meditators on and under
+the trees (ka-cha), with explanations of the illustrations ka-ha 16b-17b. Illus-
+trations of temple architecture (ja-pha) 18ab, vessels (ba-ma) 19a, diagram for
+astrological calculations (tsa) 19b, shoes (1-8, with explanations of 1-6) 19b,
+explanations of the remaining illustrations ca-tsa and 7-8, 20a-21b.
+The surgical instruments are in accord with the 22nd chapter of the second
+part of the Rgyud-bzhi with captions, 246-28a.
+It was compiled by Lcan-luh Arya Pandita Nag-dban-blo-bzan-bstan-
+paḥi-rgyal-mtshan who lived in the 18th century. He is referred to by his
+Sanskrit name Vāgindra-sumati-śāsana-dh vaja in the Mongol work
+Gün mör blama-yin takil-un jirüken-i amg qar-un abqu yo su qamuy sidis
+jarur či kemegde kü orusiba (folio 18b). He is described as a distinguished
+scholar of Sanskrit and Tibetan literatures and an eminent Master of the Geluk pa.
+His monastery was situated in the Abar-a Banner of the Silingoul League. His
+collected works were xylographed at his monastery in six volumes. He entered
+on an academic career at the age of seven under eminent masters like the Panchen
+Lama VI Blo-bzah-dpal-ldan-ye-ses-(1737-1780), Dalai Lama VIII Blo-bzan-hjam-
+dpal-rgya-mtsho (1759-1804), Lcah-skya II Rol-paņi-rdo-rje (1717-1786), Dgah-
+
+
+
+ldan siregetü Samati bakshi (regent 1789-1819), Klon-rdol bla-ma (born 1729)
+and others. His extensive biography was written by Chos-kyi-rje Blo-bzar-
+hphrin-las-rnam-rgyal in two parts in 224 and 209 folios, besides a versified
+avadana in 20 folios. His biography is given in Lokesh Chandra ,Materials for
+a History of Tibetan Literature (New Delhi, 1963) 2.14-15 and his
+complete works are listed on pages 2.289-299 of the same work.
+5. Hphags-yul-kyi yi-geņi nan tshan lantsa dan vartu ḥgos-lo yig gsar hor-
+yig-bcas-kyi dpe thog-maḥi ḥjug sgo bzhugs so.
+It gives the Lantsha (f. lb), and Vartula scripts (f. 4a), and the new
+script of Ħgos lotsava (5a) -- all with sublinear transliteration in Tibetan.
+ends with the Quadratic script hor-yig.
+It
+Accession number at the Academy : MONG.01.99.
+Aksara-viśva-latra viharati sma (Sanskrit)
+Yi-ge sna-tshogs-kyi
+...
+...
+...
+...
+bzhugs-so (Tibetan).
+Accession number at the Academy : MONG.01.93.
+A manuscript in 11 folios which follows the manual of Lcan-lun Pandita
+(no.4). It gives the following scripts : Lantsha = Rañjanã lb, Vartula 2a, Dhari
+2b, Kaśmira 3a, Nagara 3b, Sindhura 4a, Rgya-mtsho-mthaḥ 4b, Magadha 5a,
+Gaula 5b, Gauta 6a, Markola 6b, Ghahura 7a, Kamata 7b, Pukkima 8a, Kha- .
+che 8b, Bal-po = Nepal 8b, Chag-lo yig gsar 9a, Hgos-lo yig gsar 9b, Hphags-
+yul 10a, Skyogs-lo 10a, Chinese lla, monograms lla, numerals of Indian manu scripts
+(Rgya dpehi grans yig) llb.
+7.
+The ḥdul-ris section of Lcań-lun Pandita's abecedarium was revised and
+reproduced by the Dalai Lama XIII in 9 folios under a long title. It occurs in the
+fifth volume of his collected works and is numbered as dzi (wrongly dze on f. 2a
+and pi on f.9a). It has been reproduced here from the edition xylographed at the
+Zhö printery of the Potala at Lhasa.
+Accession number at the Academy : MONG.01.94.
+8. No title. Manuscript abecedarium in four folios photographed at Ulanbator
+by Lokesh Chandra in 1957. It has six lines per page in the following scripts :
+
+
+
+Lantsha, Vartula, Svayambhū, Quadratic as well as Uchen Tibetan and Mongolian.
+Accession number at the Academy : MONG.01.95..
+9. Title in Svayambhūjyoti script. It gives the alphabet in Svayambhūjyoti
+script. Brought from Ulanbator, Mongolia by Lokesh Chandra in 1957.
+Accession number at the Academy : MONG.01.96.
+10. Eulogy of Tson-kha-pa in Sanskrit and Tibetan written in the Svayambhū-
+jyoti and Tibetan scripts, followed by Mongolian in Svayambhūjyoti and
+Mongolian scripts. It was written for Lokesh Chandra in 1957 by the late Vene-
+rable Yishithabkhai of the Gandang Monastery at Ulanbator, Mongolia.
+Accession number at the Academy : MONG.01.97.
+ll. A Bonpo abecedarium in two folios giving the Stag-gzigs script la,
+Zhan-zhun 2a, Ljan-gar-li-yi gzi-yig 2b, and other scripts. It is followed by a
+Zhan-zhun glossary.
+Accession number at the Academy : MONG.01.98.
+Lolush Chandra
+
+
+
+रह मानिनावविवादाने व
+या समायणगणा ॥
+
+
+
+.
+.
+.
+..
+.
+..
+-
+-
+-
+.
+-
+॥ अ आ इ ई उ ऊ ऋ ल ल ए ऐ ओ औ अं अः ॥ क ख ग घ ङ । च छ जसमा ट ठ ड ढ ण त थ द ध न। प फ ब भ म । य र ल व । श प स ह । क्षः ॥
+या मानवशास्गोवा मेनहत. कदागवारगम दाइडदता नवददन यदावतमभयन्तायसवान
+W
+hy Now || गए। 1 BITI पकाययपष्ट बा परमसा॥
+JIJ
+A
+131 JANgAIN 4344393338 13.14 131
+कामिनीडाडामाक्षावादीनबहान सदाशिली हारा शादीमाटोट्रयाहत नागिगगगगग्ननगवा गागमन बानियाद
+नै अगाणी राशी मी योगा || विकिपि गपूने एप्रिय श्री योग में से
+गायन
+1133
+3083
+-
+-
+-
+क का कि की कु कूक कृ क्ल क्ल के कै को कौ कं कः॥ ख खा खि खी खु खू खु ख रुल ख्लू खे खै खो खौ खं खः॥ ग गा गि गी गु गु गु गृ ग्ल ग्ल गे गै गो गौ गं गः ॥ घ घा घि घी घु घू
+
+
+
+N
+घृ घृ घ्ल लू घे घै घो घौ घं घः ॥ ङ ङा डि डी कुछ दृ
+03
+Mal
+डे डै डो डौ डं ङः ॥च चा चि ची चुचू चुचच्ल च्ल चे चै चो चौ चंचः॥ छ छा छि छी छु छ छु छु छल छल छे छै छो छौ छं छः॥
+Asia
+|স্ব গুহূয়ষ্মীমন্থর ভঙিীয়াঙাস্বিীকারুঘহীন ব্যক্তিঝরুদ্ধকর
+से ले || 558858227६२४ । उहू ३ ४ 338 se] FARY x x 6 ||
+R
+ASH. मुखसमस्या
+हाविडीलाहाहाहाकाडोडोडोडाहत नगामिनीयमशीयागोगगहा नलानी गाना गावातीला की लीलाइन दादागिरीशीटोट्राटा
+६६६६६६६६४ ॥ ६
+॥ BAP
+A
+AM
+प्रश्न
+ARIA
+A
+.
+ISODEIO
+ASNTESS-
+| AE JUK
+-
+ज जा जि जी जु जू जू जू ज्ल ज्ल जे जै जो जो जं जः ॥ श झा झि झी
+भू झू झू इल इल झे झै झो झौ झं झः॥ अ आ जि जी जुनू
+ल ल मे जै ओ औ अं अः
+॥ ट टा टि टी टु टू दृ
+
+
+
+.
+-
+-
+द्र दल ल टे टै टो टौ टं टः॥ ठठा ठि ठी ठुइ उल उल ठे ठै ठो ठौ ठं ठः ॥ ड डा डि डी डुडू दृदृ हल इल डे डै डो डौ डं डः ॥ ढ ढा ढि ढी ढु दू दृढ दल दल ढे 8 ढो ढौ ढं ढः ॥ ण णा णि णी णु णू गृ गृ पल पल
+महादानावाचावयता स्वस्तिरीय सारस्वत उडादिनीवाटीईटात ददादिदीनदयावाददातावितगीतातागवानता
+ही से है IBAR BREAP BE || ?? है हु
+।। ३ है । कुछ दिन में है FEFREE
+1 1984
+14 1980
+जातागोतीताइन ततातितीवततततासातदेहात शादीचाहोनहा स्वादिलोदादेवादारदहत वावधानधाता
+HPUFFINAR BAR सवै ६० ॥ ६९ १९९२२६|
+Araga-141414
+1 998
+Tween the
+Kavsar
+Kareer
+honum ke
+HIKS
+LODSAUR
+DIEOwe
+ana
+ONSI
+ISevar
+:
+णे णै णो णौ णं णः ॥ त ता ति ती तु तू त द ल ल ते तै तो तौ तं तः ॥ थथा थि थी थुथूल
+थलु थेथै थोथौ थं थः।। द दा दि दी दु द ह दृ दल दल दे दै दो दौ दं दः ॥ध धा घि घी घु धू धू धूल. लु धे धै धो धौ
+
+
+
+धं धः ॥ न ना नि नी नु न न न न्ल न्यु ने नै नो नौ नं नः ॥ प पा पि पी पु पू प पृप्ल प्ल पे पै पो पौ पं पः ॥ फ फा फि फी फु फू फु फु फ्ल फ्लू के फै फो फौ फं फः ॥ व या
+15
+व पड
+व वहन ननानिनावनेनानानना ययादिबोटादारवादीबायोटाहत दादायिागी टाटासाट्टामाशादायोट्यायो दीदाइतबा
+|| देउवा पपू
+१९ ||
+१ ६
+थे । ॥
+विजयवादोहन तानिनुतनामातहत नमाभिमानभूमममममा मानमहत ययाशिवायसरायसवदीया
+है। सनी
+प
+व न मुवी में
+प्रेम
+20PTARP
+R ATHA I ghadana 1219183143132 ॥
+AM
+894
+Sisted
+eason
+रा
+विवी बु बु वृब्ल
+ब्ल वेबै वो बौ बंबः ॥ भ भामि भी भुभूभृ भृ भ्ल म्ल मे भै भो भौ भं भः॥ म मा मि मी मु मू मृ मृ म्ल म्ल मे मै मो मौ मं मः ॥ य या यि यी यु यू य य यल यल ये यै यो
+
+
+
+| m4
+-
+-
+.
+24
+यो यं यः॥ र रा रि री रु रू र र रे रे रो रौ रंः ॥ ल ला लि ली लु ल ल ल ल ल्ल ले ले लो लौ लं ला ॥ व वा वि वी वु वू वृब्ल ब्लू वे वै वो वौ वं वः ॥ शशा शिशी शुशूभृश श्ल श्ल शेशै शो
+योदाँदान साविकमगायो रहा लगानित्नीलालजलगाने नानोमन इन ववादिनीववादोतवाहन वनातिवाचतवनमा
+waii रस २३११२ २२|| HARYANANDNition | MunglandigeTAAAAAAAAAA
+51
+११५३3. 333 3 -
+14.45age
+|
+नोवा वाविधीवतमामयोद्यावीयवहा नमामिमीसबसस्त्रसमससा सोमसंहत सतादिनीनजानतदादतात कदादिदील
+AAAAAAAAAAAR बबबु ARE || 81 है १११११ १७ARAAT
+3
+"ई है । जन
+SSC
+ISHNA
+टri
+शौ शं शः ॥ ष षा पि पी षु पू पृ पृ ष्ल प्ल पे
+पो पौ ५ षः ॥ स सा सि सी सु स स स स्ल स्ल से सै सो सौ सं सः ॥ ह हा हि ही हु ह ह ह हल हल हे है हो हो हं हः ॥ क्ष क्षा क्षि श्री क्षु
+
+
+
+12
+क्षक्षक्ष ल ल क्षेसै क्षो क्षो क्षं क्षः ॥ क्य कक्लक । ख्य स्ख रुल ख्व । ग्य व ग्ल ग्व | घ्य घ्र घ्ल ध्व । जय
+क्लः । च्य च च्ल च । छय छ छल छु । ज्य ज ल ज्व । य स इल इव । भ्य ब
+--
+हाहाहाहाहादादशवादीदीशा अनिकायमाझ गारद्यानाबादला सकशामजज्ञा मानना नान
+थAAAAAAAPE | PAARE शाह जहा ।
+Birsana nee
+सास दादाजालझंवाददागवंशया सवतावाददाबावनबाटाहली गोलीहानायव
+aཉཱ། ཙྪཱ ཙཱ་གླུ། ནུ ནུ ཙཱུ༣ རྒྱུ བྷཱུ བྷྱཱ ཙྪཱ ཙྪཱ ནུ ཙྩཎཱཎཱ ཙྪཱ། ; ཏྭཱཏྟཱ ཏྭཱ། བྷཱུ རྒྱུ བྷཱུ བྷྱཱ ཙ5 རླུ རུ ཙྩུདྡྷཱནྟཱནྟནཟླ ནཱ། བྱཐཱབླག། བུ ཐུ །ཟབ་
+ब्लञ्च । व्य ट्रल दव । व्य टू इल ट्व । व्यहरला य द दल दव । ण्य णू ग्ल ण्व । त्यस ल त्व । ध्य प्रल थ्व । घद्र दल दू । ध्य ध्र प्ल ध्व । न्य बन्ल न्व । प्य प्रत प्व। फ्य फल पव । न्यत्र
+
+
+
+म्ल ब्व । भ्य भ्रम्लम्व। म्य म्र म्ल म्व । य्य यू य्ल स्त्र । ये रै ले वै । ल्य लल्ल व । व्य व व्ल व्व । श्य
+श्लव । प्य पू ब्ल व । स्य स्र स्लख । छ इहए। क ख ग घ ङ । च छछ ज इझ ञ । दृ
+ड ढ ण्ण ।
+TEE
+बझनक्षलवावासद्यालमा जनवादात्यवहवामानहानागाशवछहाराजाता।
+बावामा पाइNIPANIPATRINA
+Kews
+तहदयनयानमाANजामातारानवायद्यानाशाखाकामाला लावतात
+HERIMENERRIERTA
+I
+I ARY
+तथ हन्धमाप्प फ ब भ म्म। य्य र ल व श ष स्स हह । क्ष्क्ष।
+।न्छ अज्झ। ण्ट ण्ठ ण्ड ण्ड ।न्तन्थन्द न्ध । म्प म्फ म्ब म्भ । ल्क ल्ख ल्गल्य ल्ङ । ल्व ल्छ ल्ज ल्झ ल्ल । ल्ट ल्ठ ल्ड ल्ढ ल्ण । ल्त
+
+
+
+13
+ल्थ ल्द ल्ध ल्न । ल्प ल्फ ल्ब लभ ल्म । श्क ख ग घ ङ । श्च श्छ इज इझ ञ । श्ट श्ठ श्ड श्ढ ण । इत श्थ श्द श्ध श्न । ३प ३फ इव भ म । क ख ग घ ङ । च छ ज झ ञ । ट ठ ड ढ ण । प्त
+| স্বরধ্বন্যাত্মস্বস্বস্ত্রখাম্বম্ভষত্মীয়
+श्रय " मासूम
+का
+RRBERI
+शनायाच्यात्मट्स वादात्यावरूत्वातावहदताातवयनमाया वात्मकायद्यासमतावास्ता
+PRE४
+को
+वाया |
+YRFall
+AR
+-
+ब्थ ब्द ध न । प फ ब भ म | स्क स्ख स्ग स्घ स्ङ । स्च स्छ स्ज स्झ स्त्र । स्ट स्ठ स्ड स्ढ स्ण । स्त स्थ स्द स्ध स्त्र । स्पस्फ स्व स्भस
+ईतर्थ
+(भोट-मोङ्गोलयोः भ्र)
+
+
+
+द ध न । पर्फ ब भ म । य र ल व । र्श प स है । ई ।। के का? के ? कौ ? को ? । क क ख ।
+- can can
+न
+ले
+है
+प
+we
+फ
+। क्रांट क्स फ्फ
+ण त तु द्ध ध्व क्य
+क के ओं। फट । ओ
+a
+यातायात IN
+یوکو
+दवनाययावतमासानसातवीर राधाशाटासाट्याटागन तुइश्वका दानकर्क अयादामाम
+२६६) १६ को गौर
+में
+दला का शमा
+हालयात अामREDIBASNET समाचार
+डा . एरवणय
+।
+fashiARBायकायहरुमाधाना|
+१३३१ मा
+समानी ANYesमरमहाप]
+W
+37 Free
+HTri/well
+INS
+!
+Sense
+imajaausers HERE
+امام خمیع
+GANA
+Aregaynon
+Man
+اینیقیه
+एतungi
+مکالمجا..
+पर
+-
+-
+RSSHSREFERENo (reylha Wh)
+AREEFinarprd - ()
+स
+-
+-
+स्थ्द्ध
+॥
+क्ल्ड
+अ आ इ ई उ ऊ ऋ ऋल.लए ऐ ओ औ अं अः
+स्ह
+स्न्ल्व
+च्छज्ञ
+क ख ग घ ङ । च .
+Sunny
+प्पम्म
+মুক্ত
+इक्ष्म्य
+छ ज झ ञ
+ट ठ ड ढ ण । त थ द ध न
+प फ ब भ म । य र ल व
+श ष
+ही हा
+(त्रीणि रूपाणि)
+(द्वे रूपे)
+स ह । क्ष
+॥
+(पञ्च रूपाणि)A
+( भोट-मोङ्गोलयोः ऐ ? । चत्वारि रूपाणि) A
+
+
+
+14
+कका कि की कु कू
+का।
+कृ
+New
+क्य कक्ल का
+क ख ग घडः।
+अगायिका कविता
+वाकवाकी म STOTRATीका रूपगण्डे गायरेड ARTNE १५६५एगाव-pyapg
+SHAथा नदीमा १४वका कौन
+लोगोTARNO शारदे दार्माभित्यानुसार
+THAKTE HP कणे TER बह एR T A Ra या आ ग के लिपिक भी
+ISREE। मगरकप मोमणेरा स्खगा । राषपदपाही करणे गरी मनरेगावपर्णा पिकामगार कारगळepal
+NET साप मजगदिमागमापदला गरसेवकोपा गयरपगडदो गिरगारगमरवदिवशका गोवरपरको रक्षा र यापेको 'ull
+triya
+4
+.
+-
+RDA
+श्व ण्टन्त म्प॥
+क
+ख क
+ख
+पफ परफ
+१ १ क कर्क॥
+त प शौ न ध ट न्त
+ख
+के
+र्थ ? क्षा ल
+श्री
+जो
+ज
+ग
+किं
+शि खि कू
+यॊ ऽश्रु मंगलं
+
+
+
+=
+: وايو موحد ميعا
+جس کی اطلاع عمر.عمر
+عمرو حملكسر معلق .
+ال محرمرمعفرمليسول
+مصرعرفاموسا
+مهرآریستولسرومهرعمل
+سنممونشهرتش سوکرمرد
+معمعولیسمسر عربسکرا.
+حسر همسر مصر ||
+سعید موحدشة هوه حلی
+مرمرصوراسكسيهسيوم
+شعورهمسوسي برسم
+لو نامیده شد سعيد
+مومو مستمسور دم
+مصر مسرعمرعبد..راقي
+اشهرهمد مده..ا
+تا دمیرچینی حرمینتو "
+وعمهد.. عم محمد دهشو
+عن صهوتا هايلوسمسميا
+دبیرهوامو حاسوعا |
+بيمه ممر عمر معقمرمودید
+مهيسر عامملسورسمر مائة
+اما امرمود
+حهما ومامهمند مرسلسلهم
+و ترميمرخمرمرممککر نیا |
+مرمر.خريد وما سويمنعو منتو |
+کسی عموامرهم اهسقرد
+ممورومنسکسم.. کیسهدر
+ما معبر عصمرسرهفرخن..
+مهر سرخرود عرسكو
+محمدموسمو مساعد مدنی
+ایرمعممرود کا درمصدر
+معه من سنو نوع مر مشعر
+معلشحرمهماوللنووس
+مصوهرنكي د کیسو فرهن
+| سمر طاهامسر سومفعو عنها
+يكمن وامان مکدر کرد
+حسرحد معفرمرد سو
+پیرمرمر.. مبلمسامسهكر
+عصمصا بی بضد هشجو |
+استعما حرموسعة معاييفو
+شعبده بین مهد
+المصور صامولسمرفوعش |
+العشرون لسرتفيهو وعبر
+اكسيدعم کی سیرت محملا حر
+المعاهعمر بیسع عشك
+اسو يعربد له من حرم
+الموسمك تسعي ني سعمرم
+الامم المعمور رویہ
+
+
+
+। सह को
+Irrier-19
+مستوصلصه
+رولبرميمر معمر..كبرون
+سالممر عصر لايعرمرمين
+ओं ओं व हे न्त ते दी.
+वा म ज तु था पा म
+गी णि पा प्र ग १ हा
+श्व प णि म तो यो श्र
+रिये १ वा छ नि म
+मुं हूं ये हे व रो णः
+___ओं ध तु दत् ध
+र्मा न्ते * ए
+अ.
+A.A
+*
+
+
+
+15
+rtsi@atlanatal
+| ཨ།མཨཱ ཨཱི ཨཱཡུམཱུ་རཱཐཱསཱཨེཀཾ ཨོམཾ ཡཾམ༔| ཀའག གྷ ང ཙཙཛ ཛྷ ཉ། ཊ་ཋཱནཎ། ཏ ཐ ད དྷན བ བབ བྷམ།
+ས4,545 41 111334.4 34 4914
+34adita
+t tle??lesc.:ཀྱི
+ཡར ལཝ། ཤ ཥ ས ཧ །ཀྵ༔ ཀཀཱཀཾ ཀཱི ཀུ ཀཾ ཀྵིཏྟཾ ཀྵ ཀེ ཀཾ ཀོ ཀཽ ཀཾ ཀཁ འཁཾ འི ཁུའུ ཀྲྀ ཌྷ ཎ འི
+44d4.541， ༔ ༢ ° 8333
+༈ • ཟླgt
+
+
+
+Ironu
+हतबहागनागिनीमश्रगुनमगोगंगा माविनायवृदटावानबहान
+| | || ग सून में गुजगेगे # # गंग ॥ ११
+।।
+31 33११०३११११११११३ ३३३३३३३३
+वडामोडंडा वाविवाउवष्यवाहित मक्षिकामaaai
+२११६६२१११९६९| ४ ३४४४४॥
+xt.
+****** *
+* १५५44414
+-
+-
+-
+-
+-
+-
+-
+
+
+
+ফঃ
+অঞ্জন মিয়া ।
+*|| ংঃংঃৎধংংং! ঃঃঃঃঃঃঃঃঃঃঃঃঃঃঃঃঃ । ও ও ও ও
+4 444**প ঋ -4 সুখ খুগ্ধ [ ২ ৪
+মুয়ায়ী কহিহীয়স্বয়হইহইয়া ২২৪ঃঃঃইইইঃ
+৪৪ ও ৪ ৪ ০ ১ ৪ ২ ৪ ৪
+|| BB BBBBBBB BBB:
+## 3 44 43 44 44 4.4 884884 # {18
+১৫
+
+
+
+-
+"
+7
+ਭਗਉਤੀ ਭਗਵੰsਰ ਸ ਕ ੩੪ਰ ਗਿਰੀ ਗਰੀ
+ਅurz ਨੂੰ ਟੈ£ ਨੂੰ ??? ਮੈਂ77 : $ $ &$ਮੈਨੂੰ $ 8 : : : % # % ੬ ੬ ਨੂੰ ਝੇ ਝੈ ਝੇ ਝੈ £
+44 ਵੀ ਜੋ
+3 : 1, 49 $ $ $ 3 %% % 4
+ਗੰਗ§ਜੋ ਰਗ ਰਿਰੀਲਤਾ ਭਰੇ ਰੰਗਰ ਵੱਲ ਲੈਗੇ ਕਵਿਕੀਝ੩ਰੂਝਾਊਥਬੇ
+#F॥ 5ਝ ਨੇ 58 55 56 5॥ ੪ ਝੂ੪ ੪੩੬੩੩ ੩੪੩: 5:55 35 ਤੇ ਭੇਜੋ ਤੂੰ ।
+ਝੋ 149 331 ਪਿੰst $ 43ਤੇਰੀ
+-
+-
+ਇਸ
+-
+-
+-
+---
+-
+*
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+
+བRap tsi t a na pas
+དདོད! དྷ དྷཱཉྩནྡྷདྷབྷངྒཱདྷདྷིཛྷཛྷདྷ ནནཱནོནཱིནཱནཱཐཝནནི ནོནོནོན|| པཔཱ པཾ པཱི པུ པཱུམྲྀ
+tr44ནས་བསཾ༔ ༈ * 4 ;
+gaetan L
+a st assa
+ཟླ ཡྻོ པེ པི པོ པོ པཾ པ| པཝཱ ཙི ཝཱི ཨུ ཨཱུ ཝཾ ༔ ༔ ཤྩ པི ༈ ཙཾ ཡཾ པ| བ བཱ བིཧཱི བུཏྟཱ ཐཾབྷཾ É བྷྱཱབི བི
+**༔ ༔ ༔f * • • R ， *, ** **
+T
+ཏུ
+ནི
+-
+--
+-
+-
+-
+----
+
+
+
+H i asaཉཀtan
+བ
+གེགtan
+ཨn བོཙོ༔ བ! ggffཙྪབྷེབྷི ཉྙོ ཙྩོ དྷཾབྷ། མ མཱ མི མི མུམཱ ཡྻོ ཨཾ ཡྻོ ཨཾ མེ མི མོ མོ མཾ མt
+t .
+f :| ཏཱ བྷ ཝཙf 44 * f f ff
+བaa aaཀསhaft aue
+an aus
+ཡ ཡཱ མི ཡི ཡུ ཡུཝཾ ༔ ༔ ༔ ཡེ ཡེ ཡོ ཡོ ཡཾ ཡ༑ ར རཱ དི དི རུ ཛཱརཱཛཱནྟཱརེརརོ རཾར| ལ ལཱལཾལཱིལུལཱཝཾཝཱ
+ས4, ༣ ༔ ༔ +44 ༔ ༔ ༔ བཟླ ༢༣ ཉཱ༣ ཀ༣ སཾ༔ g44 4ཙr
+ya
+I to delle
+--
+
+
+
+a
+n
+སེ ti nanathas at
+༧ ཝཱལེ ལི ལོ ལཾ ལཾལ། ཝ ཝཱཝཝིའུ་ཝིལླིཙྪཱཝཝཾཝཱཙཱཙཝ| ཤཤཱ ཤིཤཱི ཤུཤཱཀྲྀཧཱུྃཤྩ བྷཾ ཤེ ཤི ཤི ཤི ཐཾཤ| བ བ
+** ti 1:༡ བྷབྷབྷབྷབྷཱཝནྟབྷ ཝ ཐཾ༔ .:18 དྷར་ F ii 1:;
+aaagsaཝཾan adཅ༠༡འགེatt Rallaalana
+h རྒྱུ རྀ ཊྛ ཥ ཎ ཥ P ༩ ཥ ས སཱ མི ནཱཾསུསཱུསྲྀགཾ སྶཾ ཨཾ ས སཾ ས སོ སཾས | ཧཏཱ ཧི ཧི ཧུ རྒྱུ རྒྱུ
+༢ ༣ ༔ , f པའི ༔ :i 1:} དེ ནེ དེ ཙེ ནེ ནི ནི ནི -i】 .44 44 fii
+བབ་
+༩བས
+
+
+
+18
+ewR
+上王
+引ainail M
+MJ51 动画 gan
+| 1255555 11 RR包食習更要喜当自言自百只:I| J入!四段1331 翌司
+| 按销量 .子了拿了了了 “
+中中 ”?? 2
+pinama ***Haiah 291H RIZA HAN SI aga ajali
+55
+1
+3 5513331138 13 (
+1引
+|登 對 第4等发音響24 24 3 21 到到到到
+乡乡-838
+فعند
+کنید
+
+
+
+cu asa : An a E
+2a a
+ཅུf ཟླཎ ཏཏྭཱཏཱཏཱ། བྦཟླ ། ཅ5 རླ༴། རྒྱདྷཱ ཙྪནྟུ། རྒྱནཱ ཎཱཧཱ། པྲཔ ཕྱཝ ཟླ། ༡བཟླ༔ བྷ བྷ སྒྱུ
+.48.44 ནྟི ༣4 4 14t 4 . #* 4ཎ* 4
+cqa44Jaa aa aaa aa aaar ཝR
+སུམྦསླ། ཕྱཝཡྻ ཡཱ། རྩ་རླཙཱ། ལྕཝལླཝཱ། ལྕཝ། ཤཐཐཤཱ། ༤༩ཟླRIཅསྲསླསྭཱ། ཅཧཱཏྠ ཧཱ། ཀཋ
+ནསྣ* ༣༣ ཟབ དུམ ཙ 34 ན་ནིཙྪ༔ ནི་ཌིa ན པd འགཾ ༣༣
+
+
+
+思
+到到到到到到到我調到到到到到到到很多
+༄༅།། རྒྱུསྒྱུརྡ། ཙྪཙྪ ཛྫf ཉ། ཊཱ ཙྪཱ ཙྪཱ ཙྪ།ཏྟབྷྱཱ ཎ ནྡྷུཔྤ སྒྱུ བྷྱཱ ཙྪཱ ཙྪ། ཡྻ རྣམཿ ཤཱཥཱཉྩ བྷ།ཥྛ། དཎངྒཱ
+44441339434*多多不.43f3..37.38
+到到到到到到到到此IPMAMA
+| Iss会象!三1等到到到到到到到到到安等多? ?????? ?199
+到,5903.1939-4ad 多多多多多多
+多 多多
+home
+G"主夫
+
+
+
+-
+-
+不到别和对其进料
+H皇引经学到???引自《马 到乌子分身X1 s = 1 GPS
+本子本手AAAAAAA
+AAA
+AAAAA3列式列式到还别说那日升到a
+月 1 分子富到母身分登到到到到警署警!”型到到到到到到到到到到到到
+
+
+
+19
+我又回到日本司只列只要31 日 月 4月到11月
+下手!否否定意于足下言15天45 百乏!五月天
+33 44333333333333333 313
+到教召五天五五身 等等的到动 3319184
+引言: || ttf 系而對百岁宫两W (13号 |
+是3: LEE $$ $ 1444 44 44 3.73
+
+
+
+3 多多多多引ami aa1 苏孟子墓司
+己!多多多多!FFF15531号到3点名言 有
+144.4444.4941314 圣主之家建立了
+司引进苏苏西哥 英每a 动动画
+重生
+Ove
+CEN.
+.عسلي
+info
+
+
+
+یه
+ادمیمرد
+نماید
+باس
+اه
+مادیو
+لمحصنا
+تمام
+OPHE
+جحا
+هما
+،لها
+متعلم
+Emadhnijom
+سهوله
+محرما
+
+
+
+ས་་་
+་་་་
+-
+-
+Ri laanf
+། །བྱསགསཨབཞུགས
+།
+
+
+
+ཐf ཤུ hapsཉྩཎྞཀfaཀྱིjitཉaaarhཊgmaaཀའamའུའ
+༄༅། །lས་སསི་སི་སསར་ལོཝཾཨེ ཨི་སོ ་སོ་སམ| ཀཁགགྷ གཙཚ ཛ ཛྷཉ།ཊ ཋཌཌྷ ཎ།ཏབདདྷན།པཕ བ བྷམ།
+.4བྲ, ༔ ༔ ༔ , 434 རྒྱུ རྒྱུ ་ དུབྲེའུ སུ || ཤྭ 44ཆ་ ཤུ ཤ,441 4:
+बननाबसाहा बामकिलोवाटकातीककोदोकोकादावादितावातावादावादा
+ཡརལཝ།ཤཋསཧ། ཀྵ། ཀ ཀཱ ཀིཀཱི ཀཱཀྲྀཏྟཀྵ ཀིའི ཀོགཽ ཀཾ ཀཉྩ། ཁཁཱ ཁི ཁུnཀྲྀཏྟཾ ཁྲིé ཁེ ཁེ ཁོ ཁོ
+འ༡༡ ༑ ཤུ ༔ ཡི ལི ཝི ཨི ཀ ཤཱ ཀི ༣་༡ ཀོ ན ༧ གྷ མ ཀ ༣
+
+
+
+-
+-1
+T༔ ཙི ཤི
+ ོ nlplinarii8tanfiimagyagamilieléilg
+༄༅། ：ཡོདཁ3༑༑ གགིཀཱི གུ ། གྲིགཽ jགིསགོགོ གཾ ག གྷགྷཱ ཨཱི ཨཱི གྷབྷབྷུཤྩ བྷཾ བྷེ ཀྐཱ ཉྙོ གྷཾ གྷ ངང
+ཎྞཾ ༔ ༈ ཧི མི ནྣཱ བྷ ནི མི ༣༧ བ བྷཱུ ཙེ དྷཱའོRa ༔ 1
+ཏྟིgབྱོཊྛགྷོཥྛ
+an2laaaaa32ཀི་ཀོཏྟཾatafflཀFཟླག
+ངོངོདཾ བ 8༑༑ཙུཙྪཱ
+རྩy ༔ ཙ༄༅ །། ཚཚཎཱིནཱཚཚུ ཆ་མཚོ་
+77
+༼
+༼a/
+/༥
+cies
+༦ . དo4
+༣འབR ལ ལོ
+F
+=
+
+
+
+22
+MANOARINA
+वाहननिदानासानहगार युगमागमनमोगा माना जातामाता
+वाभिमानी
+नानानानानांनाही दादाटीटीटाटाहाहाहाहाहाहाटी काहिलोहमारहा।
+998 हद हड ११११ तेतै है है है ॥ PORRER
+E 8
+aamanalin अअअअअयुयाय
+३३ जना
+-
+
+
+
+sitiঃঃঃঃঃঃঃঃঃঃঃঃঃঃৰবাৰীৰৰণীৰমীৰুৱরয়াদ।
+-9।
+১ ইং |ঃ ৪ ঃ = ৪ঃঃঃঃঃঃঃ ।। ৪ ৪ ১ ৪ ৪ {} }} }
+বন্ধুর সুক্ষ্ম ও মুয়ুক্কু এর খুঁজুন ব্লু ব্লু
+বিয়া বনানীন্তনুরাধাববাঝaaীৱৱৱৱহাৰীৰ
+#ཎ། ཏཏྟཱཏྟིཏིཏུཏྟཏྟཾཏྟཾ ཙྪཱ ཏེ ཏེ ཏོ ཏོ ཏྟཾཏྟ །། ཐ ཤཱ ཐི ཐུཉྫg ཐེ ཟིཐོབྦོ༔ ཐུ ༢ ། དདཱ དིཊཱི དུ དྷཱཛ྄ཛཱཊྛ དེདོད
+F}{14
+ঝুম্বু + 443 $$+বধুয়ু।
+AcA
+!
+
+
+
+--
+flaalaalaaaaaaméanཤnlཤེག]ཤ༡agཉཤཞིཀེhཀཾanneliana@aaan
+དོ དཾད།། དྷཏྟཱ དྷུ བྷཾ དྷུ རྒྱུ དྡྷོ ཙྪཱ ཙྪཱདྷེདྷེདྷོ བྷཾ དྷཾ དྷ།།ནཏྟཱ ནནྟི ནུནུfཎྞཾ ༔ ༔ དེཞིནཾ ནོ ནནཱ།། པཱ པི པདཱུ བློཔཱ ཡྻ པེ
+a4, ཐོ# བྷཱུ བྷཱུ བྷྱཱ ཉྙà བྷཱུ བྷབྷབྷྱ ཤྩ བྷཱུ བུ རྒྱུ $1444 4 - , ༧ ནྟི ནི པི
+༧mm༧aཎྜིགས་ཀmnཀlaཀmaz༧གོ ཀློའི ཝཀ2༄༅lའazཞིའའོན་ཀཾ
+པཔེངོཔཾཔ8།།ཡུg a@ཐུའུ ཤེཤ ཐོསྐྱོ ཧཱུཾཡ8།།བཱབཱབིཧྥུའུ འབུÉསློབེསིཔོཔོd,
+，
+，
+
+
+
+༽
+ས
+ཐ ?
+gef ཝནྟn བགཞིའianaཊིཀཚོཟིཙྪ། འགanlpཀpanཀm%8d diaཡི་
+» ༄༅། །བྷ༅། །བྷ བྷཱུ བྷི བྷཱུ བྷུ བྷཱུ བྷུདྡྷོ ཙྪཱ ཙྪཱ བྷེབྷེབྷོཉྙོ གྷཾབྷ| མལཱ མི ཨཱིམུཝཱ ཐོསཾ བློཎྞཾ མེ མི ནོ མོམཾམ། །ཡ༎ ཡི
+ཙྪ༔ ཙྪཱནཾ བ ་ ཀ ཀ ཀ ཀ་ནཾ༔
+ཟླ paཀhaཀཀཀྐོཀཀཀཾaཉིR འཁོནཾཀའི་ཀོནཾནྟina@aaa
+ཡཱ ཨཱི ཀློ ཨཾ ཡི # གྱི ནོ༎
+[ | ན ཤུ བྷྱཱ 14 # # ཐཾ༔་ཤa བྷ ནེ བྷེལ༢ བྷེ་ " * རོ ༈	–
+ܥ ܠܩܢܛܩܦ
+ep༧༧
+
+
+
+art@གནྟིn ༩ཀའaaaaaanཟློaཚོdattaaq93aཞིན་ཞགས་
+ལེ ལེ ལོ ལོ ལཾ ལ ། ཝཱ༣ ཝི ཝི ན ན ཝཾ ཧྥཝཝེཝིནོ ལ །།ཤཤཱཤིཤི4ཤ་ཟླཧཱུྃ ཤེཤེཤོགོཤྲཱིཤ ། །
+-****#༔ བ བྷེ འི ཤཱ ཉྙའི ཀྐི ཀྐུ $ནོརྣམནོ་ནི་ཟླ་ ་ ་
+सवाविधीवयंसबरवालोदीमा संसासिनीलमूसलनपालनमाला सहन देवादिनीददददद्वंद्र
+-- འི eཏུཏྟཾཏྟཾ #ཥཥི ཊ ཋོཎཾ ཎ །། ས། སཱི ཨཱི ཨུ སྐུ སཾཤྲཱི སྤྱི ས ས སོ སཱུ སུ I། ཧཧཱཧིཏྟཾ ཧུརྦg
+# ཧཱུྃ༔ ཤཱཤྩ བྷཾ
+༩ །
+
+
+
+པ་
+1-
+ལྔ་ར་༌་
+regn ཋཱཏྟིnfནཱཎཊཆ་མffdhཆ་ཆ་ཆ་#ཆ་ཆ་གོaཆ་གོང#al@inna22a
+བ། ཧེཧེཧོ ཙྩོ དྷུ བྷཱུ། ། ཁ ཟླ
+༄༅། །ཧེ ཧིཏོ ཏོ ཏཾ ཧ ། །ཀཱཏྨཀྱི
+ཌྷ ལྒ ཤྩ བྷཱུ
+༧ སྤྱི་ལོ ཙྪཱ ཀྐུ ། ། ཀྱུ ག གྷཱཀཱ།
+ཙྪཱ ཙྪཱ ཙྪཱ བྷྱཱ ཙྪཱ ཎ ' ! བྱཱ བྷཱགྷཱཀཱ། བྷྱཱ ཝཱ ཀྐཱ ཀཱ། གྲུ གྲུ གླུ གཱ། ཀྱུ བྷྱཱ ཀྵ
+ཟླ aཀཱཀྐ།གླི4%བློནtགྱིསpཨེཀཊཾཝགས་མན88ཎ་ཧཱུཾaan@ཏུཏྟཱཏྟཱ
+ཛྷ།༄༅༣a༣།ཁྱོཊ
+csor
+༡༤
+*u=F
+--
+1:༧༤༩༨ur,
+غالية
+
+
+
+，་ ，་་་ ༑ ༥ , ，,，.t ++"*
+:
+་༥
+.
+A༤༥༧འ**
+ཏAཀgA ༠
+༨ ༥ ས་
+ས
+--
+རྒྱུ
+གmaཀaaal@aalaaaalmaanaiaཁཱamma{@1444fགiad{ཤཱཀྐ
+ཎྞཎཱཙྪནྟ། ཏུཏུཏྤཏུ། བྲུབྦ ཐཱ། 5 དྲ དྲྭ དྭ།
+ད པྱ པྲབླུ པུ། བྱཐཱགླཐཱ།བྱབྲབླ བཤྩ བྷཱུ བྷཱུ བྷྱཱ།མྱམཱ ཡྻ
+ཀླtmaཀཾa{གཤཱaajགླིཤྲཱིཀྵa@གླིaཀཾ ཀཱནཱ ཉྙཀཱཤཱཀ24ི alཀRཀླ།
+༑ ། ཡ་ཡyངུརླར།ལ – འ།༼ཀླཟླ 2 །བྱ ཞྭ - ༑ - གསུ།ཅུཧཱཧཱཧཱ།ཞུ??pད།
+wc-7
+249
+-
+7
+-མ་
+حد وهي ( ما |
+་
+»ས
+བ》)
+ཆ
+|
+SSL༩
+ཀ
+-
+༣、
+ཡ
+
+
+
+हा माववादा गावातववाद्ययावनमानाबानाशाह
+GOPI ESBIBE FREE! सुचना!ARIA
+नाबाहानामगावावायग्रामबागवान बनातानमासिन बनाना
+INE हा भलमान
+
+
+
+པ
+-
+གlla@a d
+ལྦ །ཤཋཐབྦྷཉྫ། བྱཱ
+alཉྩalཆ་ ཀཉྩ །ཀྐཱ
+ཡྻ །བྦཥཱཤྩཊྚ ཤྩ།ཏྟ བློབྷིཥྛ །ཤྩ ཤཱཤྩཤྩ ཤྩ། Fཉྫ། ཝཱ ཎྜ
+g a
+རྟ[ཋ བྦེgཝ།
+-
+ཨཱ%%@#@#n@a@i༸གླིnཀླགདིལླༀགྷོml?anadaཀྐཧཱཀྐ། ཀློhaཀྐmft@naཉྙོ f
+ཥ g: .ལྔ། ཋ g#། སྐོསྐྲ སྒོསྒྱུསྔོ། སྡུ་ སྨཱ སྔ སྨྱུཉྩ། སཱུ ས ། སྟ ཧཱུ སྡ བྷཱུ བྷྱཱ། སྡུགྷ སྦ སྒྱུ །རྐུ ཆུ རྒྱུ བྷཾ དྲོ།
+1
+
+
+
+25
+A
+E
+45
+-
+हा कारावास सहा ताटामावतावादाचा
+| 13 का
+I 55 है।
+बाह बोह ह त यो दोहामानव अदुवा
+उहद
+HARPITS
+com-
+www
+HTRA
+www
+Hun ww.
+TA7www
+HE DOE MEANI
+KEE
+--
+L
+
+
+
+नाङ क्षक्षक्षक्षक्षा हानाहात मटण हा कथा हो हो हो त्री
+R7"
+HI7GARATAN |
+andu
+16
+नी जी म मा मा गा दो डा या हा
+याही
+.
+.
+.
+-
+Patantra
+Himcool
+నాకు
+
+
+
+یا
+نمیده ..
+បង
+بدورها
+پای
+ا غاني
+howکم
+قمصابهام
+کالاكبر
+المستمکین
+هاو
+العمووه
+325
+ܥܫܚܢܵܐ
+طمهای
+مستمساك
+الأموری
+و رسولدو
+سهالامورهم
+بممباسرویسها
+CALAM
+.
+امكم يهمل)
+م مالونشاركم
+باليمن
+
+
+
+26
+-
+-
+-
+།ཅnrཙལོརཀཚོ་བལ་བོདཧོར་གྱི་ཡི་གེ་དང་དཔེ་རིས་རྣམ་གྲདས་མད་བ་བཞུགས་སོ། །
+
+
+
+ས་
+jད་གག་པ་གསུམབསྔགསལབཅུདབསའལེ་བར
+ག༔ ཧཀཱས། ༢
+གོཝཝཱ
+དྷུ བྷཾ སཾཀཝཡདེཤརྒཔx
+ཨཱཙྪ༔ བཛམཨནྣཱ ཧཀཱར།
+ཀུན་བཅས་ཞིབདགཉིད་ཉིན་མོར་བྱེད
+།
+།
+༧
+།བློ་ལྡན་བསྐལ་བཟང་བསྟན་འགྲོའི་བོདྨོའི་ཚལ།
+།བློ་ལྡན་བསྐལ
+༤，•
+ས
+་
+
+
+
+-
+-
+ས་
+ང
+ཡཱཧཾ་མིཅིག་གིཐ་
+་མཁགའ་རབ་འབར་ཞེས་
+，
+༧།གྲགས་པས་མ་གསུམ་ལ་བོས་
+--
+
+
+
+ག ག ག
+ན སa༔ འག་ འགང ཀ་ འའབག་ འགག འགཊའང
+༄༅། །ནམོན་ཅཡཱ ཡ། ཨཨཱ ཨི ཨཱིཨུཨུརིཊཱལིལཾཨེཨི་ཨོWWW8 ཀ ཁགགྷར། ཙཚཛཛྷ ཉ། ༼ ཥཌཌྷ ཎ། ཏཐདརྙན། པ ཕ བ བྷམ། ཡརལཝ། ཤR
+ས ས མ ནཾ adelee@aa@gཀཏཾ བགག་ཀུནanཀག གདང
+སཧ། ཀྵ༔ ཀ ཀཱ ཀི #ཀུའུཊཾ ཀིཾཤྲཱིཀཾ ཀེཀི ཀོ ཀོ ཀཾ ཀ ཁ ཋ ཁི ཀྴི ཁུ ཝུའྀཏྟིཝིཏྟཾ ཁེ ཁེ ཁོ ཁོ ཁཾ ཁ ག གྷ གི ཀཱི གུ གྲུ ཀྐི ཀླྀ ཀྵ གེགེ གོ གོ གཾ ག གྷ བྷྱཱ ཉྙི༎
+འ
+སྒྲ
+s
+，
+-
+-
+--
+I
+
+
+
+z་
+ས་
+=
+=
+ང གཞི།
+ལྕགས དགཊབaཊིཊཀ་ཐོབང བ ཅརིགང་
+༄༅། བྷེཏིབྷོ ཙྩོ དྷཾགྷ། ད དྷ དི ངུ ཏུ ཛཱཙྪཱ དྷཱ དི ནི དོ དོ དཾ །, ཙ ཙྪཱ ' ཚནཾ སྨཙནུ*ཆ་ཚ*#*#ཙ།
+ཟས་ཚཝཙནང མག(ཁག་མང་བོ་རྦག གོམ་ལག་ཐག་ག་ཚབགྲིག་རྨོང ཁཀརྫོང་མ་ཎི༌
+* ༢༣ཛིནྣིཛཱརཱཛྫཛཛྫཙཱཛེསྡོ་ཇོ རྡོ ། ཛྷ ཙྪཱ ཙྪི ཙྪཱཛྫུ ཙཱུ ཙྪཱ བྷིནྟིདྷོ ཙྩོ དྷཛྷ། ༡ཥཱ ཉི ཀྐི ཀྐུ བྷཾ ཋིཏྟཾàཏེ ཉི ཉོ ཏོ ཉི༡། ཊ ཋཱ ཙྪི ཀྐི ཝརྟུ༔ བྷིཤྩ ཙེ འི ཊོ
+=
+༣
+.
+རྗེ
+»
+《
+
+
+
+-
+-
+मा स्थानमा स्वहिसार शनिदेव गायिलीला गाना गाया
+₹₹रा दिन १६१६६६६६६६६६६६
+नितानतीमतदातातना साक्षाaaaaaaaaaan दादासारवावा वाधवाश्वचषकावा नमानिनीर
+६.६ |
+Nigas
+། དདྡདཌ དུ དུདིཙྪཔཆ་དདདད
+7
+aaaaaaaadan
+।
+६
+ई
+KW
+2500
+LAAN
+in
+-
+-
+-
+
+
+
+: མགོངང གྲཊའཉྩཀཞིང བཀགནངམngམཚཐཚོ། འགག་འགྲོ་ བ་
+༄༅། །ནཱཚུཏྟཱནྟི ནེནནོནོནཾན། པཔཱ པི པུཔཱུཕྲིjབྦབྷཱིཔེཔེཔོཔོ པཾས། ཕ པཱ ཕི པི ཕུ ཨཱུ བྷཾ ༔ ༔ ཡེ ཕི ཕོ པོ ཡཾ ཕ། བཀྐབིབྷིབུསྦྲུབྦབྷཉྫབྷཱབཅིབོཟོསཾ། བྷསྨཱ།
+བཙོག་ བཀའ་གདོནཾ། འཊཁཚོ་ཀཞུgཀཀཚོགས་འོག་ གསང ་བ་
+བྷིབྷིབྷུཉྩཱཙྪིནྡྷིཤྩ བྷིབྷེབྷོབྷོབྷོ། མ མཱ མི མི མུམཱུཝཾཝཱམཱམཱིལེམི་མོསཾམ། ཡ ཡཱ ཨཱི ཨཱིཡཱསཱུཔྤེལྷིམྨིཡེཡིཡོ་ཡོ་ཡཾཡ། རནཱརཱིརཱིརུནུབྲྀཏྟིཏྟཊྛར་རི་དོདོ་རེར། ལསྣལི ལིལུཝུཝི
+--
+-
+
+
+
+gཀག་བསཾ། འགཙeaཝཚོགོ ག
+ནཾ ། གསཞཚཀའི་གནཾ། འགགགི་ཞཤིག་
+.|༧ལེལིལོཙཱལཾལ། བ བ བི ཧི་བུདྡྷུཔྤབྷོཊྛིཏྟཾཐེབི་བོ་བོཐོབ། ཤཤཱཀཽཤཱི ཤུ ཤུབྷིཤི@ཤེཤིཤོགཞིཤ། ཁ ཋཥིཏྟི ཥཱཛྫཊྛིཏྟཾ ཥཥཎོ ཀཾ ཥ། སསིསཱི སུསཱུསིཉྩིསྶ༎སེསིསོསོསཾས།
+ཊིཀཨཊྚ་ ཀཋའི ་ ཀཐརྗོདu. གནཊའི་ ཊའམའབ་ གཟང ང ང་ ཞཀུགས། »
+ཧཧཱཧིཏྟིཧུདྷུ བྲྀཏྟཛཱདྷཱཧེཧེཧཧོཏཾཧ། ཋཎྜཎི ཏིཥྛཀྑཊིའིà ཁེཎིཀྐོP#ཀྵ། ཀཀཀྑཀ| ཁ ཁྲཁྲཁ། གྱགགླགཱ། རྒྱུ བྷགྷཱ། ཅཔདྨ ] ཀ ཁ ག གྷཱཛ། ཙྩཙྪ༔ ཁ།
+，
+
+
+
+28
+No
+ན
+། ང མ ་ ག ང ། མཎང ཝུམ། ཀཉྩགང གས་ ག ང
+༄༅། །ཉྩ། རྫཋ ཙྪཱ དྷབྦདྡནྡྷནཾ། བྱ ཤྩ བྷཱུ བྷྱཱ མྨ། ཡ རྣལླཝཱ། གྷ ཥ སྨབྷ། ། རྐ ཎ རྒ སྒྱུ། ཝ ལྡ། ༈ É ༈ ཝཱ། ཉྩནྡནྟ། སྨྲ སྨྲ སྦསྒྱུ། ༣ ལྷ བྷགྷཱ།
+ཝ ཞ བ བཀག་ གི་ ང འག འགང ན ༌ ཤཝམཝཐུཊཞཝན་ ན མ འཛ
+ལྷ སྒ ལྷ། # སྒོལྷ། ༣༣༣ལྷཝཱ། ༈ ཎ གི་ ཌྷ། སྔ ཙྪ ནྣ ། སྟསྶ སྔཙྪསྣ། སྤ སྤ སྦ སྣམ། རྐ ཆ་རྒནྡྷནྡ་། ཚྭ ་ ན ཎ ན ཎ
+༈
+ཎོ
+A
+
+
+
+ཟབ་བ གས་འ ག་ ག་ བ བ བ བ་བི་ཝང། ཎང་ཚོ་ལ་ ཟག།
+༈ ཌྷ ཎ ཁ་ཐཧ རྟ ༔ ༈ ཀ ཀེ ཀོ ཀ༣ སྤུ
+ག་
+ངལ་ གསན། ང ར
+་
+ཙཱའི ནི ཙྪི ཧཱུཾ། ཀ །། ཨོwགུརུཙྪཱནཤཱསནསྱཱ ཙྪི སི དྷིནྡྷཾཏྟཾ | མངྒལཾ བྷཝནྟུ།།
+r
+。
+Corner
+ས
+--
+--
+
+
+
+་
+ན་
+ས་
+| * ཙམ།
+ཚེས ལས ་བ པ། ཐག མགཙཙན། བང ངའི་ ས
+ནམོ བུདྡྷཱཡ། ཨམཨི ཨུཨཱརཱརཱཝལཨེཨེ་ཨོཾཨ ཀ ཁགགྷ ད་། ཙཚ ཛ ཛྷཉ། ཊ ཋཌཌྷ ཎ། ཏ ཐ ད རྙན། པཕ བ བྷམ། ཡརལཝ། ཤ ཥསཧ། ཀྵ
+ཙ ཝཝའོ།
+ཝ
+འོ ས་ཤ༔ གམགི་གགན་ལོ་ག བགas
+ཀཀྐ ཀི ཀིའུཏྟཀཾབྷོཊིཏྟཾ ཀེ ཀེ ཀོ ཀོཀོཀ། ཊ ཋ ཁི ཞི ཁྱཁྲུ ཋིRཝཏྟཾ ཁེ ཁེ ཁོ ཁོ ཎཾ ཁ༔ གགྷ གི ཀི གུ གྲུ གྲོ%É གེ གེ གོ གོ གོག། བྷ བྷྱཱ བྷི བྷིཤྩ བྷཱུ
+»
+གོ་
+ཎི
+:
+སྒྱུ
+བས་
+
+
+
+I
+་
+མ
+ས ་
+། ཨ ཨཱཝཝ། གཙམ ཙl
+བྷགྷོ ཛྷ བྷ བྷབྷ། དནྣཱ དི ནི ཅ དྷཱཛཱནཾ དེ དི དོ དོ དཾ ད| ཀྱ ཀྲ ཀླ ཀཱ། ཁ ཁ ཁ། གྱགྲགླ ཀཱ། རྒྱུ ཀྵ ཀྵ ཀྵ། ཅ རྔ རླ ཛཱ། ཀོ ཎ དྷ སྒྱུ། ལྕ༣ |
+ང་ གས་ ག ང ང བ ས ༌ས་ ་ ་
+ཎ 4f། ༈ ༔ རྡ། སྤ སྤ ཧྥམྦྷ། ཥ གྷ གྷ ། ༈ བྷ ཎི། སྐ ཥ སྒ སྒྱུ། སྐ ཋ སྒ ལྷ། སྦ སྶ སྦསྒྱུ སྨ། ཁ ག གྷ ། ལྕཚལྡ། ༈ 2ཌ ལྷ། རྟ ལྦ
+ལྷ་
+ལྷ
+པ
+--
+--
+----
+---
+
+
+
+•
+་ བ ང མ ་ 51 ནས་ རྐྱེམས། ན ་ མ བགཾ ནཟླཝཱ ཙ ༩ ལོ
+J༄༅། །༣། སྤཝag ན ཎ ན རྒྱུ ནྡ། ཙྩཉྩནྡ ] ཌྷ ནྡྷ ནྡནྡྷ། ཧྥ ༔ ༔ ། ན ཎ ན བྷ། ཀྐུ ཀྵ ཛྷ ན ཎ ཤཱ མངྒལཾ། བྷཝནུ། བུདྷཾ།
+རམི་ང
+ཀན
+ཀབ། ( ག གང འབག གཞུག འགང གང་ག ག ང
+།ཨཨིༀཨུནུརལཝཾཨེཨིཨོWལཾཨ ཀ ཁག གྷར། ཙཚཛ། ༢Pཌཌྷ ཎ། ཏཐདརྙན། པཕུབབྷམ། ཡརལཝ། ཤ ཥསཏ། ་ ཁཀྵ P ཞི
+B
+
+
+
+，
+ནས༔ ct ༧ཀོམི་རའི་ཡི་གི་
+་ ག ༦ མཉཎཎ༌ཊཾ་མཾasleཁག་གཞགuའ་ བའ་
+ཁཞུཝ༩Pཁོལོ་ཁཾ ཁ ཁྱ ཁཀླཁ།། ༄༅། །མོསཱནྟིསིདྡྷཾ། ཨཨཱམཱིལཱི་ཨུ་ཨུདིཀྐཝནྣཾཨེཨིཨོ་ཨོༀཨ།། ཀ ཁ ག གྷར། ཙཙ(1|
+མ ་ ་ ། ངག་ག
+གནཊི ། ཙ གངང / ན་ག་རའི་ཡི་གེ་ གཏོག
+•ཌཌྷ ཎ། ཏཐདརྙན། བཝཐབྷམ; ཡརལཝ། ཤ ཥམཧ། ཀྵ།། གཤཱ གི ཨཱི བུ གྲུབྲྀཧྥཆ་ཚིག་གེགེགོགོགོག༔ ཆག གླཧཱ།། ༄༅། །ཨནྣཨིསཱིཨུམཱུར།
+-
+
+
+
+བ
+རྒྱུ
+པ་
+cous
+ན
+ས བ ས
+། ། མཁན་བགང སང གཟའབག་ གསང་བའི་མཎྜadlགི ༔
+jལ༹ཨེ་ཨི་ཨོ་ཨཽ་ཨཾ་ཨཀ ཁགབྷར། ཙམཛདྡྷཾ། ཌཎཌཎ། ཏཐ དརྙན། པ ཕབབྷམ། ཡརལཝ། ཤསཧ། ཀྵ གྷ བྷྱཱ ཀྟི ཀྐི ཀྐུ བྷྱཱ བྷཾ ཀྵ བྷེ ཀྟི གྷོ ལྷོ
+ཀ ་༧ པ་དྷཛྷདིཡི་གེ་་། བགཝ
+ཝསྣ། ཊ་བྷཙལ། འབང འགང གE
+བཀ ༄༅། །ཨཨཱ་ཨི་ཨུཨུརིཝཱིལ༹ལཾཨེསི་མོ་མིe ཀ ཁགགྷད། ཙཚཛཛྷཉ། ཊ ཋཌརྣཎ ཏཐདརྙན། བ ཕབབྷམ། ཡརལཝ།
+f
+་
+
+
+
+དང ཚགསྨ༧ གོ་ལའི་ཡི་གེ་ཊt ཝཊིའིཅནུསྶ་ཚཙཝཾཝཝt གཙམོའི ཅུ་གང་
+གཥམཧ། ཀྵ དདདི དི དུ དྷུ ཙཱ༔ ཛཱཛཱ དེ དེ དོཙོ ༈ དུ། བྱངརླང། ། །ཨནྣཨིནྡྲིམཱུརནཱལ༹ལཱམེཨེ་ཨོ་ཨཽ་ཨཾ་ཨ། ཀ ཁགགྷད། ཙཙཛཙུན།
+གས ལག་ ས བ ན ཚཙ
+ཎཾ༔ དང ལམརྐོ་ལའི ཡི་གེ་༽[ ཕཊར་
+༼ཉཎ ཏབདདྷན། པཕབབྷམ། ཡརལཝ། ཤཎསཧ། ཀྵ ཙཙཱཙིནྟིསུནྡྷཙ*****ཙི ཙྩ#*། ་་དེ༄༅། །ཨནྣཨིཨཱི ཨུw
+
+
+
+30
+js ༣ བ བྷ མེགོ ག༔ གགནད།
+{
+ཊ ཋ ཌ3ཎ ཏཟདདྷ ན། བ་ བ བྷ མ ་ ནས། །
+F tr ་ཙི&
+མ་
+ར ནབཨེ་གོམོ། ཁག་
+
+
+
+ས་ ང་ ་ བ བ ག་ག་ཎ ཆ་རྒྱུས་ ཚུ་ ག ང / གྷ་དུ་ནའི་ཡི་གེ་
+ན། ཊཌཌྷཎ། ཏཐདརྙན། བ ཕ བ བྷ མ། ཡརལཝ། ཤཥསཧ། ཀྵ ཛཛ ཛིཛི ཛཱཛཱཛ྄ཐཱཛ྄ཛདེ ཛེ དོ ཇོ ཛ ཛ ཛྷཱཛཱ། ཤུབྷམ།།
+•་ འདུང ་ འ ས ས དགག ས ས བ སྨག་གིཀ
+༄༅། །ཨ་ཨཱ་ཨཔརིཨུཨཱརཱརཱལཨེཨོམོཨོཾཨ ཀ ཁགགྷ ད། ཙམཛཛྷ༡། ཊ ཋཌ ཌྷ ཎ། ཏཐདདྷན། བཕབབྷམ། ཡརལཝ། ཤ ཥབཏ། ཛྷཙྪཱ བྷི ཛྷོ ཙྩ བྷཱུ
+.
+༨་
+
+
+
+--
+ག ་གས ་ མི་རའི་ཡི་གེ་\་ བསྨནཱཐཱ༠ཛིའིwst ཊབས། ཐ་མ། བསt
+༄༅། ། བྷོ ཙྩཛྷཙཱ།་ དེ༄༅། །མམ་ཨིསཱིཨུཨཱརནཱལཱལཾཨེ་ཨི་ཨོ་ཨོ ཨཾ ཨ། ཀ ཁ ག གྷད། ཚཛཛྷ༡། ཊ ཋཌརྣཎ།
+ཆོས
+ས་
+ལས་ས ང ཀ་མ་ཏའི་ཡི་གོ་ \ ་
+ཟདརྙན། ཕཕབབྷམ། ཡརལཝ། ཤཥ་ཧ། ཀྵ ༡༣ ཉི རྒྱུ ཀྱུ ཉེ ཉི ཏོ ཙོ༡ ༔ ༔ a
+ཧཱ ་ ཙ༄༅། མw
+
+
+
+•
+৩৩
+ও ৪ এ খৰা মন যা ওই
+ཨིཀིཨུབྷཱུརརོལཙཱཨེ་ཨེཨོཨོༀཨ ཀ ཁ ག གྷར། ཙཙཛཛྷ ཉ། ཊ ཋཌཌྷ ཎ། ཏཐདདྷན། བ ཐ བབྷ མ། ཡརལཝ། ཤཥ-སཧ། 2 ཊཎ འི ་
+མ ས ཙམru / པུ་སྐམ་གི་ཡིགེ་\ ས ས ༢ལ་བཞིའི་དཔེ་ཁུངས་མ་རྙེད། མེ ལ ཁ་ཆོས r
+༈ ཙོཎཾ ། བློ །
+དོ༄༅། །ཨཨཱཨིནྡྲིཨུw།
+ཨེ ཨེ ཨོ ཨོ ཨཾ ཨ ། ཀ ཁ གགྷད། ཙ4 F
+
+
+
+3|
+«ས ས ས འག ཁ་ཐོག བགམ བུ བོn ཟླ། ་ཞིག་བྱེ& །n Auདམཚོ རིགེ་
+aཚ། །དཙ༡། ཟ༼ཌྷ ཎ། ཏཐདརྙན། པཕབརྙམ། ཡརལཝ། ཤཥསཧ། ཀྵ། ཊ ཎ ཊཾ ཙྪིནྡྷ ཎེ ཎི ཊོ ཊོཊཾ ཊ [ ཐོ༴ ཟླ།
+ཨ ་
+ཀཾ ་ ལཊ ཆེ་ 1 «ཙl ntག ག ག ༌ ་ཟ
+བ །ཨཱམཱཨིཨུརིཛཱཐམེཨི་མཾw། ཀཁགགྷད། ཙཚཛ ཛྷ3] ཊཋ༼ཛྷཎ། ཏཐདརྙན] པ ཕ བ བྷལ། ཡརཱལ ལ། གཥསན། ] •ན།
+j+
+་
+
+
+
+---
+ཚུ ་ འོང་ཁྱེར་ཕལ་ཡི། ། གཞནཎ་འོས་ གནང ང་ ་
+a aa4a2 Fin Banal
+ཨོནམས་ངལ། ཨཨཱཨེ@ཨུཨཱཙཱརཱལཾ ཝཾཨེཨེཨོཨོༀཨ། ཀཁགཉན། ཙཙད། |
+ག ག་ གས་ ག ང་ དམ ༼ཁལ་བོའི་ཡི་གེ། ༢ དང ཐབ་ཚེ ན
+༼ཉཎ། ཏཐ དརྙན། བ ཕ བགྷམ། ཡརལ ལ། ཤ ཥསཧ། ཀྵ།
+ནམོ ཝ ཀཱིཤཱ ནཱཡ། ཨཨཱཨིནྡྲིཨུཨུདིརྟསཾ ཨེཨེཨོༀ་ཨཾཨཀ
+，
+，
+
+
+
+-
+ས་
+ས
+-
+མི་ངངས ཅན་ ཊས། གal ཙམ ། ཆོགལེའིཡིག་གསར། ག་ལག་ཎ༌ ས་ •།
+Jཁགས ། Fཌབྷཎ། ཏཐདརྙན། པཕབོབྷམ། ཡརལཝ། ཤ ཥསཧ། ཀྵ།
+དོང༄༅། །ཀ་ཁག་ར་་། ཅ་ཆ་ཇཉ། ཏ་|
+བས བཀམ་ I uཐང་མས བས་ མ་ བ་ a འཚོ་། འགོས་ལོའི་ཡིག་གསར་ འཆུས་ ས་
+ནཱ ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། ཀྱལ ཀྲ། ཀི་ཁུ་གེ་ངོ༌།
+༄༅། །ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ།
+
+
+
+༤
+ས ་ཚ་ས ་ག ན་ས ང ་ ། བཞི་བ་གམ་ནས་བཟལམ། 3i་
+|ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། ཀ་ཁྲ་ཐ། ཁ་ཟླ་མ། འགྲོ་ལ་ཕན་ ཕྱིན་ སངས་རྒྱས་འགྲུབ་ པར་ ཤོག། དགེའོ།།
+སོགས་ལོ་མིག་གསདིང མ ༌མ་ གལ མ ་ས ད ་ ངས ་
+༄༅། །ཀཁག། ཙཆརྡཉ། ཏཟདན། པཕཔཱ མ། ཙཚདོལ། ཞཟ༢ཡག རལཤས། ཉཨ། ༡ བྱཙ] ག ཁམས། ཀི ཁགེའོ།
+-
+
+
+
+32
+，
+མཚར་ཡིགགས། ་ ག་
+ན་ ས་ ཝགས ཊམཁག་གས༽རམ་བགག བགོs
+༄༅། །ཀ་ཁ་ག་ང་། ཅཆ་ ཇ་ཉ། ཏ་ཐ་ད་ན། པཕ་ བ་ མ ཙ ཚ་ ཇ་ཝ། ཞ ཟ འ ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། ཀི་ཁུ་ གེ་དོ།L
+མས་དོདགདན་ཡིག་གསན།་ ག་ཝཱན བབས་ ས༌ བ ཅས བ ཚེ་རྨ་བན ག་ས་ མཆད་
+ཀཆ་ཀ་ཀ།
+༄༅། །ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ ཕ་ བ མ། ཙ་ ཚ་ ཛཱ་ ཝ། ཞ་ཟ་ ༢་ པ། ར་ལ་ཤ་ས། ཧ་ཨ 1
+མ
+
+
+
+༣
+གས ་གོངོས སོག ས ་ གམ་ཞེས་ཚང་གི་བག་ངོས རྒྱུཝ་བྦཾནས་བབས་འོས/མ་ཡཾ་ཀླུ་ཚེ་ཏེ་
+ཀྱ་ཁྱ་གྱ། ཀ་ཀ། ཀི་ཁུ་གེ་ངོ། དཀོན་མཆོག་བརྩེགས་པ་ལས། སངས་རྒྱས་ཆོས་དད་ དགེ་ འདུན་ཏེ། སྐྱབས་ཀྱི་ མཆོག་ཏུ་གྱུར་ པ་ ཡིན།། རང་རྒྱུད་སྣདབ་
+རྩོarསggaga ན་༧ རིན་སྤུདས་ཡིག་གསར་ཚ) རྣག ཆོད་
+445 544 uy tugusưu 14 USB và
+A
+, * * *
+
+
+
+ཚ ཐ1= ཙབs ༧༠ ༤ _HunHHIFIEIHRIHuHIཕགསོར་རེས་བསྐོར་བར་
+ཨ གི དེ ནོ ཞུ ཡ ར ལ བ མགོན་པོ་ ཁྱོད་དགོདས། འགྲོ་དོན་ སྤྱོདས་མཛོད། །རྒྱ་བ། བྱསེརཔིར་
+MI ཐོགས་མནབྱས་པའི་ཡིག་གསར།
+ཟངས་ ༧ཀཀཀྱང གཤཞཞང ཞaཋས། ཕབ་
+ཧ
+།
+མ
+༥ +
+E
+ས་
+ངོ
+་མིང་་
++
++
+
+
+
+1
+-
+-
+--
+-
+-
+-
+-
+-
+|
+ang
+Edox?
+i Refore
+asurinn
+when
+अरस
+Distans
+.
+powerpse
+!
+MIGUINTUVES
+RULANDSIN
+NUUSKIE
+I
+bep 19 D 3
+W
+bandoneonin gorundande
+Y
+t
+t
+.
+.
+.
+.
+.
+.
+.
+.
+42
+.
+
+
+
+33
+-
+둘
+ས།
+TI
+མགོ་ མ་ གི་
+[pp/
+བྷཱ
+གཉིས་དཀྲུགས་ བླམགད་དྲི་ནམག་ཕྱུད་ཡཉབ་ནཐརནམྱགཤ། /གསུམ་དབུགས་\ཏབྱཀཨརྡབ་སྦཚོ་ཀཇུག་སཀ་ཞཏོཏ་ཞཙོས།
+།སྨྲ་བ་དག་གི་དབང་ཕྱུག་འཇུམ་དཔལ་དབྱཱདཱས།
+དཔཱལ ་ དཔལ་ལྡན་ཚདསཔསྡེ་བཞིའི་བང་མཛོདའཛིན། །འནམའིམདའ་བདག་རྣམསཀྱིས་ཤིས་བར་་་་
+རྩོཧ།བཅོ་ལྔ་དཞུགས་སམ་ཕྱེད་དཀྲུགས་སོ། །ཟི་སྤྲུལ་ལུ། ལཀ་ས་བྷཀབཤིཙམཉཞེ་ཀིམྱ་ཆེད། །ཚད་ཡེམམཉ་ཨཔ་ཙབ་ཤིལཱཛེས་་་་་
+ཇི་སྐད་དུ། མ པ་རྣམས་ནི་ཁས་འཆེ་མི་བྱ་ཞིང་། །གལ་ཏེ་དཀའ་བས་ཁས་ནི་གླེངས་གྱུར་་་་
+\ཉམའ་ཉཏ་ཞཀརཏ་བནཡི
+་ ཏེད༠༢ཉམ ཁུག་ལ་གནད་འབའ་
+དག བལ
+ཚུལ།
+
+
+
+ཤ། །བློ་ད་ཐི་ཀོ་ཡིབས་བྲི་ཨཆིགལུ། །ནི་ཏཛ་ཚནཤལུ་ཨབྦེལ་མཐཚད་ཉཙུབ།། ༼ཨད་ཡིག ༽ ༡༡༣༢༣་༣་ཙཱ་༡༢་༡༠༣་༡༢་༡༥༣༨༡༡༡༢༡༠༢་་༢༣ ༢་༣༨༡༡་༤། །ཊྛཔ་པྤ༤༡ས
+ན། །རྡོལ་རིམོ་བྲིས་བ་བཞིན་དུ། །ཞི་ཡད་གཞན་དུ་བརྗེད་བར་གལ་འགྱུར, ་ དགའ་ ལྡན་ ཟློག ཆེན་ བསོད་ ནམས་ ཆེན ད རྨོར༌། ཟླ་ ཟེད་ བགེ་
+དཔའཛ༡༥༢༡༣༩༡༢་ཉི༤ཀསྶ༤༡སསའ། །༡༠༢༡༢་༡༡༥༢༡པའཉྫི་རའི་༢༣ཉརོ༢ས་༣༣་༡༥༣༧༡༢་ས༤། །༢རཀྵིམཱ༡༡་༢༦༣༢༢་༡༢༣༢༨་༡༡༡ཙཤཱས་༡༦༡ར་འཙལྟས་༢4ཏ༧༢༦༢༣།
+གིས་ བསམ་ གཏན ཕོ་ ཟད་ བཅས། །བསྟན་ དར་ འགྲོ་ བའི་ ཉེར་ ༢ཚོར་ རྟག་ བརྟན་ སྲིད་། །ཆོས སྲིད་ ལེགས་ ཚོགས་ དབྱེར་ མཚོ་ ལྟར་ འཕེལ་ ཤོག
+
+
+
+%
+པ༑ བག་
+༄༅། ། #
+f
+$
+%
+%
+$ སྦྱོ#
+$ %ཏི། ༡། * #
+ལྷོ༽ཏི
+གཙུག་ལག་ཁདདུ རྒྱུ རྒྱནག་ 4tགི་མཁན་པོ་ཐན་ཐན་ གན་
+དར་ ་ མཐུན་ ། བར་ བསྒྱུར་ ཕབ། །
+% !
+་
+ཤིས་
+གཟན་ཡར་
+འགྱུར་ལྷུན་གྱིས་གྲུབ་
+༥༥
+རྟ་
+འི་ ཡིག་
+
+
+
+དུ
+ས་
+ews
+སུ་
+ཙབའི་ཙབ་
+ག་
+( 4
+)
+-
+
+
+
+34
+ར»བན་བ
+)
+4
+E་
+ག ་༌་་
+་
+i་
+1:15
+འདུའངོས་ བཅུའདུན་
+ང་
+Dss
+ད་
+པ
+དོ་
+འགདཁབམནབའི་དགེ་
+ག་
+མ་ད་
+་༌ ཙམ་
+
+
+
+ཆ
+ཏུ
+ཀ༽ འཇི་ནི་འབྲལ་སྤངསབསྐྱེད་པའི་དཔེ་སྟེ། ཡལ་ག་དང་ཡལ་ག་ཕྲ་མོདག་མ་རེག་པ་ནི་གནས་ཐ་དད་པ་ཉིདདོ། །ཅེས་བཏེ་ཡལ་གཟུ་མོ་
+ལ ་དགེ་སློང་བསྣད། ཡལ་གལ་ཆོས་གོས་བཞག་པ་ནི་གཡས་ཀྱི་འདི་དང་། གཅིག་ཤོསགཡོན་གྱི་འདིའོ།༼ཁ\ འདི་འབྲལ་སྤངས་མི་བསྐྱེད་པའི་་་་
+མི
+་སྟེ། ་བ་ནི་ཐུན་མོང་ངོ་ཅེས་སོ། །དེའང་རྩ་བ་ན་དགེ་སློང་བསྡདཱ དེའི་ཡལ་ག་ལ་ཆོས་གོས་བཞག་པ་ནི་གཡས་ཀྱི་དཔེ་ཡིན་ལ། དེ་ལས་བཟློག་
+་ གཡོན་གྱི་དཔེ་ཡིནནོག་མི་བངའབུལ་སྤདམ་མི་བསྐྱེད་པའི་དཔེ་སྟེ། རྩ་པའི་ཙ་བ་ཡད་དོཙེས་སྦྱར་རོ། །ཅེས་པ་ནི་རྩ་བའི་ཚུབ་ལ་དགེ་སློང་བསྡད། ཡལ་ག་
+8 MEL ༧ ལ་ཆོས་གོས་བཞག་པའི་དཔེ་ནི།ཡས་ཀྱི་འདི་ཡིནལ། བཟློག་བ་ནི་གཡོན་གྱི་འདིའོ།། ང་༽ འདི་ནི་འབྲེལ སྤདས་མི་བསྐྱེད་པའི་དཔེ་སྟེ། རྩ་བའི་ཙགལསོགས་པ་ཡང་
+“འོ། །ཞེས་པ་རྩ་བའི་རྩ་བ་ནས་ས་གཞིའི་བར་བཟུད་རྡོལསོགས་བར་ཆོས་གོས་བཞག །དེའི་ཡལག་ལ་དགེ་བསྡད་པ་ནི་གཡསཀྱི་འདི་ཡིན་ལ། གཡོན་རེལ༌ལྡོག་པའོ།།
+=
+-
+-
+
+
+
+ས
+མཐོངན་སྟོད་དུ་ཁར་ཚ
+-
+ཆེ་བྱའོ་ཡདན་དཐོག་ཏུའོ། རྫགཉིད་བྲོ་
+= ]ནགདོས་བུགདགྲ་
+འT
++-
+，
+E
+བརའོ་ཞེས་བ་ཟླ་
+-
+--
+ཇུས་དེབཅག་བར་
+བས་
+-
+༤
+
+
+
+༢
+༣ རྩིག་མང་རིམ་བ་བདུན་ནོ།།།
+iu
+-
+--
+---
+-
+Eཟླ་
+འལ་ བན་ ག་
+ལ༩@་སའི་ཁྲི་གྲུ་བཞི་ ་ ེ ཕ་
+] བྱའོ་ཞེས་པའི་ཡོ་
+་
+བ
+
+
+
+35
+•。
+，
+རིས་ཚགས།
+མ མིསབ་ཞབས།
+།
+༄༅། .…..དགསE
+བའགྲེལ་ར་གི་ལུགས་ཉེས་
+E
+་
+གསལུགས
+，
+• ་
+，
+S Q 7.1ཙམ་བུམ་དག
+[Sཡད་བསལ་ཚོགས་སྒྲུབ་ཀྱི་ཐུགས། །
+7ལུགས་གཅིག།
+ཐོག་
+I
+0
+，
+|་
+བཞིན་ཡག།]རྣམས་ཞེས་
+གཅིག་གོ།
+ས། གོང་མ་
+བའད
+་
+..
+-
+--
+ཚད་མཁས་བའི་
+ལུགས་དེ་
+སྐྱའདིའོ། རྒྱུ
+
+
+
+• བད
+oཛ་
+དཔེ་རིས་འདིའུ་སྟོན་གྱི་ལུགས་ཡིན་གྱི་མཚོ་སྣ་བའི་དགོངས་བ་ནིགཞུན་ནོ།།ནག་བོཐམས་ཅད་
+་ ད︽ད ༩
+ཞགམིཐུབ་པ་དང་། དཀར་པོཐམས་ཅད་ཐུབ་པ་ཡིན། དགེ་འདུན་གྱི་གནས་བརྟན་གྱིས་སྨྱུག་》 ། ཚེ
+མ འི་ཐུན་མསྐུད་བ་ལ་རྒྱུས་བ་སྤོབས་ཉི་མ་བགྲང་བར་བྱའོ་ཞེས་པ་ནས། དུས་ཚིགས་རྣམྦ ༌ བ་གུའི་ལྷམ་
+གྱི ་ཟླ་བ་ཕྱེད་ལུས་པ་ཉིདལ འོཞེས་པའི་པེ་རིས་སོ།། སཇའ་ཁོབ་ཏུ་མཆིལ་ལྷམ་དག་བཅའ་བར་བྱ་ - ང། གྱི་རྣམ་གྲངས། «་
+ཞེ སཔའི་དབ༽ རྨཚིལ་ལྷམ་དྲི་བོལམེད། བོལཀོ་བ ཅནནི་མི་རུང་བ་ཉིད་མིན་ནོ་ཞེས་པའི་ཡེ། རྒོལཆབ་ ༔ :
+དོམཀཆགས་པའི་ཡུལ་དུ་ནི་ཞྭ་དང་ལྷམསྒྲོ་གུ་ཅན་ཡར་ངོ་ཞེས་པའིདཔེ། ཟི་གུའང་རླུང་ཁྲག་ཅན་ཡིག སྤྱིནབསསོ་ཞེས་བོན་གེ་ཁོའུ་ཆུས་རྒྱུན་དོ་ཞེས་
+ར་བླ་
+བདྲེན་ཚུལ་
+བ
+ས
+'
+C
+པ
+
+
+
+༄༅། ། འདི་ལྟུང་བ་མི་བསྐྱེད་པའི་དཔེ་སྟེ། ཡལ་གདནལམ་རེག་པའི་ཤིང་སྔོན་རྣམས་ནི་གནསགཅིག་ཉིད་ཡིན་ནོ་ཞེས་སོ། ༼ཚ༽ འདིའང་འབྲལསྤྱས་མིབསྐྱེད་བཞིནཔ་སྟེ། སོ་མ་་་་་
+ཙ ཐོག་མར་དཔྱད༌པའི་སྟེང་གཡོགས་བའའའོ། །ཞེས་བའི་དོན་ལ་རྒྱ་འདུལ་ན་རེ། པུ གུ་མེད་པའི་སྟེང་གཡོགསནམ་མཁརགཅིག་པ་དང་། འོག་གཞི་སྲ་བ་དང་འབྲེལབ་དང་གནས་བརྟན་བལ། ཉེ་འཁོར་གྱུར་ནའོག་ནས་བཤད་ |
+པའི་ཕྱིར་ཡོད་འདི་གནསམིན་ཁྱད་ཉེ་འཁོར་དུ་གཏོགས་སོ་ཞེས་སླ་ལ། འདི་ལ་བྱ་ཊིཀ་དུ་པུ ཤུམེད་པ་ནི་ཉེ་འཁོར་དུའང་མི་རུངས། ཡི་གེའི་དོན་ཡང་མ་ཡིན་ནོ། །ཊིཀྐལསནམམཁའི་མཚམསགུ་གཏོགསབ་ཡིན་
+[ ཞེསབསྟན་པ་དང་ཡང་འགལ་ལོ། །དེས་ན་གང་ལཔ་ཤུ་ཡོད་པ་དེ་ནི་གནས་ཡིན་ཞིང༌། ལྗོན་པའི་ཆ་འོག་མར་དཔྱདས་བ ནི་སྟེང་གཡོགས་པ་དང་འདྲ་ཞེས་བསྟནཔའི་ཤུགསཀྱིས་གྱེན་དུ་ལྟསཔའིགནས་མིན་ནོ་་་
+སྙམ་ནའངོསནི་ཤིང་ལྗོན་པ་ཉིད་ཀྱིག་ནས་ཡིན་གྱི་འོགགཞི་ནི་གནསསུ་མི་གཏོགས་སོ་སྙམ་པའི་དོགས་པབསལ་བའི་ཕྱིར་སྟོང་གཡོགས་དང་འདྲ་བར་བསྟན་པ་ཡིནལ། དེས་ན་ང་སྔོནཔ་གྱེན་ལབལྟབ་ནི་གནས་ཉིད་ཡིན་
+ཞིང་། པུཤ་མེདཔའི་སྟེངགཡོགས་དང་འདྲའོ་ཞེསསོ། །འདིའི་དོནནི་བུ་གུ་ནི་སྟོངག་ཡོགསཔའི་མཐའི་ཆུ་འཛག་པའི་སྣོད་ཀྱི་མི་ཡིན་ལ། དེ་ལྟར་མེད་པའི་སྟེང་གཡོགས་དང་འདྲ་བའི་ཤིང་གི་ཡལ་གང་བཅས་པའིནམམཁའན་
+
+
+
+མཚམསཚོར་བྱེད་མིན་གྱི་མཚམསསུ་འཇོགབྱེད་མིནབསམམ་གཞི་འོག་གཞིའི་གནས་སུསླབབྱ་༣དུལགྱི་ལུགས་བཟདལ། ཡལ་གའི་ཉེ་འཁོར་དུ་སླབརྒྱའདུལ་གྱི་ལུགས་མི་བཟང་པོ། །ཞེས་འགའ་ཞིག་གིས
+ཟེར་རོ། །འདིར་སྨྲས། སྔ་ཕྱིར་བྱོན་པའིཆེན་བོར་གྲུགསཔ་འགས། །གཞུང་ཙམ་འདོན་པའི་རྣལ་བབསྟེན་ན་ཡང། །འདི་ཙམ་རེ་ལས་འཁྲུལ་བྲ་བསལམ་ཞུས། །དེ་ཕྱིར་བདག་གི་སྐྱེ་བདོན་ལྡན་གྱུན། །འདིར་ས་བུ་ཁཨིན་
+མནོཞེས་པ་འདིལརེཔར་དགོས་ཏེ། སྤྱིར་པུ་ཤནི་ཁང་བའིགོངོམདང་ཁ་བད་དང་ཁབ་ཀྱི་ཁེ་དཀར་སོགསལསྐབསཐོབ ཀྱིསའཇུག་ཡགདུལབའི་ལུགསལ་ཝ་ཁནས་ཆུ་འཛགབ་སླེབ་པའི་འོག་གཞིགནས་ཁང་གི་་་ ་
+འཁོར་དུབཤད་ཀྱང་། དེས་པུ་ཤུ་དང་འོག་ཁང་གཅིགབ་མི་འགྲུབ་མཉམམ། སྤྱིར་འདུལ་བམ་གཞག་དང་ཐ་སྙད་ཐུག་ཚུལ་མི་འདྲ་བ་མང་མོདཁར་འདིའི་ཁུངསམ་མཐོང་བས་དབྱར་ཐཚལ་ལོ།ཛ༽ སློངཁར་འཚོགསབར་
+འོ། ཏི་ལྔའམ་དྲུགགིའོ་ཞེསཔའི་དཔེའུ་རིས་འདི་སྤྱོད་ཁང་ཆེ་བའོ། །གནས་ཁང་གཉིས་ཀྱི་བར་དུ་སྲ་གདོད་དོ་ཞུས་པའི་དཔེ་རིས་སྤོང་ཁང་ཆུང་བའོ།༼ཏ༽ སྦོང་ཁངའབྲིང་པོའི་དཔེ་རིས་སོ།། / ཕྱི་རོལ་དུ་སོང་ཁར་
+ཆེན་པོའམགནས་ཁང་ཚད་དག་ཀུན་ངོ༌། ན་གཙུག་ལགཁང་བྱའོ་དོས་གཅིག་གི་དབུས་སུ་དྲི་གཙང་ཁང་བྱ་བ་ཉིད་དམ་གྲུབཞི་བཟདབ་ཉིད་དོ་འཁྱམས་གསུམཔ་ཡང་དོ་ཞེསཔའི་དཔེ་རིས་སོ།། ༼ན༽ གནསཁང་གི་
+:
+，
+
+
+
+[ ཡ
+•
+36
+ན །སོགཙཛམ་གསགཞུགག་ལོགབཟུང་དང་། ཡང་མིག་དངཀ་བ་དུམ་བུ་དག་གོ་ཞེས་པ་ནས། ར་ཤུགགུ་སྐམ་བཅན་མདངོཞེས་བ་རྣམས་ཀྱི་དཔེ་དེསས། པ༽ ལགག་སླས་འགྲོ་དང་འོང་བའི་གཞད་
+ཐོག་ཁརནམ་གནས་བར་བྱའོ་ཞེས་བས། དེལ་དེའི་འདོམགང་ཙམ་བྱས་བ་ཉིདནབྱས་ཉིད་དོ་ཞེས་པའི་དཔེའོ།།༼ཕ༽ འཁོར་གྱི་འཁྱམསབྱའོ་གང་ཟ་ག་གི་གཙུགལག་ཁང་ཡོ་བྱད་དང་བཅས་པ་ཡང་དོ་ཞེས་
+བའི་དཔེ་རིས་སོ།། ཚཚགས་གྲུ་གསུམ་མམ་ཞེས་པའདཔེརིས། བྱན་ཚགས་བཅང་བར་བྱའོ་བཟེད་སྣོད་ཀྱི་སྟེང་གི་ནམ་མཁ༣ལ་གཞག་བཏབྱ་ཞིང་། དགར་བབཙག་པར་ཐཆུབཟེདཔར་བྱེད་པ་ཚིགསགགསབར་བྱ་བས་
+ལུགསག་གདབབའི་ཡིད་དུགམུམདབལྡནབ་ནི་ན་ཤེས་ཞེསབནས། ཆུ་ཚགས་ཉེ་བར་གཞུག་བར་བྱའོཞེས་པའི་བར་གྱི་དཔེ་རིས་རྣམས་སོ།། ༼མ་༽ བྱ་མབུམདང་རིལབདག་གིས་མ་རུང་བ་བཅུས་པ་ཉིད་དྲདཡོད་པ་
+ཚར་དེ་བ་ལྡན་གཉིདར་ཞེས་པའི་དཔེསས ་ ཆམར་ངོ་སྔོན་འགོ ནདམརདོ་སྔོན་འགྲོ། ཡང་ན་འཇིག་རྟེན་ན་གྲགས་པ་དང༌། བསྟན་བཅོས་ལགྲགས་བའི་ལོ་འགའ་གདམབཞིན་དུ་དབྱུག་གུའི་བཅུ་དྲུག་
+ཡིན་ཚུགས་པར་ཆོས་གཅིག་ནས་འཛིན། མཛོདའགྲེལ༌། མདོ་དང་། ཀན་དང་། འགྲེཔཆེན་རུ་དབྱར་དགུན་འབྲིང་ཐུབཔར་བཤད་པདང་། ས་གནས་དབྱར་དགུནབབྲིར་མི་ཐུབསྟོན་དབྱིན་འབྲིང་ཐུབ་པར་བཤད་པ་གཉིས་མི་
+༥
++།
+།
+
+
+
+་་་་་
+འགལ་ཏེ། སྔ་མའཇིག་རྟེན་ན་གྲགས་པའི་བར་དུ་བྱས་བའི་པར་དོ་སྔོན་འགྲོ་དང་། ཕྱི་མ་བསྟན་བཅོས་ལ་གྲགསཔའི་དབང་དུ་བྱས། ཡར་ངོ་དབར་བྱས་ཚིག་འགལ་དོན་མཐུན་ནོ། །དེ་ལྟར་བཤད་པའི་དེང་སང་གངས་ཅན་ན་
+ར་ཟླ་དགུ་པའིཅུ་དྲུག་ནས་ལོ་འགོ་འཛིན་པར་གྲགསཆེབས་དེའི་ལུགསལྟརབརྗོདལ། ཀུན་མཁྱེན་མཚོ་སྣ་བའིལུགས་ལར་ཟླ་བཅུ་བའི་ཚེས་བབཅུ་དྲུག་ནས་ལོ་འགོའཛིན་པའི་སྦྱོར་ཚུལ་མི་མཐུན་ནོ། མང་ར
+གང་སྒྲུབས་ཟན་བཅདབརབྱའོ་ཞེས་པའི་དཔེ། ལྷམ་ཡུ་ཆད་ཀྱང་ངོ་ཞེས་པའི་དཔེའོ། འདུལ་གཞུང་རྒྱ་མཚོའིང་པོམདོ་ཙཡི། །དགོདས་པཇི་བཞིན་ཡོངས་འཛིན་མཆོག་དེ་ཡིས། །འཁྲུལ་མེད་གཏན་འབེབས་དང་་་་
+རིས་ངོ་མཚར་ན། །མཁས་མད་དགྱེསབསྙེན་ཀུནབཟདམཆོད་སྤྲིན་ཡིན།
+-
+-
+-
+-
+-
+--
+་་་་
+- ，
+༧---
+-
+-
+
+
+
+Y
+ད༌༌་ག་ཡི་དགས་ཀྱི་ཀཇུགནས། :བླདཆེན་གྱི་ཏི་ནི་་སྟེ་ད་གྲོཊ་ ལེ
+འགྱུན་བབཞི།།
+ཟིགཁེ་དགམ་པ་
+e
+ནས་ཕྱུག།
+བུགས]
+[E
+)
+
+
+
+རྣམའོ་ཕབ།
+རྒྱལ་བོ་ན་
+གཞུདགི་སྤྱོདོམ།
+མིག་ཏུ་གདབས།
+།
+་
+
+
+
+37
+༼
+མིརགས།/
+ད་ཐབ་འགལཕྱག་ད
+ར་གནས་ར་
+ད་ག་ཞིང་གི་ནུདབཙན་འཁོར་
+བས་སུདགགལ།
+མནགགས་དེབ། ས་
+ལ མོ
+འ ཕར་བ།
+༥
+་་་་་་་་་་་་་་་་་་་་་་་་་་་
+་
+་་་་་་་་་་་་་་་
+་ ་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་
+
+
+
+-
+-
+-
+-
+ཟ
+་འབུའི་ནདལ་གནམལྕགསཞིསར་
+)ལྕགཤིངམར་མེའབའོ།
+འཇུག་སྟངས་གབ་མ། s)བསྐྲད་པའི་ལས། བྱ་ན་འདོནས་ན།
+པ་ བཞི་ཐབ། འདི་ཡན་རི་ཚོས་ཀྱི་
+རབ།)
+་་་་་
+
+
+
+མེད་གཉིས་བར་མ་ཞན་
+ད ་དགུས་བསྟོད་ར་(
+བཞི་བསྒོམ་མནན་་་
+ལྔ ལ་རྒྱ་མཚོ་ཚུགས་ཤུག་གཅིག།།གབ་པ་མ་ (
+) བདུན་པ་
+འ
+་འཁན་ནི་
+དབུས་གང
+འབུ་གཉིས།
+གནམ་ལྕགས་
+པ
+:
+
+
+
+བན་བཅུ་ཉེར་གཉི་མ་མི་ཚ་དམ །
+=
+ཚ
+ལ
+གཟུག་རྒྱུ་བསྟག་བའི་བློ་གུག་པ
+ར་
+གནས་མ་བརྟག་པའི
+བལན་ཟུག་ནི།་
+གི་ཝའི་འདབང
+ལ
+ལག་ཟུག་འབརྟགབའིསྤྲུལ་ཞིག༌
+་་ - -
+།
+ནུབམཅན་ཡོདོ ༡༡
+་ S)བའི་གབས་རྩ་དགོད་
+གཞུང་4མང་།
+༼ད_Y/ བའིཤཚན་ གཏདVར་ན་
+ཨཁཙྪཱ
+་
+ས ་
+--
+，
+༢
+མ་ལགཟུགཛྷ་བརྟག
+ལ་ཞིག་ནད་བརྟག་བུག་གཉིས[༡༤
+ལས་ལ་
+༢90ཅན༨༢)
+';_ཀའཚ@
+་རམཔའི་རྟག་བརྟག་པའི་དབལ་ལྡནv༩
+
+
+
+" ་་་་
+，。
+*་
+ད་གཅན།༡༠
+सामना
+དགའ་འsཀ︽མས་
+་་་་ལམ་་
+，
+>>>༨ སཾམ་བ་གཙུ་གུའི་ཞོལ།༢༤
+མགཉིང་ཐུགདམའཛམཐཞི་ཁན་རིགས་གཉིས།
+༣
+ཞིག་རིལ་ཞག་བཞགཟུགབྱུང་།༣༠
+་
+དཔེ
+，
+་་་་་ ་་་་་་་་་
+བ་
+སྐ
+
+
+
+་་་
+མསརམས་
+ག་བས་
+.
+་་་་་་་་་
+གསར
+-
+-
+བ་བར་
+ས་
+---- ་ི
+*སྟནགས་རིགམགལ་
+མདམ་ནམ་བཞིན་
+གོ་སྨན་པའི་གཙགས་འདུ་གྲངས་ག
+ཉིa
+སར་མནན།
+ན
+ཐུནམ་ནསཛད།༣མ
+ས་
+་
+་་་
+
+
+
+དབམ་>>་དག་སj-
+RབསV O m ---- - པོའོ།
+（༡་ II---
+༢ འན » ས་
+མ་དང་
+ངས་
+༥:དུངཆགས་སངNངས་པས་
+༥ +
+--
+སོག་ལེའི་ཀློང་།༥།
+ཡོངསེག་ལེལུགས་གཅིག་རིགས་
+བས་ན་སོག་ལ་ཁའདྲ།པ༡
+ནག་གེའབུམ་གཅོད་པའི་བལ་མ། ས༣
+-
+-
+-
+，
+
+
+
+ཡབ་ནི་རྒྱུན་འཁན།པ༣a
+ཝཾ
+་་་་་
+འཕྲུལཟུན་ཐུགགས།སས nn
+སོམིན་སྡིག་པའི་ཚེ་ཀྱོག།ཨ་
+འཇི་ཡ་ལ་ཐོནམོ་བ་ཡོད་དོ།
+I
+ལམ་གོ་ཆུ་ཚོཊི་ནེམ་མ་
+?
+-
+_
+གཞུར་ཡོད།
+A
+ན་
+-
+> མཛའཁྱོགྲུབ།༤༩
+-
+།།
+$ ཨི ན་
+ཁོགཞུངལསོདལྡ།
+--
+ཁ་སྣ་བུག་གཉིས་སུ་དུ་བ་རྡུལ་བ་་་
+སྒྲུབས་ན་ལུགཀ་གཉིས། པའི
+།
+་
+དྲུབས་ན་ཐེམཁ་ཁ།བར
+
+
+
+3༠
+ས་་་་་་་་་་་་་ཨ་མ་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་
+་ ་་་་་་་
+་
+་་་་་་་་་་་་་་་་་་་་་་་་་་་་
+ས་སམ་
+Eས་ཉེས་ལ་
+སེ་སོས་ཚོགས་
+--
+-
+，
+ང-རl=
+5
+གཅེལ་སྨནནགས་
+2
+བཤད་དང་མན་ Y 2
+འབུམ ལགས་ (དེབས་གསན་
+གྲགས། ）
+
+
+
+ཨ་མ་༌་་་
+em| ]
+བྱུས་ཀྱི་ཉེལ་ཐག ༤
+ལ།
+སྨནསོག།༢
+-
+མིག་སྨན་འདེབས་ཐུན་
+E
+འབར་བའི་རྟོགས་པ་
+ག
+་ནི་བ་ཟིམ་ཚབ་
+
+
+
+—
+5
+（
+pའགལ་
+
+
+
+，
+T
+མཁྱེན་ལྡན་ག༠en7 JUL:ICepཁn RE ༡༠ ཐམཚར་བས།༠། །། 17 ། 10 171 77 7 ། ཀ།། ༡༡།།།
+པཇིགས་མཛདག༠༠༢T། ] ་ ། ༎ མ་ཏཱི ཀྐུ ཀ༎ ]༡༠ཚལ་ཚེ་འཕོ་བྲང་། ༢༡།།། ཀུ ཀཀཀཀ ཀ7] ] 777
+མཝེན་ཁ་ཟས་དང་བྱས་བྱེད་ཀྱི ང P ཀྱི་[ཊི ་ཊིགན་རྒྱས་མ།༠༠ # ༩ 7]ཀུཕེབ
+1
+1
+T
+།
+
+
+
+་་
+་་་་་་
+--
+ཤ༄༅། །ལྷ་རྫས་མ་འདི་སྔ་མདབཅདམིའདྲ།༠༠༣ ། :༡༩ ༡༡།།།ཀུ། །ཀོང ཀ/n ༣7 །། །། F9ཥ སེས་ཁའི་མེ་ཏོག
+། ༠༠u//zl///70077 0༠༠༡༠
+གཉིས་མཐུད་ལེན། °7 / 77 77 7 ། ] ] ཁྱེ ། ° ཨཇོག་མ།༠༠༩ ༼ 01 ] / C/p། དོn /EZ jng ཀྱའི ཀུ c༠༠༩ E
+པ་རིམ་པ་གསེབཀ7077E4117001/71517°།གསུམཚིག་ཡིན།(འགཡོ་ད་ཡོད་བྱེད་རྒྱུར་མིའི་ཚེ་གསུམཁན་རྒྱ་གསུམ་རིགས་དེ་ཐོག་མ་གསུམ་
+
+
+
+ས་
+བ
+ཨ་ནུ་ག་ཏེ། ཨ་ཏཔ།
+།
+ཚིག་ལེ་ཚན་ཏེ། ཡང་ཚ་གསེད་གཉིས་མེད། གཅིགས / གཅིག་ཉེར་གཅིག ཚིག་ཉིས་བར་ལོ་ག་གཉེན་ཚིག་ཅིག་གཉིས་ཚིག་ཅིག
+༣བགག་ག་གོདམ་དེ་ཉིད་དམགཟོད་མའི་བསྙེན་སྒྲུབ་མཛད་བའི་མནལ་ལམ་དུ་དགི་ཉིན་ཙན་སྒྲུབཝམཇལཟར་ཁྱོད་ཚོས་འགོ་རྒྱམ་ནས་བརྒྱུའིདགརབ་ལེནམའི་དབྱངས་ཤེས་ན་འཐེན་སོགསབྱིསགསུནs
+ག ང ཞེསབའི་དབྱད་ལྡནནམསྒོལ་དེསབ་འཐེན་ནས་ཕུལ་བར་ཐུགས་མཉེས་བའིཚུལ་མཛད་་་་
+LAW
+གཅུང་གསུད།
+
+
+
+4|
+-
+-
+།
+{{BTE །བདག་པོའི་ས་ཁམས་དང་ནང་བ་སོགས་ཆོས་སོགས་ཆོས་ཐོས་པའི་ས་གའོ། །
+ཞ
+་་གྱིཡིནའང་ཆུའགོས་ཡིག་གཉོར་སཾབཅས་དཔེའི་བསློབཞུགསསོ། །
+་་་་་་་་་་
+
+
+
+-
+-
+--
+-
+[ ]g . l@aང གJགs hag pa nan
+ན་མི་ གུ་རུ་མ ཉྙོ ཎ ། ཨ ཨཱ ཨི ཨུ་ཨཱ ལཾ ཡཾ་ཀེ ཨེ ཨོ ཨེ ཨཾ ཨ ཀ ཁ ག གྱུང། ༦ཚ;; འདce
+रित्या नववधना ययावतमा सोला यमनी अह वामानामावतावादावन वायदानाचा
+།དྷ ཎ ཏ ཐ ད དྷན། པ ཕ བ བྷ མ། ཡ ར ལ ཝ} ཤཎ༤ སཧ། ཀྵ མ
+ཀ ཀཱ ཀཽ ཀཾ ཀཱཀཾ ཀཱི ཀཱུ ཀེ ཀི ཀ ། ཀཾ ཀ
+
+
+
+sic
+-
+༄༅།།
+কি যখন,
+པ་བཁཀའི.: ཆུ ཞུ ཙྪཱ ཁེ དེའི ངོ ཎ །ཀཾ ཁ ཝཔསགགཱ དི དུ༔ ག་ སོ༑ གི ༴ ག པར་
+@#l@་ག
+ས ན ། གནས ་གབ་རྭ་
+, སྒྱུ བྷཱུ བྷཾ ག གྱི རྒྱུ ཐཾ གྷ ས་བ ར ཏཱ༌ ཛཱ དེངོ དེ དཾ བ༔ འགའདུག འོ། མིང་ཨ་།” སྐ
+-
+རྨ
+ཁ
+ཐ་
+། ：
+
+
+
+- aਝ ਬੋਲ
+ਨਵੀ ਫੌਥੇਬ
+੩੧ - ੧੪ ॥ ਜੋ ਜੀ ਨੂੰ
+"
+ਜੋ ਸੋ
+ਬੋਰਡ
+sਰਬ ਈਸ਼ਾ ਵਫਾ
+ਨੂੰ 4 , $ 7
+ਸ਼ਾਰਕ ) ਵੀ
+ਗੁਵਾ ਵਰਗਾ ਕੋਈ
+; ; ; ; : :
+
+
+
+p?l ma gzhal gal qq 11 t སull amm
+སྤྱི ཝི ༔ སྨ། ཡྻ ལཱ མྱུ། ༧ ཀ ཀཱ ཀྵ ཀྵ ཁ i7， .༡ : 1 - |： ： ༣ ། ཚུ ༦ ༄༅། : ， །་
+Tel>>ad
+dra
+g
+mpt
+an2) ཉs
+Is ༔ ༴ པ :༠ ༔ མ ཙ ༡ ༧ ཙ It. སྐ ཋ ག གྷ 5. ཀཾ ཎ རྒྱུ རྒྱུ རྡ། སྐ ༧ ag །ཀཱ ཀྑ | ༴
+•
+
+
+
+མ
+བསམ་
+a
+་བསགསོ་དལ་གམེད་
+མs is
+a
+ས་
+ཏུ་ས ་ ཡོམའགན ; ༠ ༠ རུ། ཀ༩ ཁ ཌ བགཌ གྷ ༢ ། ནོ ། ༢ ༢ཐ། ཨོཾ ༀ ཨོ་ཀེ་སེ་ཨེ་ཨེ་རེད ་ བ་
+。。་མ་མ༨འོ་སོས︽སc
+བ E R
+2g
+Rནསལ་མཛད་པའི་ཚུལཾ། ལབ་ཙཡུ@ ཡེ
+༢ནསྶ ཕྱུདོགཏནི ||་འདི་འདྲི་དངཛིནཙལསཾསདཔེནགྱི་རྣལཕྱགས་སui
+ON FRITZ
+•tt:
+ཀ༔
+༥
+འ°་བསར།
+，
+-
+
+
+
+.:|:
+འཨཱཝཔ
+འ a
+༢at us
+ལས་ ཨ ཨཱ ཨི ཨཱི་ཨུ་ ཨཱ ཨི ཨིཨོༀཨw༔ ཀ ཁ ག གྷ ང 1.༔ ཙ ཛ ༡t ཞ ཟཌ ཌྷ ཎ ཏ ཐ ད དྷ ན པ ཕ བ རྒྱུ
+it-མིal-q༧སར ་བ་གས
+qnཤིག]
+༤་བ་མ ཙ ཤ སF ཀཾ ཀཱ ཀཾ ཀཾ ། །ལན དཀོ ཀོ ཀཾ ཀ •. ཁཥ་ཎི ་ཁ འཛིན་བཟཎ ཁོ ཁོ ཁོ ཁ ག གྷ གི བ གུ །
+
+
+
+1
+[
+གསྶff fགཉ
+%8:
+4
+ss
+& ༧ཁྲིབl @ །
+རྒྱུ རྒྱུ དྡྷོ སྒྱུ ༔ ར ད རྡོ་རྗེ བློའི རཾ ངོ པོ ཁཾ༔ ཀྱ ཀ ཀློ ཀཱ1 ༠ བ
+ut a ga nt inadd
+ཏྟཾ བྷ། –ཟབྷཱུ ། ཡ རྣཡྻོ ཙྩ། བས བྷ། ། ཀྐཱ ཀྐཱཀ རུ ཀོ ཁོ གོ རྒྱུ །
+མa r
+s:ཙནfཤུ
+
+
+
+*
+ཆ
+，
+་
+ལ་
+Ic-་བབ་
+ཟ
+༄༅།། ་༈	ཝཱ བྷ ཝ ། ༈ བྷ སྒྱུ ༈1 ཀྐ ཀྐ ཀྐཱ ཙྪཱ ཤ། གྷ ཟླ། ཨེཧཾ།
+angelerd2su nligglen
+1ག་ ཁ་ ག་ང་། ཙ་ ཆ ང
+ན པ བ མ ཙ ཚེ ཛ i ནི ་ འ་བ། ར་
+་ན:
+48 དགེའོ་ བ ་ བ་
+* : .4ce r
+*
+EhEIIIII
+kjiin15File
+ཙ
+LauHI
+InauHEM .
+? ་
+جایاران: رانا
+ས
+༧ * ༦༠ F=
+
+
+
+:
+::
+,
+*
+旅游
+:
+:
+:
+**
+。”
+*
+uturah
+南二中:
+,
+:
+A:
+中
+的世
+;.
+TW/ H
+in
+4, H* T-shy
+中,rary'n'.1
+41 :
+:
+Hi,
+:
+是
+,
+.
+* Y
+的
+”。
+---
+-
+:
+“中
+:
+:
+:
+平日
+,
+”
+“结缘
+。
+。
+.
+…
+“
+“有。
+出
+:
+:
+日
+1
+.
+:
+Airit
+heir
+:
+:
+种
+一
+。
+于是,
+W:
+:
+中
+……
+"
+,
+HITAF71-
+31
+Henry
+在一
+::
+::
+-
+Ter:
+::
+:
+...
+::
+..”
+:
+:
+期
+
+
+
+:::
+:::::
+:
+:.
+.
+.. ।
+..
+- ';
+.
+.
+::
+::
+:.
+:.
+"':;"।
+*
+*
+**
+..
+:
+৯
+.
+৯
+.' '
+৪
+':;
+'
+:
+;
+:::::::
+:::::
+:;
+*
+*
+*
++
+৮.
+"
+':**
+*
+*
+.'
+ক
+::::
+*
+.
++
+,,
+'
+ত,
+..
+,,
+::
+. *
+s
+A
+*
+.
+. .
+,
+R,
+.
+৭
+4
+. '
+.
+.
+:
+#
+::
+.
+...
+.?
+;
+:::::::
+৫৫,
+|
+44
+-
+ৰাভা ব্যয়৷ ৰ৷ যাওয়া সম্ভব।
+ফ ফ ফফফ ফফখই খনা৷৷
+#
+'
+#
+:
+*
+৮
+.
++
+.
+.
+:
+'
+:::
+. :', ' .
+.
+.
+.
+ক
+-
+:::::::
+::
+::::::::
+.:.
+::::
+.
+স
+, '',
+, ::
+:
+২,
+:
+:
+|
+*
+.
+'-
+=
+***
+*
+:
+::
+।
+.
+...
+..
+1 ফ
+:
+:
+*
+.
+.
+**
+'
+'
+,
+*
+.
+-
+*
+'
+..
+**
+*
+':.:. ' .
+::
+।
+::
+:::
+::::
+:::::::
+'
+.
+::
+:
+:
+:
+i
+:
++
+*
+:::::
+:-: : :':. .
+.
+*
+d
+:
+:::
+১
+:::
+:
+"
+
+
+
+ET,
+*,' :
+:
+. :::. :
+*
+'
+-
+::
+sri
+,
+':
+..
+:..
+A,
+'': ...'
+** ::::::::::::
+*
+'',
+.
+..::
+|
+.
+.:
+.'
+''
+;';',
+..:
+.
+,
+,
+... ... ..
+.
+... ........
+:
+:::
+:
+...
+:
+** -
+-
+-
+-
+::
+::::::
+:
+::
+.' ::
+'; ;
+.:.
+শু
+...
+'
+'
+..
+.
+.
+ই,
+*
+:
+:
+. ***
+*
+*
+...
+wat
+**
+:
+:: :
+:..
+: ..
+:
+. *
+:
+এ
+-
+...
+.
+..
+:
+.
+|
+**
+::
+:::::
+।
+:
+:
+'; '
+.
+:::::
+..
+.
+..
+..
+.
+:
+.
+:
+-
+:
+- '
+}
+'
+,
+..
+*
+গ
+{
+.
+:.
+'
+:
+১৮,
+::::.
+::
+দী
+:
+::
+.
+:
+.:. '.;
+“
+..
+'
+:::::
+'
+হাথ বৰগৰ পৰা ৫ই খণ। যা
+শিশী গৃহমুখী৷ ষায়৷ ম৷
+:
+.
+,
+'
+.::
+:::::
+:
+*
+,
+'
+'
+।,...
+''
+.
+;
+.
+.
+,
+'.
+'
+....
+''
+,
+;;
+,
+::
+..
+*
+..."..''.
+.
+“
+-
+'
+:
+*
+ম
+*
+*
+.
+:.:.::.:.:..:
+,
+,
+:::
+-
+":
+!
+::::
+.
+..
+.
+::::::
+:
+-
+*
+:
+'
+-
+• ::
+:
+:
+:
+:
+:|:-
+::::...
+:
+*
+:
+:
+খ
+:::::::
+:
+"
+'
+::::::
+&
+:
+:::.:..
+:
+.
+.
+:
+.
+.
+।
+-
+ক
+::::::
+.
+":::::
+.
+:.:.:
+.
+", .
+'
+*
+:
+s
+. :
+,
+'
+:
+S
+S
+:
+:-
+|
+,
+':
+:
+7
+:--
+:
+''
+''
+:::::
+S
+"
+:
+st -
+:::
+,
+",
+.:
+::...:.:.:
+.'.: ,..
+,
+:
+::
+:
+:-
+:::::
+,
+,
+-'
+'..
+7.:
+.
+:..
+ক.
+...।।
+:
+.
+..
+*
+চা:
+::::::::
+--
+:
+::::::::::
+.
+২
+* .
+. .
+.
+
+
+
+...:
+:
+:
+:::
+","::
+'
+'
+:::.. ... ...:::::: :::
+:::
+...:::
+:::::
+::
+,..
+* ' '
+'
+' '
+:
+:
+'',
+:
+| ::
+:
+'
+" "
+'
+:
+*
+...........:
+:
+:::
+.
+..
+,
+:
+:
+::
+এর
+......
+| ::
+:
+:
+:.:.
+:.
+:.
+"
+'..
+:
+*
+"
+-
+.
+ii.
+...
+'
+' '
+'
+।
+''
+*
+--
+-
+::
+:
+*
+:
+, '
+:
+'
+:
+;
+1
+... '1
+৯
+,
+...
+-
+এক অন্য
+এ গ গ গাঙ খা খা খা ।
+যুইশ থানাৰী গৰা কষ্ট পাখি গাধূধূপপাখার বই প্ৰথাৰ।
+,
+* ::..
+:
+-
+'
+:
+..
+.
+-.
+.
+i
+'
+:
+.
+..
+...
+.
+;
+.
+::
+::
+,
+a
+':.
+s
+:
+...:::
+.
+|
+-
+*;
+. .
+.
+| '
+|
+:
+লা
+'
+.
+
+
+
+:
+:
+.
+t
+,
+::
+:
+:
+:
+:
+..
+.
+.
+.”
+合
+,
+.
+.
+,
+.
+·
+有一本書
+1
+r
+世-
+i
+民地,
+:
+.
+14
+:
+「閉
+,
+,
+,
+,
+,
+..
+于是
+出
+n
+:
+:
+:
+:
+:,,
+“
+可是,
+路路了。
+T
+E
+::
+:
+:
+,,
+,
+:
+強
+,
+:
+:
+:
+:
+上。
+--
+:
+::
+.
+1
+...
+:
++1
+..
+..
+中文:
+:
+::
+• l,
+节
+目中,
+…
+“
+我可以
+.
+A
+:
+1."
+”
+地,
+。
+..
+其中,
+.
+'T..
+,
+| |
+|r
+E身子。
+::
+路是
+b
+,
+".
+.,
+;
+可
+A.
+(
+h批....
+学的
+"
+有
+.
+時比#
+.
+:
+::
+:
+**
+*
+Hi,
+..
+)
+“是的
+.
+。
+...
+奖
+:
+”
+.
+。
+中
+一:
+“它
+|
+“
+.
+.
+.
+中
+,
+”
+.
+....
+:
+:
+中
+:
+分
+..
+.
+.
+.
+:
+:
+.
+.
+E---
+一
+.
+* "ty del
+:
+
+
+
+' ..
+- : , ..
+:
+:
+5
+. *
+:
+* *.
+• :::::
+- -
+:-
+:'.'
+***--*
+' :
+::::.
+*
+:
+:
+:
+'
+:
+.)
+A
+ક . .
+*,
+'
+*
+if
+: '
+કમ શારિરિ રામ- ચાર
+,
+.
+*
+,
+જ
+';
+*
+*
+. . .
+.
+'
+::-
+છે.
+*
+*
+::
+,
+*
+*
+T
+:
+.
+:;
+,
+ક
+,
+..
+T
+::
+: :
+- ', '
+:
+*
+:
+::* * *
+:
+-
+:
+:
+:
+::;
+'
+: :::::
+-
+1
+કપ
+:::
+: : :
+:
+: ' ,
+:,
+.
+:
+,
+:
+.
+,
+•'
+-
+. ***
+::: ,
+*
+::::: :
+:
+.
+કે,
+'
+. .
+.
+:
+3;
+:
+' .
+.
+.
+' :
+:
+“
+' ,
+:
+:
+Uત
+sta- ..
+•
+;,
+જા
+,
+::
+: :
+*
+***, ,
+' ..
+*
+: '
+: ' *
+,
+:
+,
+:::::
+,
+* *
+:: * *
+' .
+: "
+,
+*
+:*
+::: :
+૬ ..
+::::::
+: :
+:
+* *
+-
+-
+''
+'
+':
+, , ,
+..
+-
+: ",'"':'...
+': ' ''
+:
+:
+: : :
+-
+: -
+.
+•
+::::
+*
+* .
+11
+:
+::..
+જai
+છે
+.
+.
+:::.
+TE :
+:::
+:
+- ' '
+:::
+, '.
+;
+*
+. '
+:
+':
+:
+..
+'
+.
+:
+''.
+.
+' ' .
+: : : ' -
+'
+1
+:
+: ',
+:: ૬ :
+:
+:.
+*',
+"
+*
+' ':: -
+*
+* * * *
+::..
+**
+*
+- :
+,
+' , -
+:: -
+.......
+*
+.
+-
+::-
+*
+.
+:
+"
+k, ,
+* , I
+:
+::
+::
+::::
+
+
+
+：་
+:
+1|
+བརྒྱུ
+1
+་་་
+༤:
+་
+.:.
+;,
+• :
+:
+.:
+: -
+་
+.
+..
+.
+་
+，，
+་ ：：་ ་
+，：.
+.
+4
+ས
+:
+:་:F;
++ 'ཀ
+མ་ཚ་ས ཀྱི དེ་
+[ པའན ༧སal 《རྣམགཙ༤) དོུ
+if ཨ ཨཱ ཨི ཨཱི ཨུ ༧ ༈ ཨེ ཨེ ཨོ ཨཾ ལ： ན བ ཤ ༣ ། $ ཚ ཛ ཛྷ ༣ ༣ ཙ ཚེ དྷ ཎ
+.
+:::
+་་:
+:
+,
+3:
+E
+-
+;
+ཉིན
+，
+ss.
+.
+::
+.:1,，，，
+，
+，
+:
+1:
+་་་
+་་
+་
+:
+་:
+་： ...
+.
+་་
+:
+:་
+..
+་
+ས
+4f	-
+tt, 3:11.
+it
+,
+。
+ས
+：
+:
+： ，་ ་
+：
+.
+：
+3.
+་
+་ ་
+.
+..
+'
+,
+་
+:;
+，
+།
+.
+.
+.
+.:
+་,
+.:
+：
+：་
+:
+：
+： :་ ་
+：:
+，，
+：
+;
+་་
+་:་：
+1
+:
+་
+-
+，
+།
+，
+4
+ཅན
+，
+:
+ཅ
+11
+.
+:
+3
+::
+་
+་་
+ཆ
+:
+་:;..
+་་་་་
+་
+-，
+,
+：
+:：:
+-
+༌
+ཟ
+..
+.： .
+་་་་，..
+*་་ ,་
+.
+:
+་ ：
+:;
+་. ་་་་
+.
+•
+： ་་
+་
+:
+.：
+Gy
+་་་
+:
+་་:
+•
+.
+:'
+ཐ
+ར.་，
+་
+:：
+་，
+：:
+པ་,.
+༩ .
+;
+:༌
+:་
+：.
+.. -
+་
+་： .
+ཡ
+་་
+：.
+;，
+:
+:
+5
+.
+.：
+:་：་：
+:;
+•
+:
+：
+;
+་༌ ་ :
+：
+3.1
+：
+ན ་
+་་
+: +
+：
+，
+་
+།
+་
+་
+་
+-
+;
+...
+，
+-
+-
+• 1
+་
+：:
+.
+"
+ན་་་
+:
+:
+་
+་
+་་་་
+；,：་， , ༡
+s
+..
+". - ，
+：
+;
+•་
+;
+r
+;
+：
+..
+..
+，
+,
+,,， ，
+，
+--
+，，
+，
+，
+，，
+༔
+༔ +
++ 1
+，
+，，
+，
+ཟ
+-
+མ +t
+t， - རྨ，，་，
+= ，
+， ， ， ， ，
+，，
+,
+,，
+་，
+་
+
+
+
+એક
+:.
+R
+::
+: : ' . .
+:::
+,
+કે
+* બે મુનાજીએં 258 રજણ વશ શુભમ ૩ઘાર્ટઅકા
+: , .
+ક.
+*
+::::
+::
+*
+*
+*:
+:
+*,
+:
+. ..,
+:
+M"
+મe :
+: ',
+*
+:
+•!.
+*,
+'
+K
+-: :
+':
+*.
+અ'
+.*, *
+,
+: :
+* :
+':
+*
+,
+* * *
+.
+::.
+:: -
+": '
+,
+..:
+*
+;;
+,
+'
+:
+3
+-
+::
+:..
+. '
+::
+,
+' :: .
+may.
+* *
+.
+:
+' .
+.
+3:
+' .
+'
+:
+: : : :
+:
+.
+:
+.
+::
+,,
+:
+'.. ': ', “ : '
+::
+*, *
+:
+; ,
+,
+*
+-
+'**, * sas
+છે
+. '
+:
+-
+*
+* *
+*:
+Uત
+રાજકોટ રૂા.
+: :
+'' ''::
+T-
+14.
+* * *
+* * *' .•
+:*
+'':
+'
+'
+.
+r
+i
+*
+* *
+*
+.'
+T'
+,
+'
+' ' . .
+.
+- '
+':
+': : '
+.
+**,
+, ' '
+. .
+* * *
+.
+:
+.
+*
+. . .
+. મક:
+F
+,
+*
+'
+.
+.
+::
+.
+* *
+:
+- :
+-::
+:
+
+
+
+..
+..
+:
+":
+PM
+MES
+.
+FRE:
+.
+.
+RSS
+HERE tith
+REET
+प
+KAR
+..
+143
+ht
+.
+Pado
+PEHAG
+PETAS
+-
+:
+AN
+HEHATI
+MarnamaAjmes,
+..
+:
+.
+१
+जानना बगवाड गवाक्षरमा उबर
+nun
+23Niy wwwk n:" .
+net .
+यालयो भयमा र गरिमालललल चला।
+..
+न
+.....
+mimarn.
+.
+...
+4
+-
+.
+and
+"
+..
+..
+THIS.
+ITE
+S
+.
+fit
+:::
+...
+.
+.
+...
+.
+: .
+:.
+::::
+::
+.
+...
+.
+REE
+,
+* - .
+.
+SE::::
+.
+...
+.
+::.
+::SMAR
+MARATHAPAAMSFRIREATENAMASPARRIAPapatra
+IrrifA
+NP
+WAITHPAN
+ESENH
+PTERAPEHRANTONHINABRANGMTIMROMORRISHTERANASPAPHHATPANCHAR
+.
+... ... ... ...
+... ... .
+.. ..
+. ... .
+......
+.
+.
+..
+- .
+
+
+
+.
+.
+. . .
+.
+.
+. . . .
+.
+.....
+..........
+......
+...
+. .. .. .
+.
+' : '
+.
+.
+.
+...
+..
+..
+.
+17.
+.
+-:
+:.
+.:..
+yy५२ x ww www " ||neK
+..
+1
+.
+..
+.
+.
+..... :
+मा ३६ उडु मगर उसे डाडा गंगा बासनया वनसम्म बडा तथदधना यधावनमः
+सरला गवसद! हम रसाEिARTईसाई
+।
+उ
+.:. ::::
+।
+.
+:
+.
+.
+.
+Hin
+5:
+1
+7
+......
+..
+.
+.
+.
++
+: .''...
+...
+..
+STRE
+:::::
+.
+.:-
+-
+S
+:'..
+...
+..
+......
+5.44
+.
+.
+..
+.....
+.....
+...:
+:..
+. .
+. .
+.
+. . .
+...
+.
+R
+..
+..
+...
+:
+....
+.
+S5ER
+RE
+.....
+.
+..:. .
+BIH
+......
+.......
+":
+....::
+::::
+::
+is .
+-
+.
+
+
+
+. . .
+. . . . . . . . .
+.
+.
+లు
+అని వారు కారులో నుంచి తన వంతు
+.
+పులస
+.
+::.:: .........
+.
+3.
+*
+HE
+MCA
+te
+-
+.
+:. --
+ఆశలు
+A
+a
+ఆ ఎn
+గాడు. ఈ
+'
+--
+- - -
+HRA
+AM-
+-
+AA
+-:::::::::
+::
+-
+The
+ఆకు
+-
+S
+-N.
+::.
+సన
+TER
+-----
+- 14
+.
+SARA
+.
+.
+4
+-
+-
+.
+-
+-
+KHA
+4
+M
+SKAR
+Faasan |
+యాంటూనంత తరచుగా
+Pos
+కరంగా
+:
+.
+..
+-
+-
+HER
+H.
+.
+R
+P
+ం
+.
+..
+.
+a
+int:
+:
+:
+:
+::
+::
+
+
+
+..
+.
+.
+:--:":.:
+:.:.:
+....:.
+.
+"
+..
+ALL
+॥
+॥ नक र विवि शिबिर आओ अ पागयया समोर चदयना
+.
+. .
+.
+.
+।
+.
+AR
+.
+:
+.
+।
+....
+-.
+.
+:..
+"
+... .
+SXS
+12
+:
+..: ...
+-4 ..
+.: armer
+.
+. .:::.:::.
+.
+:.
+.
+.
+.
+... :
+..
+.
+चजनमा परनवा मयसा सो
+MAHARASHTRART
+जमिनील काजीज। उनका
+....
+.
+।
+.:
+:.
+. .
+,
+..
+.
+.
+. .
+.
+... . .. ..
+.
+d
+34
+25
+.
+Hit
+. . . .
+
+
+
+-
+上一
+-
+-
+TTG
+It -
+:
+島
+:
+A
+my,
+可了
+。
+第11,
+:
+|
+.
+..
+'世
+***,
+hư .
+行业:
+:“
+事實了。
+F的,就
+-
+:::
+:
+身
+|
+:
+,,
+“
+:
+并
+:
+了
+。
+,
+1.
+,
+*1:
+LT
+“
+是
+可
+。
+一
+*
+。
+4。
+,
+。
+「
+打
+.
+:
+增
+-
+动加
+.
+,
+以
+“
+一,
+过。。-*
+1mm,
+*.9
+1
+":
+:
+4
+st:
+7
+...
+:
+::
+::
+:
+:
+:
+:
+,
+三星:
+1
+。
+。
+。
+:::
+其
+一七
+,
+”一
+“
+路
+,
+再
+:
+PS:
+:,
+:
+.
+| ..
+.
+..
+FE ::
+·第落
+“...
+,
+*
+位
+:
+:::
+其总统
+*
+告
+。
+..
+“
+中
+:中..
+.
+一
+。
+14:
+11
+..
+=
+"
+"
+;
+,
+了。
+了。
+”。
+學會
+門
+12:
+,
+一。
+,,
+”
+有一
+,
+Alls
+的Hip-Hit:
+A:
+:
+//
+佛
+字,
+.….
+HE
+”
+:
+* T
+17
+;
+::
+:
+:
+:
+::
+,
+:
+地方
+,中
+,
+.
+我的新
+,
+、
+.
+.
+的,
+力,
+,
+自: 1:
+L
+.
+:
+:
+:::::
+。。
+了
+:
+發照
+至
+一
+其平米
+.
+.
+.
+::,
+: .
+,
+"}
+.
+.
+.
+中日
+中
+,
+.
+iii
+,
+v 41,67M,
+。
+。。
+,
+可
+,
+,
+是
+,,
+,
+的
+'年
+...
+:
+小弟.…
+….
+。
+16:
+地
+::
+:
+。
+游
+“好了
+,
+life : ""
+事
+ET
+:
+,
+...
+.
+料中
+。
+中
+量
+htt
+..
+分类:
+:
+曲:
+.
+」
+照
+..
+Tity:
+“
+;
+,
+6
+TV:
+。:*.*
+Ti
+
+
+
+'
+'
+.
+.
+.
+H
+E
+.
+1:44
+ANATAINIHA
+an.
+.
+HARE
+1.
+......
+....
+!
+...
+MS
+++
+:
+किकी लिली raf simar कबमनरल्या २४॥ उथाधना
+" '
+N
+....
+20A
+MAHARMA
+Mw.
+.
+HARMA
+...
+M
+A
+..
+।
+NR..
+ट
+RAT
+-
+..
+AHAN
+NAVINEE:-
+MERE:
+CER.
+.
+.,
+A
+.
+नमा पनमा पासाहश समाविकीवानावादावानवायाधावाधावा
+..
+:-
+AALA TER.
+ARH
+HERE
+WE
+5
+::. ...........:"
+HE
+९.
+L
+FREE
+:
+5HI15.
+.
+::::
+A'
+Tri, ..4
+in.
+.
+40
+.
+-
+:"
+..
+.
+क...,
+'
+ERICASHLA
+य
+ES
+...
+..TH
+T4
+......... ...
+.
+.:::::
+:::.:..
+.THANFER
+.
+.
+.
+..
+.........
+..
+.
+Jani.c
+li.... ...
+...
+...
+...
+
+
+
+.
+.
+,
+'... ' , ,
+G
+:
+-
+**
+:
+*:
+,
+'
+JE::
+*
+.
+'
+: '
+::::
+*
+ક
+*
+*
+'*
+.
+s
+જ
+T
+:
+.
+Rી 1:
+:
+*
+:::: , ,.:
+''
+SIE TRAIL:: :
+.!
+*
+શ
+૪
+*'
+:
+:
+:
+:
+ની
+:
+*
+,..
+*:::
+: :
+જ
+Tr
+:::::
+*
+,' Ni:..
+નામ. :
+;
+:
+છે.
+*
+..,
+IYA
+::
+* *
+.'',
+:::
+:::
+.
+ti[,
+.,
+*****
+1, "
+; ;
+નામ "
++
+art -
+es":
+*
+:
+s
+*
+'
+B
+'
+: :
+* *તમાં
+જ
+:
+:
+:
+1.
+*
+છે
+."
+"
+Wi
+S
+છે.
+:
+Li" !
+d
+{"i
+. :
+,.
+.
+-
+•
+::
+:
+.
+.
+.
+*
+'
+:
+.
+.
+.
+K
+આ
+:
+'
+::::://
+.
+*
+:
+. . . #
+"
+"
+:.
+. "
+) -
+ધ, "...
+કહે " ,
+.
+| *
+"""
+' ','
+h
+* *
+: -
+“
+fight
+એ.
+*
+*
+- -
+જ
+'
+'.
+i
+"
+:::::
+S* :
+Try "
+cris
+S
+*
+: “
+ઇક
+'
+.in
+Hit ''
+::::
+::::::::::
+:::
+:
+s, :
+*
+આ
+* *
+::
+ન,
+*. it =”.
+:
+:
+':
+S
+','.:
+-
+“ : *,
+'દ', મ . .
+*
+Aત
+,*
+, *... ,
+મ'
+::
+:
+kinj,
+. ,
+:
+,
+::: '
+,
+,
+,
+:::::::
+;
+#!!"
+***
+S.
+S.
+i,
+*
+*
+*
+'
+A
+.
+*
+'i
+છે
+.
+RBA
+IE
+*
+*
+5.
+*
+*
+માત
+*
+B
+iી.
+A
+, '* જE
+:
+'!
+-
+his
+=
+:
+"
+ક
+,
+દે!jNTS
+.
+*.Pus*
+.
+*
+*
+re
+L.
+,
+*
+'ઇnt *
+Ek
+*
+*
+fhu
+S
+*
+છે:
+W
+or,
+'
+ifi Ahir
+વDF,
+':
+*
+.it
+;
+*
+*
+છે
+*
+*
+IT
+ક ,
+br
+,
+•
+જ
+pil:
+રાજ
+SINE
+1.
+M., "i.
+'C:
+:
+2
+હજ
+"
+''
+.''
+' :કadha
+';
+:
+swift
+#
+ક
+g
+*
+* *
+I'કેમ,
+*
+ર
+:
+/
+'
+'
+Butta
+ni
+કે
+ના..
+.
+::
+:
+:
+મirછે.
+8
+*
+:
+-*;
+ના
+*,
+-.
+e
+# ત
+T
+*:::.
+'
+?'
+,
+'
+S:
+:
+;
+.
+*
+આ "
+* **l; "
+' ,
+મffer
+*
+'
+F,
+.
+::
+**
+*
+I
+ક
+*'. '
+'
+'
+.
+.
+છે
+S
+:*
+*
+T
+છે.
+'
+"
+t
+Tય. પં
+.
+. ..
+:
+*/'
+1:31)
+*
+* * * * ?'
+G
+. •
+If You:
+કિ
+કti
+*
+*
+*
+*
+:
+મ
+,
+std
+EVER,
+*
+ના
+**
+છે
+ss
+*
+છે.. .
+..
+'
+Fift,
+. .
+,
+'
+2
+its
+,
+It'
+•w!
+a'. '*
+.
+:
+:
+:
+*
+•
+p:'
+*
+li,
+ક
+'',
+,
+. .
+,
+''''
+:
+•
+.
+જ
+છે. આer
+#
+"
+''૬-૧.
+કચર
+STS
+;
+: :
+કે
+::
+ક
+છે
+' પાય, {PR} } :
+'
+, '
+:
+.,
+: : :
+:
+પ. * :
+=
+::; ,
+કે,
+દ
+.' '
+t
+'
+-::* :-
+: :
+EIR
+.
+ક
+૬,"
+આ
+'
+ક
+.
+મ'
+'
+
+
+
+-
+-
+世
+”在
+。
+::
+了
+经
+li
+。
+:::
+::Time in al.,
+.
+::
+:
+:
+"
+JrFler
+"
+pirit
+站在
+; Iris:
+:::::
+::
+its.1
+。
+15
+"
+*
+服用
+*
+”
+,
+「我
+用。
+等等
+了
+!
+”
+。。。
+:
+:
+出,并
+。
+un...
+:
+:
+:::,
+“情”;1971
+re
+;
+·
+41.9
+日
+-
+THE
+年,是一生中,
+弟,”
+IF
+产
+Hah,
+stro
+::
+::
+中国
+”,
+张照
+.
+.
+:
+:
+.
+,
+*
+*
+14
+G'.
+:
+“..“
+PTT
+:::
+“有。
+「第一
+一
+:
+“
+1.
+.
+th
+41
+花
+等等,
+“
+...
+法
+:
+1...
+一
+.
+iE:
+17:
+多
+.....
+「
+.
+1.
+:
+:
+.
+行事。
+。
+。
+異,事
+1.
+,目
+.
+佛
+当年,
+29
+然
+:
+:
+生。
+| 147。”
+出
+,
+Y..
+:
+44:49
+中。
+为:
+当::
+,
+的
+^
+,
+等
+,
+FA是,
+:
+“D
+"
+:
+:
+"
+i:
+:":
+"'"
+:
+:
+-",
+二
+较的
+日
+.
+--
+,
+,
+.
+-
+,
+,
+TE:
+有一
+F113
+:
+tư.
+.
+:
+:
+'
+看,
+her
+学,
+中
+,
+主,
+ii中。
+ないw..
+,
+,
+“
+.
+.. -
+-
+
+
+
+•.
+； ཅv： ་
+༤་ ་ ་ ་
+，
+…：
+： ，
+，
+A"
+:་
+.
+; ་་་
+.：.
+འ
+ཙ
+..
+，
+，
+་་ .
+བཀོལོ་སོའ་ས་གང
+་ བའམ ། གྲུ་༣ པ
+ན ༥ ༠༡༩ *i} ཅ { མ༈ ཇ ༨ ，་ ༡བུ་ ད་ ནོ། པ (
+ཉྩ། གོཝ་བྱུ©་ གི་ལུའོ་དེ། ་
+།
+༈E ཙ
+ཉོ ཞ
+ཚེ + ཚ་ཛ，4 །
+si
+& ཤཱ༔ འ ་ ཡ །
+ta
+{ }ལ༑ ཤ་
+ས་
+་་་་
+-
+སམ
+་
+. ་. .
+.:
+ཟླ༌
+་
+*
+་བ
+ས
+，
+དྷ་ས་
+ང
+•
+.
+，
+，
+་
+..
+.
+..
+.་
+..
+.
+，
+་ ་་ ，
+， .
+
+
+
++AHA
+.
+.
+।
+SHREE
+MEHESARI
+Fiम
+53
+.
+REA
+RAHANE
+...
+567
+.
+...
++HAN
+M
+बन
+जा। मरदा नथरचना याममा यरलवा नबगदा ॥
+मामा
+HinE
+....
+६
+...
+PAL
+नाडादाबा चाकल्या नाय
+कायालयाला मामला
+6.
+tha.
+...
+:
+::
+ANSH
+HOM
+SSS..
+
+
+
+ནད;
+པ་
+ས7, 14: ་་་
+...
+་ ་
+་
+་
+ན་ +
+་ ，
+，,，
+་ ་
+:
+བདུ:
+1
+，
+.
+，
+， ་་
+m
+,
+d;H; ་་།
+།
+པ
+དh a
+，
+，
+=
+བའ
+་་་་
+༤
+ཚ
+ཝs+༔ ཝེཌ 2ཝཱཀྱ་ 4%༈ ཝཱག༣ རྨས༧ཉྩ༔ ཀུEཌ ཌ ཌ བྷ ལྕགས་
+ས ས ནུས། ། ལ ཤ ༥། ཧ ཨ ༄ ༅ པཉྩ། བྱཱ སྱ ༑ ， ༈ ༣ པྲ ཀྲྀ སུ སྭ ༔ ༔ ༔ ༔ ༔ ། དྷ, ཉ ཏཱ， ༣༣། ༣ དྷ ཌྷ ''; » ལ
+ཟླཝ་བཟཆནི་ཊཏདྷ:༣ ཎ༠ཎཝོ་ཌལཎཨཊྚབབ་ཚདི་ལ
+ས:ཀུན་ཀུན་བཟང་བོ་ ་ ་ བ ད ངོ ཐབ་བྱ་གྱེར་ པས དཔ་ བྱ་ པས ཚདེ་ཨ སྒྲ་་་སྒྲུབ་སྡེ་ ས་
+ར་ ཁེ བའ ཨུ་༽་ཞབས་སྐྱེ་པ་རྣབ་་བརྟན་པ་ཡར་
+*
+，ཀE，
+t
+.
+པ་ ས་
+*་་་སྨ•t
+༣
+་ས་
+རུས
+༤
+，
+།
+，
+，
+“i
++
+: ་
+
+
+
+::+t:…… ..…………， ，，་ ,
+. :r''
+，..
+sg
+：་，་ ་་'，
+་
+，，"
+.
+r
+:;
+F
+：
+：
+，
+༌ ：
+'
+''མ
+་
+'
+:.，
+，
+•
+#
+པ
+，
+:
+;
+t
+a་ ་
+E•
+3
+.་..
+::
+་
+་ ：
+F-
+5•
+པ
+:
+：
+.
+*
+,
+་་་
+•
+,...
+.:::;
+，་
+།
+;
+:
+སུ་
+i
+：
+:
+་
+བr
+་,"t, ་
+.
+:
+.
+་
+་་
+་
+:: ་
+་
+་
+་
+་
+''
+་，
+：
+་
+：*
+:
+'，" ་་་་
+.
+༡
+{
+༥
+..
+，
+པ•
+་
+: ，་
+་་་་
+3
+t:
+A
+.
+ཁ ན
+འ
+4
+：; .
+་་་
+E.
+:
+，་༼
+F
+:
+，
+•
+་བ
+.
+：
+.
+• •་
+་
+，
+，
+: ，་
+་
+2.
+ཚ ཛ ཛྷ ཉ། ཊ ཋ ཌ རྒྱུ ། 1 ༔ ， དྷ ན ད པ ཕ བ བྷ མ༑ ཡ ར ༥ ཧཱུྃ༔ ཤ ཥ ༧ ན 1:
+གས་ཡོ་སེབ་་པར་ ༣ ཚུཝཎ ཏ
+༄༅ 11་ ༡ ༄༅ ད ( ཅ མ ཛ ཉ ད་དུ ༔ དུ ནད་པ ཕ བ མ །བ
+，
+:
+，
+1.
+:
+：
+་".
+.!，
+ཏན་་་་
+་
+•
+，་་
+།
+&
+་་་
+དུ
+，
+：ས་
+.
+:
+:.
+"，
+.
+•
+བནྡྷ་
+, *
+::
+།
+་་་
+*
+::
+་
+，
+ཟླ
+;':;
+;
+:
+་
+，
+-- ་་
+i
+h+: • •..
+：
+བཀ•
+;
+:
+་，。
+：
+，
+་
+， '
+་.， ་
+...
+་
+，，，་
+་
+་.
+་.
+་་
+་
+*，
+་
+
+
+
+༥
+，
+， ,
+་，
+1
+་་་
+,
+་
+**
+་་་
+•་
+:
+.：.
+at
+བཙཐག་
+，,
+»rས:
+d. ་་
+་་་་
+།
+：
+，
+་་
+-
+,
+，
+,
+བུ་
+-，
+ས་
+： ་，
+་
+དེ་སུ་དཔནས ད ཎ་་རྩ མ་ག, ཨ༔ པས་
+ཝཙབ ས ༣ ༤ མཁཎ ན ད ་ ་པ ས བ ཟར་
+* : ,་་
+༈
+， ་་
+འ
+，་;
+T
+h
+A
+•
+,
+，，
+，
+G
+ལ་
+.
+.
+，
+..
+，
+-
+：
+.
+ད་
+བ བ
+ཟླ་
+བ
+ན ནོར་བྷན་ ཟས ལ་ ཝན -།:
+ར་ པཉྩ་
+༩
+.
+ཆ་
+་ ་
+4 ་
+4
+:
+
+
+
+-
+.
+.."
+:
+:
+:
+中午,
+***
+*
+功:
+六分
+站;
+.
+“
+;
+其
+:
+...
+..
+:
+::
+.
+..
+- 1
+,
+.
+.
+..
+:
+.
+:
+.
+: “
+*. .
+「
+求:
+.
+*
+.
+;出身
+...
+..
+.
+.
+.
+.
+:
+,
+上,
+七
+…..
+…
+:.
+:::
+…
+等;
+.:
+.
+:
+::
+学名:
+::
+:,
+.
+:
+.
+.
+::
+.
+5.
+:::
+.
+....
+::
+::
+:
+始游辦
+...
+1.
+一
+“
+年
+社群
+:::
+::
+:
+-
+:
+:
+.
+.
+:
+:
+.
+15年
+.
+:,
+,
+...
+:
+:
+…
+::
+:
+...
+14
+“
+「
+“:
+分:
+","
+.
+:
+:
+,
+.
+..
+..…
+:
+ps:; ..
+.
+中
+::
+...
+.
+.
+.
+:
+::
+:
+:
+::
+:
+:
+。
+:::
+:
+:
+::::
+.
+.
+:::
+:
+·武:
+.
+..
+.
+.
+.
+.
+r
+::
+:
+.
+...
+
+
+
+so
+་་་་་་་་་
+་་་
+ཟླ༌ +
+-
+༄༅། །བསྟན་པའི་ནང་མཛོད་འདུལ་བ་ལུང་སྡེ་བཞི། མདོ་རྩ་མཆན་འགྲེལ། མཚོ་སོགས་ལས་བྱུང་བའི་སོ་ཐར་བསླབ་གཞིའི་དགག་སྒྲུབ་གནང་མཆོངས།
+ཏེ་མཁོའི་དབྱིབ་པ་ཚད་བཅས་ཕྱག་ལེན་མཐོང་རྒྱུན་ལྟར་དཔེ་རིས་སུ་བཀོད་པ་ཤེས་ལྟུང་མུན་པ་འཇོམས་པའི་ཟླ་འོད་ཅེས་བྱ་བ་བཞུགས་སོ། །
+--
+་
+་
+-
+-
+--
+་
+་་་་་་་་་་་་་་་་་་་
+་་་་་
+
+
+
+་་
+ལ་ལ་ཇིས་
+གབ
+་
+ཚོཙོ
+།བན་ཚུནམ་རེག་པའི་ཡལ་ག་ཕྲ་མོལ་གླུ་
+བ
+་་་༌་ རྩ་བར་གེ་སློང་བསྡད་ན་ཡལག་གང་
+T
+，
+རོ
+བE
+་
+ད
+ར་
+༣འདིསྟེ། རྩ་གཞི་ཐུན་མོང་དོ།།ཞེས་སོ།
+》
+གཅིག་
+གོ ས་བཞག་པ་གཡོན་གྱི་འདི་སྟེ།གཉིས་ཀོལ་
+འབྲལ་སྤང་སྐྱེདབཤི ཡལག་དབབལ་གའམོག་
+མརེག་པ་ནི་གནས་ཐ་དད་ཉིད་དོ།།ཞེས་སོ།།
+-
+-
+-
+-
+--
+
+
+
+-
+-
+--
+-
+t
+15
+༥༨
+，
+..
+ར
+པ
+།
+3
+ད
+ཀྱང་མི་འབྲལ་ལ་ཡོན་གྱི་དཔེ་འདིསྟེ།
+རྩ་བའི་རྩ་བཡང་བོ།ཞེསསྦྱར་རོ།།
+ངས་ཀྱི་དི་དང་། རྩ་བའི་རྩ་བ་དང་འབྲེལ་བའི་རྡོ་བསོགས་པར་ ( /
+ཉེ་འཁོར་ཚུན་དུ་དགེ་སློང་བསྡད་མཚོས་ངོས་ལ་བགང་དུ་བཀལ་
+ཀྱང་མི་འབྲལ་བ་གཡོ་གྱི་དཔེ་སྟེ།རྩ་བའི་རྩ་བ་ལསོགས་པ་ཡང་ངོ༌། །ཞེས་སོ།། དང་
+༧
+ང
+.:;:
+་
+：
+4
+.
+-
+----
+-
+
+
+
+ཚ
+པུ
+༽
+ཡན ་ དམཚམས་ཐ་དད་པར་འགྱུར་བའི་རྐྱེན་གཞནམ་བྱུད།
+{{ ཀུན་འབྲལ་སྨྲ་མི་སྐྱེད་དེ།ཡལ་ག་དང་ལོམ་རེག་༡
+པ འི་ཤིང་ཁྲོན་བཏགས་ནི་གནས་
+གཅིག་པ་ཉིད་དོ།།ཞེས་སོ།།
+2 6 ཀློ་བུར་དུ་བྱུང་བ་གང་ཡིན་ཀྱང་རུང་སྟེ་ཆམཆོད་ན་
+jའབྲལ་སྤང་སྐྱེད་པའི་དཔེ་སྟེ། མཚམས་གཞན་
+- ནིམ་ཡིནནོ། །ཞེས་སོ།།
+I
+T
+:
+
+
+
+5l
+པ
+-
+-
+-
+--
+--
+-----
+-
+-
+--
+---
+--
+----
+T
+*
+ན
+•
+ཁག་་་་་་་་་་་་
+，
+་་
+t
+།སྨོང་བ་དགཅིག་ནས་
+གསུམ་བར་ཆུ་ངའི་
+TE
+ཏུལ་རིས་ དང་པོ
+་་་་་
+• ་་་་༌་་་་་་་་་
+-
+.ལྟཡང་ན་ཡང་ཐོག་གོ།
+rd.ཞེས་པའི་དཔེ།
+༣མིའོ་ན་སྟེང་དུ་
+ཁང་མོ་བྱའོ།།
+-
+-----
+T u
+u
+་་བ་
+པསྤོང་ཁང་བརྩིགས་
+ཟླ ༣ བཅུ་ནས་བདུགཉིས་
+ཟ བར་སྤྱོད་བ་་ཆེན་པོའི་
+ཁང་གཉིས་ཀྱི་བར་དུ་
+དཔེའོ།།
+འགའི་གོ་ས་པའི། -
+a
+ཆུང་གསུམ་གྱི་ཚེས་
+དམEui HT F ལག་བདགཙུག་
+gpa
+g ཏུགློབ་བ་ཆེན་འམ།
+ཟླ མཁན།
+u། Eruཤ ཀྱངང༌།།ཞེསོ།།[E
+Y
+་
+་་་
+གི།
+=
+;u
+ག ་
+ཅ
+-
+-
+་
+ན་བཟམ་
+ཉྩ་
+་
+.
+་
+.
+པ
+
+
+
+པ
+;
+A༔
+--
+---
+-
+པ
+，
+--
+-
+བ་ 35
+-
+ག ： ༣ སྤོང་བཔའི་ ་ ལྟསྤོང་བུཔའི་འཆགས་སྲིད་དུ་ཁྲུ་བཅོ་ ་.…
+གཉིརུང་ངུའི་ ་ བརྒྱུད་པའི་དཔེ་སྟེ། མི་འཐོམ་པའི་བྱ་
+ད་སྟེ་སྤོང་བ་ བའི་ཕྱིར་ཕྲེང་ཐག་དེ་ལྟ་བུ་ལ་བསྐོན་
+I པའི་དོན་དུ་ནི་ པའི་སྦུ་གུའམ་དེ་ལ་བཏགས་པའི་
+《འཁར་གསིལ་ལོ། ཐ་གུ་ལ་འཇུས་ཏེ་བརྟག་པར་བྱའོ།།
+གཏྟིཆུང་ངུ་ཞོལོ། བརྒྱད་དོ། །ཞེས་སོ།།
+༈ རྐང་པ་གཏིལ་རྡུལ་མི་འབོ་བར་བྱ་བའི་ཕྱིར་སཾར་ཐང་གདིང་བསྩགོ་ཞེས་པའི་དཔེ།
+s
+སྣ་འོན་ཀྱང་གཉིདམུར་
+ནསངས་ཐབས་མར་མེའི་
+ཚུ་ དཔེ་སྟེ།མདུན་དུ་མར་མེ་
+ར་བ། གཞག་པར་བྱའོ།།ཞེས་སོ།།
+ག་ཆུད་དུ་ཞའོ་ ཞེས་དང་། སྤྲོད་བ་བའི་ནི་གཙོ་
+༈གཉིད་ཁྲོན་རིས་ཐབས་
+གདོས་བུའི་དབུ་སྟེ།
+དོས་བུ་གདགསར་
+-
+Jབས་སོ།།
+-
+---
+-
+
+
+
+：
+ས , -
+t
+འདུལ་རས་ ་
+བ
+རྒྱ ་པའི་དཔེ་སྟེ་ཡ་གཅིག་དྲུང་
+། ཞུསུ་གནས་པ་གཉིས་ཡོདཔ་
+E0
+-
+-
+-
+-
+-
+-
+-
+་་
+།
+-
+དོ།།ཞེས་སོ།། ཙེ
+--
+-་ལ་་
+-
+---
+པ
+
+
+
+ལྟ
+ལྕསྐྱེ་བོ་མང་པོའི་བསོད་ནམས་
+---དཁད་ཀ2:
+པའི་གཙུག་ལག་ཁང་ངོས་
+བའི་དྲི་གཙང་ཁང་
+བདུན་བགས་
+ཀྱི ་དཔེ།
+སྣརྒྱལ་མཚན་གཟུག་གོ།དོནིརྣམ་
+ཚུར་ བཞིའོ།སེངྒེའི་རྒྱལ་མཚན་དང་ཆུ་
+ས་
+གསུམ་རེ་ཡོད་པའི་ཁྱམས་
+གསུམ་པ་ཅན་གྱི་དགེ་
+གཅིག་གི་དབུས་སུ་དྲི་བ།ཚོང་་
+ཁད་དང་།ས་གཞན་གསུམ་
+དགནས་ཁང་གསུམ་རེ་ཡོད་པའི་
+ཁྱམས་བཞི་པཎན་གྲུ་བཞི་པའི
+དཔེསྟེ།ལག་གི་བག་འོང་བ་ ༦
+ss
+.
+ན
+་
+0༠༧
+༢༤
+ཅ
+(མཚཞནོ།།ཞེས་གཙུག་ལག་ཁང་
+དང་།མཆོད་རྟེན་གྱི་དྲུང་དུ་ L
+（རྒྱལ་མཚན་གཟུག་དགོས་ 1
+ཁ་ པར་གཅུག་པའི་བེ།
+=
+-
+-
+-.
+I
+།
+1
+.
+---
+-
+-
+
+
+
+57
+，
+ས
+：
+--
+.
+རྒྱུ
+།༽ ང་འཕྲོ་བ་དང་ལྡན་པའི བྷ
+-
+མ་དང་
+བསག་་་་་་་་་་་་་་་་་
+་
+གཚུག་ལག་ཁང་བྱའོ།ཞེས་
+འི་འགྲིམ་ཁང་
+བ་ས་
+ཀྱི་དབ། །
+ས་ས་་་་་་་་་་
+Eཡོད་ན་
+ལ་ལགས
+ས
+་
+"་
+，
+--
+---
+ལྟསྒོ་གཏན། ]
+
+
+
+་་་་
+པ་
+•
+་་
+་་་་་
+，
+t
+་་་་་་
+-
++
++
++
+༈ སྐྱེ་བོར་ང་པོ་འཛུབའི་འགྲོ་སོང་སྐྲུན་བྱས། ལྟ་བུའི་གཙུག་ལག་ཁང་ལྔ་བརྩེགས་ཀྱི་དཔེ།
+མས་དང་ལ་རབ་ཏུ u mu ༈ སྟེང་གཡོགས་པའི་བསིལ་གྲིབ་རླུང་
+ས་ག r tIII rབསིར་བུའི་དྲི་ངད།ཆུདིརྫིང་བུའི་ངད་
+1: བ ཞིབ་འཐོས་པ I hi I Kདེ་བསིལ་བའི་རྐྱེན་གསུམ་དང་
+ལྡནཔའི་འཁོརགྱི་ཁམས་
+，
+ཟE
+，，
+1
+་་
+ས་ས་
+བ
+ཀྱི་པན་
+•。。
+ཛཁ་བཏོན་འཆགས་ཁ་བཅུ་
+ལྷང་། །
+
+
+
+ན
+འདུལ་རིས་ ་
+རྒྱུ ༼ གྲོ་བཞིན་སྐྱེས་ལ་བརྟེན་ནས་
+རྒྱུ་གནང་བ་མཚིལ་ལྷམ་རིམ་
+ལྟུདགེ་སློང་བསོད་སྙོམས་པ་ཞིག་ལ་
+ཁྱིམ་བདག་གི་བུ་ལ་བ་ལ་བརྟེན
+#
+དརང་ལུགས།
+ཀྱི་དབྱངས་
+མ་བ
+-
+༣
+ཚགས་ཀྱི་
+-
+༽ ༧ གཅིག་རིམ་མོ།།ཞེས་པ།
+ཚོ
+ཁྱིམ་པས་ཐ་ན་གོམ་པ་”'
+སོ།།
+!
+ཐུག་པ་ཁྱབ་པ་ཕྱུགས་བའི་ཡ་
+Ilz 1:ཤདཾབྱབས་ཚགས་བཅང་བར་བྱའོ།།ཞེས་
+ལས་བབ༌
+༼བྱ་མ་བུམཾ།
+༡།
+ཀློབཙན་མི་རུང་བ་ཉིད་མ་ཡིན་
+Na NVỀsĩ NRT
+དཔྱངས་ཚོགས་འདི་གྲོལ་ཚུང་ཞུགས་ཏེ་མདག་
+ཚོགས༌ནས་
+ཙབུམཚིག་འབབབུག
+
+
+
+•
+。
+་
+，
+༣ དཔེ་སློང་རིལ་འཚོགས་ནས་བེ་
+མ་)
+༈དགེ་སློང་རི་ལས་འབབ་ཁན་རྙིང་པ་ཡཱཎཱ ཙྩ་ཆུའི་ཆུས་རྩྭ་དུག་ཅན་དུ་གྱུར་ནས་དེའི་གནོད་བབས་པའི
+་བྱུག་སྟེ་གནང་གནང་བའི་སྟོང་བའི { ཕྱིསང་བོན་ཚག་བོས་པ་ལ་ལ་རྒྱ་སྣག་ཤོ ལྟ་བུ་དགམི་བཅང་ངོ་།མདབུ
+ཨེ་ཤཱ་ཐ་དང་ཀར་བརའི་འདབམ་
+/?
+7 ལྟ དཔེར་ལ་གྱི་སྤྲུས་བསོགས་
+མ ་མ་
+ལ་གོན་པའི་ཡུམརྟིང་སྡུསཎན་གྱི་ བྱུངབའགྷམ་ཙི་དང་ བཞུ་མུསབྱུང་ངོ།།ཞེས་སོ། ༣ ཀུན་དགའ་བོ་ལ་བརྟེན་ནས། གན་
+ཞེས་བའི་དག་
+ཚེ་ ས་བདག ་
+ང་ སྣོད་དུ་ཆུ་འཁྱགས་པའི་ཡུལ་དུ་གནང་བ་དང་
+ས་དགེ་སློང་
+ལྡནས་བར་བྱའོ། གི་ནཔར་བྱུང་ནས་ནང་བརྗེ ་པའམཐིལ་ནས་བུམཚོའི་མཐར་ཐུག་པར་ཁྱབ་པའི་མཆིལ་
+ར ང་ཁྱབ་པའི་བུ་མས་ { Yལྟམས་གཅན་གྱི་དཔེ་སྟེ་ཆུ་ལ་ཆབསྒྲོམའཆགས་བཞིན། ལྕམི་རུང་གི་ལྷམ་གྱི་རྣམ་ལས། /7
+(ཡུལ་དུ་ནི།ཧཱདརཉམ་སྒྲོགཏནམང་རུང་ངོ་།། / :ཟླ ལུག་རུ་ལྟོ་ཚུ་བཞི་བར་
+དགE-
+ཀྱིཔ་སྟེ། ལྷགཡུཚཀྱང༌། ཕྱི
+ས་སུ་ལབ་མ་རུང་བའི་ལྷམ་གྱི་རྣམ་ད
+ག ་ཤེས་པའི་ཁེ།
+
+
+
+53
+། གཞིས་བདམདབར་སྨྲ་བའི་ལུགས་ཀྱི་སྤྱན་
+বখুব
+སོ
+r- Gང་བ
+T༔
+འམt
+༑ཁྲིག་ཁྲིག་ཟེར་བ་དགམིངཅང་ངོ་།།རྐྱབ་ཏུག་ཟེར་བ་ དེ་
+དང་།ཧྲིག་ཧྲིག་ཟེར་བ་རྣམས་སྒྲའི་སྒོ་ནསམི་རུང་བ་སྟེ།l-
+སྤྱིར་རུང་བར་སྣང་བའི་ལྷམ་དེ་རྣམས་ཀྱང་སྒེག་རྫས་
+སུའགྱུར་བའི་སྐྱོན་དེ་དག་དང་བཅསན་མི་རུང་ངོ་ན། །
+.
+\| }
+︽
+--
+-
+-
+-
+བསྒྱུར་ནི་སྣམ་ཕྲན་དབུ་ནས་ཉེར་ལྔ་བར།གླེགས་བུ་བྱེད་དང་གསུམ་. Yབླ་གོས་སྣམ་ཕྲན་བདུན་པ་གླེགས་བུ་བྱེད་དང་གསུམ་པ།
+སྣུམ་གོ་གསྨུམ་ཐུན་ཟླ་གློགས་ཁུ་ཕྱེད་དང་གཉིས་སྐྱེད་སྲིད་དུ་ཁྲུག་ཞིང་དུ་རྒྱུ་བོརླུང་ཚོད་འཁོར་གསུམ་
+བ་ ཛ ་
+མང་པཚམ ་
+བནས། ཕྱེད་དང་ལྔ་བར་ཆུང་འབྲིང་ཆེ་བརདགུ་སྟེ་ཆེ་ཡོད་སྲིདདུ་ཁུག ཚདསྣམ་སྦྱར་ཁར་
+འོས་པཉིདམན་པར་རོ།།ཞེས་དང།ལུསང་མསྲིདད་མའོ་ན་ཇི་མཆོག་དེ་ཕྱིབས་
+བསཆུང་དཀ ར་ཁྱེདཕྱིར་ལ་དེས་བནིའཕྲིཚད་བཞི་པོ་རེས། - འབའགོ་དམག་དཔུང་དག་གསོག དཔུང་གཞེས་སདས་
+.....-
+-----
+-
+-
+--
+
+
+
+上
+。
+ཤམ་ཐབས།ཉིན།
+ཤོམ་ཐབས་ཀྱི་གཟན་
+༼རྔུལ་གཟན་ནི།ན་
+བ ་གཟན་གྱི་2
+༑ དགེ་སློང་གཡ
+) དགེ་སློང་ནག་
+| | 皇室三国 墨」
+ཐང་གོསཇུག་རིམ་མརུང་བར་
+འགྱུར་བ་ལས་སྐྱོབ་བའི་གཟན་ཡིནནོ།།
+ཤམ་ཐབས་ཀྱི་ཐབས་སོ། དྲི་མསམ་རུང་བར་ཡབ་ འཇུལཟགྱིས་
+| mac.
+དྲུག་ཞིང་དུ་གཙུག་
+ཆམའི་དགེ་
+..
+*”
+.
+,
+T
+H
+.
+.
+.
+CSS
+"
+
+
+
+[འདུལ་ཇིས་
+[11.གདིང་བནི། གདིང་བ་གསལ།
+|
+ལུང་གྱི་བོས་སཆེཤཱམིདབྱན་སྔ
+པ་ཁྱིམལ་སྒྲུབ་དྲུག
+གླ་ཆ་བོ་བའི་རྫོང་།
+རྣཁ་གསལ། དུམ་བུ་གསུམ་བསླབ་པ་གསུམ་སྟོད་
+ཟུར་བརྒྱུད་ཀྱིས་འཕགས་ལམ་ཡན་ལག་རྒྱུད།སྨད་རྒྱུར་
+གསབདེ 4
+བཞི་ག་ཡོང་འདུ་གཉིས་ཀྱིས་གསུང་རབ་ཡན་ལག་བདུ་་་
+གཉིས། མཆོད་རྟེན་གཉིས་ཀྱིས་ཆོས་གཟུགས་ཀྱི་སྐུ་གཉིས།
+གགས་ཀྱི་གཏོས། ༼༤
+[གས་ཀྱུས་ངན་འགྲོ་གནས་ནས་འདྲེན་བ། ཁོར་ལོ་ ་
+གསུམ་གྱིས་སྡེ་སྣོད་གསུམམཚོན་ནོ།།
+༈ ཚུངབདནོ།རྒྱུས་དང་ལྕགས་ ཞི
+དབྱེ་བ༌གཉིས་ག་ད་བ་དབྱིབས་སྒོ་ང་ཕྱེད་
+་ ཀས་པའི་དབྱིབསན།ཁ་དོག་
+༽ ༽ བྱ་འོག་གི་མིག་ལྟ་བུ། མཆོད་འབྲས་
+ཡཁྱོར་བ་གསུགཆུང་ཚོད་ཡཁྱོར་ཕྱེད་
+གོ་གཉིས་རེ། གརནི་ཤི་ཚད་ཀྱི་དཔེ།
+ག་
+ཚོ
+༣ ལོག་གསར་དུ་
+ལགས་ཀྱི་
+ཛ
+བརྒྱད་
+1ཀཚོད་སྲིད་ཚོས་ ཞེང་དུ་དོར་པ་
+སེརབཅོ་བརྒྱད་བོད་གོས
+《མས་ལ་འཚོ་བའི་ཁྱོད་ལུ།།
+मालेगा
+t FE，
+༼4 ,，，，་，, ,
+, -
+ས
+r
++-++
++
+--
+,+
++
++
++
+བ
+བ ་་་་་་
+
+
+
+་
+་
+་
+-
+་
+-
+-
+-
+----
+-
+-
+-
+-
+-
+--
+་་
+-
+ག
+ང ས་དུ་ ཧོར་ཟླ་དུ་ངཅིགསཏཱིཙྪ་ཧོར་ཟློངནུ་གསོ་བའི་ཚོས་ཧོར་ཟླ་དང་པོའི་ཚེས ཧོར་ཟླ་གཉིས་པའི་ཚོས་ཧོར་ཟླ་གསུམ་བཙོས་ར་བཞིབའིཚོར་ མ འི་ཚོན་ ཧོར་བའི་ཚེས་བཅུ་ཉེར་བདུན་འཚོག་བདགོར་ཟླཅདཔགཚེས ཧོ་ཟླ་དགུ་བའི་ཆོས་ལདུལཙས་མ
+z བའཉིས་སྐྱེས་འགའ་རྒྱ་ལྔ །།
+ནས་ད་བཅིག་༧ བཅུ་དྲུག་ནས་བཏུང་ཉིས་བྱུ་དྲུགམག ཡཔའི་བཅོ་བ་དག་ནགཉིས་བཞི་བདུ་དྲུགནས་གསུམ་པའི་ཆུ་གནས།བཞི་པའི་ ཞག ལྔ་པའི་ཚོ གནམ་གབའི་འཚོ་ཝཇུག་ནས་བདུནཔའི་བཙོ་གནས་བརྒྱད་པའི་འཚོ་བཅུ་དྲུག་ནག་དཀུ་པའི་དྲུགནས།བཅུ་པའི་བཙོ ཀྱི་སྐུར་གྱི་ངོས་ཚོན་ལུགས། ལྟདམན་པ་ཕྱག་དར་ཁྲོད་ཀྱི་ལོ་་
+བཅོ་ལྔ་དང་གོ་བ། པའི་བཅོ་ལྔ་བ་རྒྱལ་ཟླ་ཛ་དང་བཅུ་ སོ་ལྔབར་དོ། པཚོ་ལྔ་ནག་པ་ཟླ་བ། བཅོ་ལྔ་བར་ས་ག་ཟླ་བ་ བ་སྙམ་ ཁ་ཆུ་དར་བ། ལྔབར་གྲོ་བ་ཡིན་ཟླ་བ། རྫབར་ཁྲུམ་སྤྱོད་ཐུབ། བཅོ་ལྔ་བར་ཐ་སྐར་ཟླ་བ ཙ་བར་ཚུ་གི་ཟླ་བ། ས་ལ་
+།
+ག ནས་པ ་
+དགུན་ཟླ་དང་པོ་
+༈ གཉིས་པ་ } གསུམ་པ་ } བཞིའི་ དཔྱིད་ཟླ་དང་པོ་ གཉིས་པ་ [ གསུམ་པ་ ་ བས སྟོན་ཟླ་དང་བོ་གཉིས་པ་ ། གསུམ་པ་ བཞི་པ་ - ཡོངས་གྲགས་ཀྱི་ཐ་སྙད་དང་མཐུན་པར་བྱུང་ཡོད་དུས་ཚིགས་
+དུབྱེ་ཚུལ། ༈་དབྱར་ཐུང་དུ་ངོས་བཟུང་ནས་དབྱར་ཕྱི་མ་ལས་ལེན་པའི་
+དནཟླརབ་
+ཐཆུད་ དཔྱིད་ཟླར་བ་ འབྲིདབོ་ ] ཐ་ཆུང་ དབྱང་ར་བ་ | འཁྲིའོ [ ཐཆུང་ སྟོན་ཟླར་བ་ | འབྲིང་བོ 1 ཐ་ཆུང་
+མགོ་ རྒྱལ་ མཆུ་ |དབོ་བཞི་དགུན་ | ནག་ ， ག་ | ན་ ཆུ་སྟོང་བཞི་བྱེད་ ཐོབཞིན་བྱ་ཙམ་འདུས་ཁྱོད་ཟླའི་བར་ཐསྐར་ ག་སྟེ་ཟླ་བས་གཞུ་དབན་གབ་བམ་སྒྲུབ་པ་སྨོས་མིཐུབཟླ་བའམ་
+དགུན་* ། དགུནསྨད་ དགུནསྨད +] དཔྱིད་ 1 དཔྱིད་*| གོ་ 1 སོག་ *[དབྱར དབྱར* སྟོན་ སྟོན་་ + བདྲུག་བཅོ་ལྔ་བརྩེ་ཅད་ཅུར་གཙོ་འཛིན་དེ་གའི་སླད་དུས་ ་
+，
+་་་་
+-
+--
+
+
+
+54
+，
+，
+་
+, དv: ：
+1
+།འདིར་མ་པ། སོ་ཐར་བསླབ་གཞིའི་དགག་སྒྲུབ་གནང་བའི་མཚམས། །ཚུལ་བཞིན་སྲུང་ལཆེས་བླུན་དཔེརིས་གཟུགས་སྔོན་བྱོནམ་ཁང་མང་ཕྱག་བཞེས་ས་དརཱར།།གསང་བའི་དྲི་ཚ་འདྲི་ལ་ཡང་ ན།
+1*མཆོག།དོ་དག་ལུང་སྡེ་མདོ་མཆན་འགྲེལ་དང་། །མཚོཊིཀ་རིན་ཕུང་ལ་སོགས་གཞུང་དུ་མར།།དཔྱད་གསུམ་རྣམ་དག་ཚད་མས་ལེགས་དཔྱདདེ།།རྫོལ་བརྩོན་མཁས་པ་རྣམས་ཀྱི་གཟིགས་མོར་བསྐྲུན། །འཁྲུལ་ལྟུང་བསྐྱིདམསཛྫག |
+ཤིང་ངས་དཔགས་ནས། །གནས་ཁང་སོགས་ལའང་རིགས་འགྲེ་སྦྱར་རུང་དང་།།གཙུག་ལག་ཁང་དང་སློང་ཁང་རྩིག་པའི་ཚུལ།།བསམ་གཏན་པ་ཡི་བྱིང་རྒོད་སེལ་བའི་ཐབས། །མཆིལ་ལྷམརྣམ་གྲངས་འཚོ་བའི་ཡོ་བྱད་གོས།།ལྷུང་བཟེད་འཁར་ །
+ག ་སེལ་ཆུ་ཚགས་བཀོད་དབྱིབས་ཚོད།།དུསཚིག་དབྱེ་བ་ཟླ་ངོ་འཛིན་པའི་ཚུལ། །དོས་བཟུང་བདེ་བའི་འམིག་དང་བཅས་པར།།ཐད་ཀར་རྒྱུ་མཚནམཆན་བུས་ལེགས་གསལ་བའི། །སྔོན་མེད་རིམ་གསར་དུ་བཞད་པའི་མཐུས། །ཁྲིམས་ལྡན་རྣམ་
+ཐར་གཙང་མའི་འདུལ་འཛིན་གྱིས། །ནོར་འཛིནམཐའ་དབུས་ཀུན་ཏུ་ཁྱབ་གྱུར་ཅིག ཎིས་འདུལ་བའི་དབུ་རིས་སྔོན་འཁོད་རྣམས་ཀྱི་དོན་དང་།རིམོའི་རྣམ་དབྱེ་སོགས་ཀྱི་ཁུངས་ལུང་དག་ཐེར་གྱིས་གཏན་ལ་ཕབ་སྟེར་ཆེ་གཙུག་ལག་ཁང་གི་བྲིས་ཆར་གསར་བཀོད་བགྱིས་སྐབས་
+མཚན་བྱང་སྨོནཚིག་དང་འབྲེལ་བ་འདི་ཡང་པད་དཀར་འཆང་བའི་སྐྱེ་ཕྲེང་བཅུ་གསུམ་བའི་གྲལ་དུ་འཁོད་པ་རྒྱལ་བའི་ཚུལ་འཆོས་ཀྱི་གཟུགས་བརྙམྦྷཤཱཀྱའི་དགེ་སྦྱོང་ངག་དབང་བློ་བཟང་ཐུབ་བསྟན་རྒྱ་མཚོ་འཇིགས་བྲལ་དབང་ཕྱུག་ཕྱོགས་ལས་རྣམཁར་རྒྱལ་བའི་སྡེས་དཔྱད་གསུམ་རྣམ་པར་དག་་བ་འདུལ་བའི་
+སྡེ་སྣོད་ཀྱི་བསྟན་པའི་གསོས་སུ་སྨན་བའི་མཚམས་སྦྱོར་དང་བཅས་ཏེ་སྨྲས་པ་དགེ་ལེགས་འཕེལ།།
+་ ་
+
+
+
+55
+| '
+.
+|
+...
+'
+::
+:
+:::
+:::::
+"
+,
+..:
+::
+*
+: '.
+::::
+.
+;..:
+:
+: : : :
+::
+... . .:
+..
+-;-
+:
+::::
+:::
+-*
+*
+"..
+.:...
+•.. :::::::
+১
+........:
+•
+.
+৫
+'',,
+,
+..
+:. .
+t
+'ps,
+.:. **;
+,
+,
+,
+.
+'
+-
+::::::
+'
+|
++ : '
+::::
+.
+,,,,
+:.:.:.:
+:
+' '
+':
+'
+'
+* '
+*
+:::::
+:::
+*.
+।
+:
+,,
+..
+.:..:
+।
+. ..
+"
+',
+::::
+.
+.:: ::...:
+::::::
+:::::::
+;;
+.
+f
+:::
+। । .
+:::::::
+4
+.
+"
+;;
+;
+'-
+#
+fff
+. * * *
+',
+'.
+..'
+সময়
+শখ! ১ শ শশা। মানুষ। এ এম এম
+" হ যা যা
+৭
+৭ ৪
+? । - 4 । ও
+| ময়মঃli বঁারায়া লীগ) ঃ নং | অ ! মামা যন্ত্রণায়া মা এমন
+កន្តាំយយ"
+5F না rru
+| সেঁকy, y = ত + y + স; পy : 47 47** ৫72; প? ফুল ক
+{
+চ, ল') । যধহঙুলনা
+{ 'সু9143 4343» 133 1 }।
+1. এই
+4 57.
+*
+-H
+tw
+'..
+'; '
+"।
+:
+:
+'
+।
+•
+এ
+....
+১
+ম
+:.:.:.:.:.
+.
+ম
+:
+:
+...
+.
+,,
+'...''
+.
+..
+...
+.
+.
+. ',
+.
+.
+'
+......
+.....:
+::::::
+:::
+..
+:::
+:::
+,
+:
+::.
+• '
+.
+' '
+.
+.
+:
+::
++:
+::::::::
+"
+:
+:
+::
+.
+:...
+::::::::
+:..
+:::...:
+',
+, ,
+*
+*.
+,
+..
+.::
+'
+'''
+:
+,
+. .
+::
+:::
+'..:
+| '
+,
+::
+'::::
+..
+..'
+:
+:
+.::::::::
+, ,
+:
+:::::::::::::::
+'
+::::
+:::::::
+.
+:.:.
+, .:.
+:.
+
+
+
+PHONE:::
+...
+:...
+. . .
+, .
+.
+....
+.
+..
+.
+:
+:.
+:
+.
+::
+':
+' .
+.
+.
+.
+:::::::::
+...
+:::::
+:::
+.
+:
+.
+Cli
+:::
+. . .
+.
+:::
+...
+..:
+:
+. ...
+::
+::
+.. ..
+:
+::::::
+T
+::::::
+::
+:::
+::
+:::::
+...
+::
+:
+........'
+:
+:
+::::::
+...:.::
+::::::
+::
+.....
+MANIINIHINI
+ifae ke
+kissecticlestinikalees
+में
+26
+:
+FACH
+:::
+.:
+4NEL
+.. . ."
+RSHA
+:::
+HADHE. .
+45
+::.::.:....
+:
+::
+.:
+FIRTEE
+SHREE
+SPLE.
+.::
+::
+..
+है.
+:::
+*
+E
+S
+::
+Fi: REE
+AREE
+::::::::::::::
+:::::::::::::
+::
+..
+:
+:
+....
+.
+HES
+......
+का
+अपना बनाना Hilaayaralaji
+बरत! नयनवा दोनalailaa
+a aai
+s
+यया अनबनया टापागTINE कागार
+ताल!
+HIMNE टा गा Tulu ilaj if it is in a
+MAY APNA गायोग में
+-111.
+11IN ... 1011ti
+HALA
+ABHAH
+. .. .. .. ..
+RE
+.:::
+::
+:
+H
+.....:.
+::::::.
+:::
+:.
+-
+--
+. . . .
+:::::
+..
+::
+:::":-
+..:::
+:. :::
+':.:
+8
+:::::
+.
+LE
+':46
+::::::
+:::::
+::
+::.
+... ... ..
+554
+::
+4
+. .
+::
+::::::
+::::
+HIR ITE::::::
+..
+::
+::.
+28:.:
+का
+: ..
+.: '....:':::.::
+..
+'
+::::'..:::.
+'...
+:
+..
+i
+:
+.-
+:
+ETC
+.
+mm nime no TATTINO O M S
+༣་པ་ ༼ཁ་་༌་་་༌་། ལ་འ ། ། འ ག༌ ལ་ཀཾ
+i iii
+.
+. .
+. . '
+:
+..
+E
+:. . .
+'..
+:
+:.::
+...
+.
+::
+म:
+:::::
+:
+:.::
+.
+E
+.:.
+... .::
+::..
+F
+:05..
+NEE.
+...:
+..
+15..
+*
+:-:
+'
+::...
+-:
+12
+.
+.:
+::::-
+.
+::
+..
+:.
+SH
+EARN
+.
+C
+
+
+
+.:
+.:::.:
+..
+.
+.....
+..
+::
+:
+.:::::
+:
+:
+:
+::
+:
+:
+:
+:::::
+.
+...
+::::::::..
+.:.::.
+H
+E
+E
+RE :"
+:
+:::.:
+:::::..::.:::
+:::::::
+INTERE
+p 12kRRRRRRR2B
+THEHARLES':...
+R
+Škkkkkkkkkkkkkkkt Run LKRENZA
+'
+FELSE
+SE
+HAR
+erekt
+::::
+:
+::
+--
+:::::
+:::::
+:
+::
+:::::
+:: :::::
+::..::
+::
+...
+...
+-
+...........
+:
+.....
+F
+-
+न
+SHREE:
+8560888
+:
+8
+:.:.
+::::::
+:::
+पद::
+:
+::
+:.:::
+:
+S
+HER
+1.:
+:::
+:
+:::
+...
+.
+:..:....:
+सिमा
+HAHANE
+९
+ECHERE
+.::
+:
+.:...
+THHILE
+:
+*
+:. ..
+ECE
+:::
+नागच भयानमानवतनधाना
+दिना
+माना
+ARAN MANT
+সসসসসসসসসসসঃ সকল
+mmmming गोगे गाणगाना ती तो जीना रदEEEEE : it in iii Hi Tir fit:
+गेगोशगंगा . भायोले
+पु गेनेगमें गंगा
+ངང དངན ། ན་ ६९३९३ १४४ मत
+१३.- 94
+3 11111111111५५ ११.
+५५ बस
+म
+SHEEHit
+FANAR:::
+मा
+A
+H.
+.....
+:
+060
+:
+:::::
+HERE
+FREEDHIARRH
+m
+'.
+.:::
+::
+SAR
+::::::::::
+:.:.
+::::
+:..:::::::
+..'.
+EFFEHEE
+.........
+":"::.:..::-
+:-
+.....
+:::
+:::
+:::::
+......
++HINDI
+E
+.
+:
+H
+...:
+S
+:::::
+HERA
+.....
+....."
+:::
+856
+::::
+.
+FEE
+::::
+.
+::
+:
+:::::::::::
+:
+:::::
+::
+.
+.::.:.'--
+.
+::....:
+....
+..
+::::::::::::::::
+:
+REET
+............
+:::
+PAC356
+.::
+HES
+.:.
+WwHOON
+RAN
+:-
+HARE
+Color
+-
+मर
+::::::
+१०
+:::::::::::
+ti
+४०
+६
+HERE::::::::::::
+PHE
+::::::...:::::::::
+'-.-.'..:
+::
+1M
+९.::
+4E
+.....
+::
+::
+:::
+:::::
+:
+..::.:....:.:
+:.:
+
+
+
+.
+১, ,
+..
+৩. :
+.
+ই
+.
+ty
+:
+st
+*
+র
+*
+.
+.:
+t
+:
+*
+..
+*
+*
+*
+'
+'
+.
+"
+::
+:""
+:
+:
+.
+,
+.
+২
+%
+'
+::::
+'
+.:::
+::::::
+;:
+Beণ$$$
+| ময়মনঃ অসমত্মস্বামঃ সশস্মম্মম্মম্বশ্বসুষঃ অজয় অর্জন
+:::
+;
+'''
+:
+RIS
+%
+*
+,
+"
+শ
+::
+|
+'
+* *
+iiiii
+,
+;
+Hil
+:
+.
+-
+.
+'
+$
+,
+*
+iii
+ননন
+m
+য়
+,
+tits
+,
+3
+,
+#
+#
+"
+.
+'
+:
+পি |
+:::::
+iii
+:::::
+,
+...
+':
+H
+:
+.
+*
+১৩
+..
+N
+C
+:
+#
+,
+::::
+::
+::::
+WW
+:: '
+ii
+:
+. :
+::
+:
+::
+:
+::::
+,
+*
+::::
+:::::::::
+::::
+শ
+*
+:
+i
+:
+ii.
+#
+A6%ঃ ££££££££££ঃ
+4 Hশ 134ধু ধু শখ |
+২১২ ২
++ + + +
+:::
+:
+,
+.
+২১
+:..
+১৪ :::
+41
+ht
+:::::
+,
+:
+,
+::::::
+::
+:::::::::
+,
+,
+,
+|
+৭
+।
+-
+''।
+
+
+
+.
+::
+::::
+..
+'-: .
+:
+::::::::
+::::
+:
+:..:..:
+.
+.
+::
+.
+:::::::::::
+..
+.
+::::
+..
+'
+:::::
+1.
+'.
+KON
+.::.::.
+::::::::::
+TAREEnt
+:::::
+:
+:
+4
+...::::::
+8858
+*
+:::
+PHEithe
+मा
+HEARTHARRERE:
+..
+.
+:::::
+::::::::
+.
+BSASS
+SHEETEERLEERA
+:-:
+H:::::::
+625
+:
+.:
+-
+.
+2-
+::::
+:::
+:::::
+:
+:::::::
+SHE
+::
+HE
+'::::::
+::::
+::::::::::::::::::,' ::
+::::::::::::::::
+A
+H
+::::::..
+:
+E:::::::.:...::
+.
+..
+:::::
+::.:...::::.::.::..:.
+-::::::::
+S
+::
+EEEEEE:
+:::
+"
+.
+:.::...:
+:::RATHI
+.
+..
+::::
+:::
+::::
+:::
+::.
+:
+...
+TINEHE
+58
+R
+MACHA
+.
+..
+HRESTHA
+104
+:
+::::
+.
+:::
+S
+:- ..
+....44
+S
+9...
+......
+7
+.
+.
+C
+::::::
+अनमोसावी याबाट बना दवादददददददेवतदिदा
+लाEिTTrata ५१११११129081
+8452 दिवादावर दाखवर
+गमगंगवानारामाननगंगा ममम मममममम । Farmenायगगगगगगगगगगगगगा
+hthindihinths XX88XXF8X9X3**
+IS flifiii18 rydy'YRFFFFFFFFFY!
+रहतेते तत्तत् तत्तैरेंत त । __KERT RE 2 R 3
+- ह ई दर
+४२१
+-.११७३१७५1111111141414141414122111१३.
+....
+.:
+...
+-:....
+.:.
+::::
+:::::
+a
+'..::::
+::::
+:
+::....
+.
+THREENAME
+:::::::::
+45
+:
+:
+::::::::
+CTUS
+procent
+YHUNT
+ATE
+:
+:
+93338
+::.
+..
+.:.
+..:::.:..
+:
+R
+:
+::::..:
+:
+::
+:
+:
+2
+:
+::
+:
+:...:
+.....:
+:
+:::.::.:..
+HRA
+:
+:
+SOC:
+:::::
+R
+E
+::
+::
+HE
+::.:
+॥
+H
+:.
+::...:.:
+44
+ARH
+::::::
+HERE
+THE
+:::::::::
+::..
+..
+:::::
+ॐ58
+:
+:
+:::::
+:
+::....
+:
+:::::
+:::
+:::
+::
+:::
+:::::::::
+.......
+::::
+. ::
+... ... ...
+... "::::::..:.""'''
+
+
+
+::
+::
+:::
+::::::::::::
+::::::::::::::::::::
+:
+:::::::::
+::
+:::::
+s
+।
+Arif
+मलाबनवममनेत्यानातानतर कामावर यादववृक्ष
+A
+।
+alia:
+.
+.
+F
+~
+৩
+কা,
+/
+..
+•••
+:
+:
+ন
+Bir
+d
+s#s,
+*
+• ' *11...
+::..
+:
+th;
+:
+. **
+ক
+ত
+১৮,
+h, #
+৫,
+৫
+:::
+:
+5E
+#
+#
+:
+is :
+.
+*
+.
+::::
+::::
+:;:;
+::
+::::
+::
+:
+ter
+ত
+.
+kali
+:::::
+শ
+২য়
+/
+::::::::
+s
+errity
+*
+str
+Aা
+১১:
+ফ
++
+:
+.
+.
+,
+.
+।
+: রুশ
+fre:
+ক
+| H
+ils:
+**..
+:
+:
+#sis"
+:
+:::::
+:::::::
+::::::::::
+:
+:
++
+F
+::
+::
+ইম
+s
+“ সমনময়য়য়য়য়ম অনময়য়য়য়ানমনঃ ময়মঈগল্পম্নয়য়য়মঃ বাযig[.এবার
+বিববববববববববববঃ দদদদদদদদদদদদদদদদঃ undBugdfHন iifu? দুঃEি E ৰৱ
+শিমুঃ দুদুEEEEEE) সুধসুধামইল ২ঘষঃ নোংশঃ কণহ
+অনুধু
+এ4744 444444 ”? ২৪ এ {{{{ } {{siৰাৰ
+H
+it &##
+২
+#
+.
+#
+w.
+ius
+#
+s
+:
+:
+:
+:
+:
+:
+:
+:::::::
+:
+::
+:::::::::::
+
+
+
+A
+;
+সনক্সক্সক্স |
+
+
+
+*
+।
+41.
+,
+আমাঘমামাশ্বশ্বস্ব
+। ষষন্নষাজগঞ্জ
+শা
+*
+-
+-
+
+
+
+.
+• :
+জামা পরাম||
+স্বল্প
+কাম বাসাহিঙ্গা
+মা
+==
+| . As
+•
+•
+
+
+
+58
+TITUTO Town uuuuman UUUUUNTINUTruuuunt am FOR looul
+WANOI HONGQI FXSYT rari mall
+EO SEU DDI AARONI 2001 TINA Vowo
+IEUUUUU UURALALUORUNOUL W
+
+
+
+- 5,
+៩
+: *. *”
+។
+ង
+...
+|
+•
+-
+-
+ក៏ ១០២១០ខ្ទម៉ាកុ ២ ៧ហរបញ្ចេញសរ ហាជី ២ up U-ណារ UNEI XXamz
+qaEI Da ÉGIn C ក៏ល ញា THIn Iguazumថ្វារេល្ហល្អក្រលយមចូលចំរី ។
+*
+
+
+
+1 =ায়ু লম্বা হয{! ভায়া মম্বন্ধু সুম্বুল। ময়ময়মুনা । যমগ্নয়ায় ।
+་ ཨ ཐ ཁོ པ སུབྷྱཱ ༔ ཝ ལོ ཀི། ། ཨ མ ལ ཛྷ ན སྱཱ ཨི ཏྲཱ མ ཀྵ གྷོ ཥ ། ། ཧི མ༦ པ ཏུ སུ ཙུ ཞུལཾཅོཊ བ། ། སུ མ ཏིཀ ནྟི སྱ པདོདྨེ ཥ ཡ མ། །
+äিণাময়ৰমম্বলময় স্বল্পমন্সন্মান্ধায়মন্বষণায়মাবাঃময়ামমমমমম্বলক্ষ্মলন।
+ང ལག་ མང་ བ་ བའི གཏོར ཆན་ མ་ རས་ གཟིགས། །དྲི་ མེད མཁྱེན་ པའི་ དབང་བོ་ འཇམ་ པའི་ དབུས ། གངས་ ཅན མཁས པའི་ གཙུག་ རྒྱུ རཱ ཙོང་ ཁ་པ། བློ་ བཟང་།
+মায়ামৰাময়িষধহঃ মাসুম প্লৱ৷
+ময়ুস্বয়ম্বন্ধু ।।
+གྲགས* ང ས་ ལ་ ་ བ་སོ བ ༢དེབས
+মষ ঃয় স্বল্প খ্রঃ।
+Ar kanina
+১৮
+
+
+
+ཕ། རྟག་བ་ཟིགས་སྤུངས་ཚོ་བ་ནིང ནཝཱ •ཁག གནཨཱཧཱུྃ ཨཉྫགཌྷ དགག་
+༄༅། ཀ་ཁ ག ད ། ཅ་ཆ་ཇ་ཉ། ཏ ཐ ད ན] པ ཕ བམ།
+གི་ཚོ ཞག༌གནཾ གཞཞཞྭ ཤཱཀཞྭ ག༌ག་གོགོ@གཞུ ཟླུ ཤཱནྟཾ ཟླཆ་གནོ
+ཙ ཚ ཛ ཝ ། ཞེ ཟ འ ཡ ། ར ལ ཤ ས། ཧ ཨ ། ཀི ཀུ ཀོ ཀཽ ཀཾ ཀྱ ཀྲ། སྐ སྐ.། ཀོ གོ དོ ། །
+གླཚགནྟོ ཀཱ ཥྛ༔ ང མ མཟླཞྭ ཨ་མས ་འ #ཞོ བཞགྱི་འབྱུང་གནསཞོགསར་གཟིགསཔ་ཚེ་མོ་གླིང་། སངས་རྒྱས་
+སྐ ལྷ ལྔ། ཀུ གླཟླ། སྐུ སྐུ་ སྐུ, ། རླུ རླུ་ཆུ་ ཀྱུ ཀླུ ༀ ་ ཞིང་གྱུར་དེ་ཡི་ཡིཝརིགཡགཙོ། སྔངས་སོ་ཚེ་བ་མི་ནི་ཚེའཕང་
+གིས། ལུསྡཤཛི་མཱབྷིར་རྒྱ་བླ་é བདོཡབྷསུ། གཤེནཛལུ་ཡཝ་གཞིསཡེ་གེར་བཏབ། གེབས་རྒྱལ་ཝསྟནགསཔཕ་རྒྱུན་མེརཤནོ། སཙམ་ཡ་ རྒྱ་རྒྱ་རྒྱ༔
+
+
+
+༧ རྟག་གཟིགས་ཀྱི་སྔ་སས་ཆུང་བ་ནི། ཀུ6 ཟའགའ།རྣཐག་ཤངགའཨངaང་མགAགའ་ཝཱ་ཀ༌གངཤཞུཊ།།
+\༅i[. ཀ ཁ ག ང ཅ ཆ ཇ ཉ ཏ ཐ ད ན པ ཕ བ མ ཙ ཚ ཛ ཝ ཞ ཟ འ ཡ སྡུའཤག ཧ ཨ།།
+རྟག་གཟིགས་སྤངསཡཆེདབཞརོ་བཞབན ༡༥་ཁུའོ་ཁྲགས་པའི་དཔ༠ཁྱིར་ཁོན་ཐུབ་ཅིང། ལྕབན་ཡུལཝང་ཡུའི་རྩ་བདེ་
+་
+༧ བྱ་ཤའོ་ཡུས་ཕྱོགས་མི་སྡེའི། " ༔ མིའམd gat4 གངསྒྱུ་ ཀག་འག༔ ཆ་ཆ་།
+\@་། ཀ་ཁ་ག་ང་ ༈ ཅ་ ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ ་ ་བ ་མ་། ཙ་ཚ་ཛ་
+g ཝཱ།༣པ། མ་ཐ་ར་ བྱུངམ། གནའ་བོ་ཞུ་འོ་
+ཝ་། ཞ ཟ ཟའ་ ཡ་། ར་ལ་ཤ་ས། ཧ་ཨ་། ཀི་ ཀུ ཀེ་ ཀིཾ་ཀ་ ཀིཾ་།
+
+
+
+h
+། དེསསཞངཝཔགི་བརཡེག་ཨི་མནིངligཥྛ གཎཀརྫཊྚ ཆ་ཆ་ནpg # རྒཊྛ ཤག་ཊྛ ཞཆ་ཆ་ཆ་
+ཕ། ཀ ཁ ག ང། ཅ་ ཆ ཇ ཉ༽ ཏ ཐ ད ན། པ ཕ བ མ། ཙ ཚ ཛ ཝ།
+ཆ་ནཱཎཱཀྐཏྠ ཞགཉྫརྐབྦ དམི ན་ གོ་ག ཞང་ཞུང་སྤྱཡགྲགསསྨརཚནེ་ཡེ་ཞེ་ལི། སྤུ་རིགས་དང༄༅ནོ་ས་ཤནེ་ཨེར་གླུ་གར་
+ཞ ཟ འ ཡ། ར ལ ཤ ས། ཧ ཨ། ཀཾ ཀེ ཀོ ཀུ ཀྱ ཀྲ། ཡིས། མཚོ་ཊབྱཱགར་གར་ཤནས་ནས་ཨཏེར་་དྲངས། ཁྱེརཁསྟར་གསལ་ཁ་འདོ་འཐུ་བརྡུལ་དཨཱ་
+ཡ། ཞེསཝ་ཨི་སྨར་ཡིད་མྱང་ཡ་ནི་ 23༢ ༽ས་གས༣ དྷསཛྫ༥ པཎཕནམ པ རྨ སཾ་ཛ། ཞབསྣམས་
+བསག་ལྟ་ ༣༥༢ དམི་ཀོ་ཀླུས༄༅། ཀ་ ཁ་ག་ང་ ཅ་ཆ་སྣ་ཉ་ ཏ་ཐཱ་ ད་ ན་ པ་ པ་ བ་ མ; ཙ་ཚ་ཛཱི་ཝ་ ཞ་ ༣ འ་ཡ་
+ར་ལ་ཤ་ས་ ཧ་ཨ་། ཀི་ཀོ་ཀོ་སུ་གྱིས་སྐྲ་ མལྟེམཚུ་ མ་མ་ཨཱཁྱོད་ལྟོསཕདོ༥༤དྲ་གསུང༌། ༤༥ལཨུ ཏ ངཞི་རྩཞེྋ༥༤ དད་ན་ཡི(ཁསྐད་
+ན་ན་ལྷོ་ཀླུ་ཆུ།
+
+
+
+༤ས་
+-
+-
+ཡིགཉི།）
+འགོ་ཡིག་ཁྲ་
+ཚང་ཞིས་
+is ta
+manaངd
+r # pa
+in
+;
+a + མ
+ཀྱི་ ༠ མ
+mulum
+کر لیے
+:ཀྱི ས་
+aHE
+1
+༤
+I ༧
+ama
+PD, ༧༽
+Hall
+HHEI•
+zས་ཙ་ མ་སྡེ་གི་ ས་རྡོ་ཤ་ ཚོས་ད་སྟེ་འད་ དུསུwམཐལ་སྒོ་འབྱེད་ རྒྱུདསྐྱོ་སྔའོ། ༧ ཐོག་མེད་ཀྱིས་མཛདས་དགཞུང་མངོན་པ་ཀུན་བཏུས རྩེག་་
+==
+ན མ
+هل دم
+jpg
+برگه
+༦ ༩c5-
+h#f
+=#*
+$ བི
+jpjYI
+༤༡༩)
+༤32ཐ
+
+
+
+( སྒྲལི་ན་བརོབ་སྣང་གསལ་སྒྲོན་མེ་བཞུགས་པའི་བུ་ཕྱགོས་ལེགས།
+
+
+
+བློ། ། མཁྱེན་ལྡན་ཨ་སམ་ཁྱབ་ཡང་སའི་དཀྱིལ་འཨུ་ུ་་ནས། རྣམ་མཁྱེན་རྟ་བདན་སརྨའི་ཚཟེད་རྒྱས། ས་མདོ་དབངཔ་གྲུབ་རྒྱམ་བགྲགས་ །
+ལྡན་འསྟེ། རྩ་འཛིན་རྣམ་དག་རྒྱན་གསལ་བྱ་ལམ་དང་། ལྷ་མི་འགྲོ་བའི་གཙུག་རྒྱན་སྐལ་བཟང་བ་ག། ནོ་བུའི་མདངས་ཅན་ས་མ་སུམ་པ་འཛིན་
+འཁྱིམ་ཅན་ན་གསུ་ས་སྐྱེ་དགུའི་མགནང བརྒྱ་སའི་སངས་རྒྱས་རྒྱམ་བན་ཐད་་གར་སྔ། མཆོད་པ་རྒྱན་གྱིས་མཆོག་གྱུར་རྣམ་པ་རྒྱལ། སྟན་པ་རྒྱལ་
+བ་གཤེན་སའ་ཞབས་པད་ལ། སྒོ་གསུམ་དང་བས་གྲུས་རྩས་ཕྱག་མ་ལ།། བདགི་བག་་གཏེདཔོན་དབྱིག་མཛད་ལ། ལོ་སུ་ཕྱིང་གསང་བ་གསུམ་པ་ཕྱེ་
+དེ་སྤུས་དུ་མརྟབ་འཛིནཙམ་ནཤད་ཅིང་། རྣམ་འགྲོལ་གསལ་མུ་ཁྱུད་་ལྡན་འཕྲེང་བ་ཞེས། སྒྲ་སྒྱུར་ལོ་པཎ་རྒྱལ་བ་སྲས་རྩས་ལ། དཔལྡན་སྶརྒྱུ་སྤྱི་
+ཁྱགལ་ལོ། མ་ཞང་ལུགས་ཚུ་རྩ་གཏེད་གཏིང་ཟབ་ལ། གཞལ་མ་མི་ནུས་བྱེ་མའི་ལཙམ་མ། བས་མང་ཙམ་ཡ་མི་ནུས་བཤད་པའི་རྒྱུ། ནོ་ཀྱང་
+ལྷག་བསོ་ཉམ་དག་གཞིར་བཞག་ན་ ཚད་ག་སུ་ལུང་གི་འཕྲང་ལས་སྟན་བསགས་ཏེ། ལེཌ་སུད་བཀྲ་བའི་སུབ་མཛེས་མེ་ཏག་ཕྲེང། བཀའ་ལུང་ཟབ་མ་བྱེད་
+འདི་དལ་མ། བསོ་བསོ་ཤེས་བྱའི་བསྲུབ་ཤིང་དང་ཙུ། ཉེབས་བརྩོན་འགྲུས་བགེ་སའི་ལག་འཁྱག་སྟེང ཡུ་ཞིའི་རྙིང་ས་ཡིད་བཞིན་རྟ་རྒྱང་རྒྱས། དགོས་
+འདོད་མ་ལུས་འབྱུང་བའི་ཚ་དུ་མནང བྱསོརྩན་ལ་པད་མ་འདབསང་རྒྱུ། བུ་ཆུང་ཁྱུང་གླེང་སླད་ཅན་གཏན་ནས་བསྡེ། བློ་དམན་ཞལོ་ན་ཚོགས་ཞེས་
+རྒྱང་ཐག་བསྲིང༌། བློ་ལྡན་མས་རྣལ་འཛམ་རྣམས་འདི་གཟིགསཔའི། སྒྲ་ཡི་འཚོས་སྐྱོ་གཉིས་གསུམ་གཞི་མ་ཡི། ཨིསུ་མཚན་ལགས་སུ་གསལ་
+
+
+
+བ་ལ; འདི་ནི་དནེ་སེབ་འབལ་དཅལ་ལྟུག་པ་སྟེ། ཕབ་$རོ་གསལ་བའི་སཞེས་བཤད་རྣམ་དུ་མཛེས། ཚག་གི་བརྗོད་བྱ་གང་གི་ཡིད་འཕྲོག་པ། དབྱངས་
+རལོ་བའི་ཏགས་བཞུམ་བྱས་ནས། འདི་ཉིདི༥ཏེ་སད་བྱ་བ་དང་པོ་མ། རྗེ། སཔ་རྒྱས་ཀྱི་བསྟན་པརྟནི་པོ་ཆེ་འདི་མ། ལང་པའི་སཱནོཏན་འཇིག་རྟེན་ཁོས་
+བརྒྱནས། རག་པའི་གནས་ལྔཅུ་འབྱུང་བ་སྟེ། དེ་ཡང་ཐོག་མར་བཟ་དོགི་པ་དང༌། སྒྲ་རྟགས་དང་། ཕྱི་དགི་པ་དང༌། ནང་སྟག་ས་དང་ལྔ། བབསྟགི་ས་ཅི་བསེ་
+རབ་ཀྱི་ཀློང་ལས་སྦྱང་། སྒྲ་དག་པ་ནི་སྤྱི་རྗེ་ཁྱུང་ལས་བྱུང་། ཕྱིརགི་ས་ནི་ས་བདག་གཡུ་@སུ་ཚལ་ལས་བྱུང༌། ནང་གིས་ནི་ཀུན་ཡིད་བཞིན་རྒྱལ་བ་ལས་བྱུང་།
+གས་བསགིས་ནི་ཡེ་ཡོདོ་ཉམ་བའི་མ་མོ་མ་བྱུང་། དེ་ལུ་ཐོན་ནི་རབ་ཀྱི་རྩེ་མ་གཏན་ལ་ཕབ་ཏེ། བཟ་རྒྱམ་ར་མ་ལི་ཤོ་ལ་བསྟན་ཚེ། སྒྲཅུག་པ་ལ་གསུམ་
+ང་ཕྱོས་ཏེ། ལྷ་སྔ་མ་ངུ་ཏན་ལ་ཡ། རྨ་ལོ་གཡུ་ལོ་གཉིས་མ་བསྟན་ དེ་ཡང་སྒྲ་ཚད་གཉིསུ་བྱུང་བ་ནད་ཀྱང་གཉིས་ཡིན། ཕྱི་རྟགས་མ་འབུམ་སྡེ་
+ས་སུ་དུ་ཕྱེས་ན། དྲི་བ་ཀྱི་རྩ་གཏན་ལ་ཨམཱཏེ། གང་ཚེ་འཕྲུལ་གྱི་རྒྱས་པ་ལ་བསྟན་ཏེ། ནང་པའི་ས་ལ་འབྲོ་སྡེ་གསུམ་ཕྱེས་ན། ཀླུའི་སུམ་་་གཏན་ལ་
+ཕབཏེ། ཀླུ་གྲུབ་ཡིས་ཞིང་པ་བསྟན་ནི་ གས་བག་མ་ལ་འབུམ་སྡེ་གསུམ་དུ་ཕྱེ་ན8 གསྤང་དགུ་བརྩེགམ་དུ་གཏན་ལ་ཕབ་སྟེ། དཔྱད་བུ་ཁྲི་ཤེས་ལ་བསྟནf{ }
+དེ་ལ་བཟོ་དང་ཕྱི་ནང་གསོ་བརག་པ་བཞི་ནི། དང་དང་གཞུང་འབམ་གསམ་ལ།: སྒྲོ་གི་མ་ད་ལ་དན་རྣམ་པ་ལྔ་ཡི་བསྟན་ཏེ། སྒྲ་དང་སྒྲ་མཉན་སྒྲ་སྐད་དང༌། །སྒྲ་
+ྋརྒྱུད་དང་སྒྲ་ཚད་ང་ལྔའོ། དེ་ལས་སྒྲ་ནི་ཐགེ་མདུ་ནངོ་སའི་ཀྱང་ནས། སངོ་ཚན་འགག་མེད་དུསུང་སྒྲ་སྒྲོགས་མ་བྱ། སྒྲ་མཐུན་ནི་འགྲོ་དྲུག་གི་ཡེནཔུ་རང་གི་
+གོ་ཡུལ་དང་མཐུན་པའི་ནང་སྒྲ་སྒྲོག*་མ་མ་བྱ། སྒྲ་སྐད་ནི་དེ་དགས་སུ་ཁ་ཁྲོད་དུང་གི་སྒྲ་སྐད་ཅི་བཞིན། བཏོགས་ཀྱང་དེ་དག་གི་སྒྲ་སྒོ་་དང་མཐུན་པ་ལ་བྱའོ།
+., ། །ཨོོལུར་ཕཏན་ཁབཞ༨?
+
+
+
+c3
+འབུབ། སྒྲ་སྒྱུར་གྱི་གཡུང་གི་བནོ་ལ་མཁས་ཤིང་སུག་ཡུ་རྟགས་པ་ཡི་ རྒྱལ༌ཡག་མ་ོཔཏྲ་གཤེན་ས་རྣམས་ཀྱི་ བནོ་ཉིད་ལས་འཁྱུར་བ་མེད་ཀྱང་། བན་
+།ཅན་ག་མཚན་མན་ལ་བརྒྱུད་གཅུབ་ཅིང་། འགྲོ་བསང་མཐུན་གྱི་སྐད་དུ་བསྒྱུར་བ་བྱའོ སྒྲ་ཚད་ནི་བན་དག་མེ་དན་བཞི་ལ་བརྗོད་དུ་མེད་ཀྱང༌། བན་ཅན་
+ལ་ ་བརྗོད་དུ་བྱུང་བས། ཚགི་གི་གྲོས་མས་ནེ་གྱི་ག་ར་ཤ་གཅོད་ཅིང་། རྟག་ཆད་ཀྱི་མཐའ་བསལ་བའི་མི། འགལ་བ་ཡང་ང་མནན་ཡུ་ཇོབ་སྟེ། གལ་
+ས་་ཅདོ་སའི་ཕྱིརྟི་གསུང་ཞིང་། ཐེ་ཚོམ་གྱི་སྒྲ་ངོ་ཚ་ག་ཆད་ནས། དེས་ན་རྟག་གསུམ་ལ་གཞལ་ཞིང་། ཚད་གསུམ་ཟུང་དུ་འབྲེལ་བ་དང༌། བདེན་གཉིས་ད་
+མཉམ་དུ་བྱ་བ་རྣམས་སོ། .གིསུ་་་ལྷའི་སྒྲ་དོད་ཀྱི་སྐབས། སྤྱིར་.གིས་བྱེ་བྲག་གསུམ་དུ་བསྟན་ཏེ། སྤྱིཅུ་འགྲོ་བསགྱི་དྲུག་ལ། སྒྲ་ཡང་དུག་ཏུ་ཆད་པ་ནི།
+སད་རྗེ་ལྷ་ཡི་སྐད་་། སད་མན་ལྷ་མིན་གྱི་ཀ་སང། འཕེ་འགྱུར་མི་ཡི་ནད་དང་། དུ་མ་བྱལོ་པང་གི་ནད་དང༌། སྲིང་རྒྱུད་མི་དག་གི་ནད་དང་། དུ་ཏི་དམ་
+བའི་ཀ་་་། སོ་སུཔུ་དེ་ལ་ཡང་དྲུག་སྟེང དང་པ་ཡེ་སྲིདི་ལྷ་ཡི་སྐད་དང༌། ཀ་པི་ཏ་ལྷ་ཡི་སྐད་དང་། ཏདུན་ག་ལྷ་ཡི་སྐད་དང་། ཁྱིཧ་ལྷ མིང་ང་ལྷང་
+ཀ་མ་སིང༌ཀ་ལྷ་ཡི་སྐད་དང་ག་གེ། གཉིས་ས་ལྷ་མན་མ་དྲུག་ནི། ངའི་ལྷ་མིན་གྱི་སྐད་དང༌། ཟང་ཞིང་ཀླུ་མན་གྱི་སྐད་དང་། ན་མར་ལྷན༔ མགོ་ཐག་
+ལྷན: དྲིས་ཞི་སྨི: ཐང་ནི་ལྷ་མིན་གྱི་སྐད་་པ་ག་གོ། གསུ་པ་མི་ཡི་སྐད་ལ་དྲུགསྟེ། ལས་འ་ཕག་ས་སྒོན་མ་མཆེད་བ་ཁྲི་སང་བན་ན་ཡི་སྒོ་་དང་། སྒྲ་མི་
+ཉ་རྣམ་ལ་སྒྲག་ ་ས་བདག་ས་ཅན་གྱི་ཀ་་དང་། བན་གླང་སྤྱོདf;ན་མ་བཝི་ཡ། ཙུ་ཡ་གླིང་པའི་སྐད། འཇོམ་ཐུ་གླིང་ན་ཚ་སམ་ ཅི་མེ་བྱ་ཡི་སྐད་དང༌།
+།
+
+
+
+3:་བདན་གྱི་མི་ལེཌ་སུ་སྨྲ་བ། དྲི་དེ་རྒྱལ་གྱི་སྐད་དང་། མི་འམ་ཅི་གཅམ་ཡ་མ་བན་ཏི་ཤི་མཚོ་གྱི་སྐད་དང་ངུག་ག། བཞི་པ་བྱལ་སཔོ་ལ་དྲུག་སྟེ། ལྷན་པ་འདབ་ཆག།
+གི་སྣ་དང་། རྔམ་པ་གཅན་ཋན་གྱི་འོད་དང་། འཚེ་་བསྟི་དག་གི་སྐད་དང་། བརྟན་ས་གཡུང་དག་གི་ནད་དང་། དམ་ཆོལ་ཁྲུན་པའི- ཤ་ལི་ཀླུ་ཡི་སྐད་དང་དྲུག་ ལྟ ་ས་ཡི་
+ངགས་མདྲུགསྟེ། སྲི་ཏུ་ཚོར་ཚུན་གྱི་སྐད་དང་། འབྱུང་པའི་ནད་དང༌། འི་རྒྱུ་ཁ་འམ་མl སྲིང་དུ་ཕྱིའི་སྒྲིབ་པ་ཅན་གྱི་ སྲིང་ཚེ་ནང་གི་སྒྲིབ་སརྩyསྒོ་དྲུག་གཟག་པོ་
+དམྱལ་བ་ལ་དྲུག་སྟེང ད་སྲི་འཇིགས་པའི་ཀ་དང༌བ་ལྷེ་རྔལ་པའི་སྐད་དང༌། ད་ན་གདུག་པའི་སྒོད་; དུ་རྩི་ཉན་མངས: དུ་བ་ཚ་གྲངས་གཙོ་བསྲག་གི༔ པུ་ཏི་དུ་སྒྲ་མཆུ་མེད་
+དམྱལ་བའི་སྐད་དང་དུག་ག། བྱེ་བྲག་ཏུ་བསྟན་པ་ནི། འགྲོ་བ་ས་དྲུག་གི་སྒྲ་སྐད་དང། ནད་ཆེན་དྲུག་པསོསྟེ་ལ་ཡང་། སུམ་བརྒྱ་དྲུག་རྒྱསུ་དབྱེའོ། །དེ་ལ་མི་མཐུན་སའི་སྒྲ་ལེན་པ་ལ།
+ཟད་པ་དང་འགྲིབ་པ་མེད།། དེ་ནི་སྤྱི་མོས་བྱེ་བྲག་གསུམ་དུ་བསྟན་པའོ། ཚོས་སངས་རྒྱས་ཀྱི་བསྟན་པ་ཆགདུལ་ཕབ་པའི། འགྲོ་བ་མི་ཡི་ཀ་་ལ་གཉིས་ཏེ། བསྒྱུར་དུ་གཏུམ་པ་དང་།
+མི་གཏུབ་པ་གཉིས་། བསྒྱུར་དུ་གཏུབ་པ་ནི། གླིང་བཞི་དག་པའི་མི་དང༌། དྲི་བ་ན་གྱི་མི་དང་། ལྷོ་འཛམ་བུ་གླིང་གི་སྒོ་ཆེན་རྣམས་ལ་གཏུབ་སf། མི་གཏུབ་ས་ཉི་གླིང་ཕྲན་གྱི་
+མི་དང༌།: མཐའ་འཁབ་གླིང་མུ་རྟོསཾ་། ཀུན་རྫོབ་ཀྱི་ཆ་ཙམ་ལམ་ག་ཏགས་པ། རྒྱུ་འབྲས་བ་ན་སའི་བནོ་ཨན་བསྒྱུར་དུ་མི་གཏུབ་པའངོ ག་འལྷ་ལ་གཉིས། སྤྱི་ུ་བསྒྱུར་
+བའི་ཀ་དང་། སི་པར་བསྒྱུར་བའི་སྐད་དང༌། སྤྱི་ུ་བསྒྱུར་བའི་ནད་ལ་གཉིས་ཏེ། དག་པ་གཤེན་གྱི་ནད་དང་། གང་ཟག་མིའི་སྐད་དང་། དག་པ་གཤིན་@་ན་་ལ་ལྔ་སྟེ། རྩ་བའི་
+སྐ་་གཅིག། ཡན་ལག་གི་སྐད་ཆེན་ས་གཞུང་བཞོ། རྩ་བ་ཉི་གསྲུང་ཁྱུ་ཡི་རྐ་། ཡན་ལག་གི་ནད་བཞི་ནི་ གསྲུང་གཙང་མ་ལྷ་ཡི་ཀ་་༌། དག་པ་ལྷ་ཡི་གདང༌།
+སངསྨིན་ལྷའི: རྗེ་རྩེ་ལྷའི་ཚད་དང་ལྡའ། དེ་ལ་གསྲུང་ཞེས་བྱ་བ་ཉིང བན་ཉིད་དབྱིངས་མི་འགྱུར་བའི་ཀློང་ནས། བན་གྱི་མཚན་མ་ལ་འགགས་པ་མེད་ཅིང་། བནོ་ཉི་དང་སྒྲ་སྒྲ།
+;
+ཤིས་
+1%སྒྲ་ཏུ་
+
+
+
+64
+༣
+༄༅། པ་ལ; སྒྲ་སྒོ་་གང་གིས་བསྒྱུར་དུ་མེད། རང་དབང་དང་གིས་བསྒྱུར་བའི་སྣ་། ལྕ་ཞེས་བྱ་བ་ནི། དམུ་གཤེན་ཁྱུ་ཡི་གདུང་ལ་ཆད་ཅིང་བྱིན་གྱིས་ཡུཝ་ཏེ། ལྷོ་འཇོ་
+ས་གླིང་གི་དམིག། སགོ་ཀ་བན་གྱི་འབྱུང་གནས། གནས་མཆོག་མ་ས་འལོ་མ་ལང་རུང་གི། རྒྱལ་ས་གླིང་བརྒྱད་ཀྱི་དནས། ས་སྲུང་དགུ་བརྩེད་ཀྱི་དརྩེ་ལ། མི་ཡི་ཉནོ་ས་
+ལྷ་མཛད་ན། དབང་ཆེན་ལན་གྱི་རྗེསུ་བྱནོ་སའི་ཉེས་བྱ། ཀོད་ཅེས་བྱ་བ་ནི། སྔོན་གྱི་༥ནོ་པ་བདེ་གསགས་པ་རྣས་དང་། ད་ལྟ་བཞུགས་པ་དང་མ་བྱན་རྣམས་ཀྱང་། འདསུ་འགྲོ་
+བ་མིའི་མ་ལག་སུ་བྱན་ནས། དེ་དག་བན་གྱི་ཨ་མ་བརྒྱད་ཁྲི་བཞི་སྟང་ལས་སྲས་ཏེ་གསུས་པའི་སྐད་ཅེས་བྱའོ། དེ་ནི་ལྷ་ཀླུ་མི་གསུམ་དང་། འགྲོ་བཔས་དྲུག་གི་སམེས་ཅན་གང་གིས་
+༦ ཡང་བསྒྱུར་དུ་མི་གཏུབ་པའ། གཞན་མི་སྣ་་ཞི་གང་གིས་བརྒྱུད་དུ་གཏུམ་པ། གསྲུང་ཁྱུ་ཡི་སྐད་ནི་ འ་རགིས་ཐམས་ཅད་ཟས་གྱིས་གནོན་ཞིང་འགྱུར་བ་མེད་སའིཞད་ད། །དེ་ཡང་དལ་
+. སའི་ཚད་ནི། རྒྱལ་ས་ཁྲང་གླིང་བརྒྱད་ཀྱི་སྐད་ཆེན་པ་སྡེ་བཞི་། སྐད་ཆེན་བཞི་ནི་རྩ་བ་གཞུང་བཞིའི་ན། གཙང་མ་ལྷའི་རྣ་་ཧི་མ་ཕྱགོས་ཆུ་བ་ནན་ཛཔའི་རྒྱུད་མ་བསྒྱུར་
+བ འི་མི་རྣམས་ནི། སྒོ་དག་ལ་སྐད་གཙང་བ་དང་། བརྡ་འཕྲོད་པ། ད་་ས་ལྷའི་ནད་ནི། བྱང་ཕྱགས་རྩ་བ་སགླུའི་རྒྱུད་ལས་བསྒྱུར་བའོ། དེ་ཡི་མི་རྣམས་ནི། སྒྲ་མ་མ་ནད་
+ཉན་ཞིང་མཛེས་པའོ། སང་ཉིད་ལྷའི་ནད་ནི་ ནའཌ་སུ་ཆུ་བ་གྱིམ་ཤང་གི་རྒྱུ་ལས་བཞུར་བའོ། དེའི་མི་ཚེས་ནི་སྒྲ་གཙང་ལ་སྣ་མྱུར་མགྱོགས་བསྒྱུར་བའོ། ལྡི་རྗེ་ལྷའི་སྐད་ནི
+ལྷགོ་སུ་ཆུ་བོ་སི་རྒྱུའི་རྒྱུད་ལས་བཞུར་བའི། དེའི་མི་རྙེས་ནི། གྲྭ་ཆེ་མ་ཟད་བརྗོད་ཅིང་བསྟན་ས། ག་སྲུང་ལྷ་མི་སྣ་ནི་ ་ཚུ་མ་གླིང་མཚོའི་རྒྱུད་ལས་བསྒྱུར་བ། དེའི་
+མི་རྣམས་ནི། སྒྲ་སྙན་སོན། —ཀད་མཛེས་བརྗིད་མཚན་སྙན་ཟ་ས་དང་ཆས་པ། དེའི་ཡནུའི་ཟ་་བཞི་ནི། མཚམས་བཞིའ་རྩ་ཕྲན་བཞི་ཡི་རྒྱུད་ལ་བསྒྱུར་ཏེ། གཙང་མ་
+1
+-
+C
+}༼༥ པ་
+
+
+
+ད་དག་པ་བའོན@རྟ་་་
+ལ་སི་ཀད་ས།གྲོལ་བ། ཧོ་ཅི་འ་བྲུམ་གྱི་ནད་ནི། མ་ལྷོ་ཅུ་རྩ་བ་གང་གའི་རྒྱུ་་༌ལས་བསྒྱུར་བའི། དེའི་མི་ནིསཾ་ཞེ་ གོད་བརྗེས་ཚེསེག་ཆེ། ཁྲི་སྟེ་ལྷ་ཡི་སྐད་མ་གྲལ་བའི་
+སངྒྷཾཅི་་་ཁྲུས་ཨི་སྣ་་ཞི ལྷོ་ནུབ་ཏུ་ཆུ་བ་སིཔཱུའི་རྒྱུ་་ལས་བསྒྱུར་བའི་དེའི་མི་རྣམས་ནི། ཀོ་མཛེས་ལ་ཡིག་དྲང་བ།ཚེསང་ནི་ལྷོའི་སྐད་མ་གྲལ་བའི། ཅི་གང་འཕྲུལ་
+ཕྱི་་་ཞི ནབ་བྱང་དུ་ཆུ་བ་སིང་གྱུའི་རྒྱུད་ལས་བསྒྱུ་་བའི། དེའི་མི་རྣམས་ནི། སྒོ་རྣན་ཤིང་ཚགས་མཁས་པའོ༌ དག་ས་ལྷའི་སྐད་ལ་གྲོལ་བའི། ཅ་ཅོ་འཕྲུལ་གྱི་སྐད་ནི
+བྱང་ཤར་དུ་ཆུ་བོ་ཡེ་ལན་གྱི་རྒྱུད་ལས་བསྒྱུར་བའི་དེའི་མི་རྣམས་ནི་ སྒོད་གདུང་ལ་ཚས་མཁས་པའ། གང་ཟག་མིའི་ཚད་ནི་ འགྲོ་བ་དང་སྲུང་སྤྱིའི་གོད། དེ་ན་སྤྱིསུ་བསྡུ་བའོ།
+བྱེ་བྲག་ས་སོའི་སྐད་ནི། འགྲོ་བཏགས་དྲུག་་ལམེས་ཅན་ལ། བནོརུང་མཐུན་གྱི་སྐད་དུ་བསྒྱུར་ན། རུང་དུང་གི་སྒྲ་ནད་ཅི་བཞིན་དུ་བསྒྱུར་བའོ། དེ་རྣམས་ནི་ཀ་དགིས་སྤྱིཅུ་བསྟན་པ།
+གིས་འཛམ་གླིང་ན༥ འགྲོ་བ་མི་ལ་ས་སྟབས་སུམ་བརྒྱ་དྲུག་ཅུསྡུ་ཡདོ། གྲལ་ཕུག་ཞི་ལྷའི་ཀ་ཏ་ས་མ་དྲུག་དྲི__དེ་ཡང་དེའི་ནང་དུ། སྐད་ཀྱི་གདང༥་མིག་གི་འབྱུང་གནས་ལ།
+སྒོ་དགིས་ལེན་ས་བཅས་བྱུང་སྟེང རྟགཟིག་དང་ཞང་ཞུང་གི་སྐད་ནི་ ཡེ་སྲིད་ལྷའི་ན་་ལ་གྲོལ་ལོ། ། བྲུ་ཤ་དང་ཨེན་གྱི་ནད་ནི། ཏདུན་ཏ་ལྷའི་སྐད་ལ་གྲལོ་ལོ། ཟ་རྟོགས་དང་ཡུ་གུར་གྱི་
+སྐད་ནི། ཀ་སི་ཏ་ལྷའི་ཀ།་ལ་གྲྭལ་ལ། རྒྱ་གར་དང་བལ་བའི་སྐད་ནི་ སང་ལྷོ་ཏ་ལྷའི་{ད་ལ་གྲལོ་ལོ། བདོ་དང་རྒྱ་ནག་མེ་ཉག་ནད་ནི་ སིང་ང་ལྕིའི་ཚད་ལ་གྲལོ་ལོ་ཙཱའི་འཛ།
+གླིང་གི་སྐད་ཆེན་ས་བཟང་ཤོས་ས། དེ་ལརྩལམན་གྱི་སྐད་བཞི་བྱུང་སྟེང བྷཝཱ་ཏེདྡེ་གྱི་སྒ་དང་། བྷཏེ་འཇང་གི་སྐུ་དང་། བྷ་ལི་མན་གྱི་སྒ་དང༌། བྷ་ས་རུ་ལག་གི་སྐད་དང་བཞི།
+དེ་མ་བརླག་ཏུ་གྱེས་སམ་ས་གྱེས་པ་ན་རྒྱ་དུhངསྨྱོ་འཛམ་གླིང་པགོ་ཁ་བཙོ་གྱི་འབྱུང་གན། 《གཟིག་གྱི་གནས་མཆོག།་མ་པ་ལ་མ་གླིང་ཆོན་ཞེས་བྱ་སྟེ། དཔལ་
+3བྱསྒོམ་བུ་གླིང་གི་ལྟ་དཨ༤
+] རྒྱ་གཞང་ཁྲོམ་སྡེ་ སར་ལྟ དེ་ ནི་ ཀ་ལ་ཙི།:ཀ་བལ་དྷཱཀ་་ལས་ ས་བས།
+དུ་འཕོ་
+
+
+
+65 gདཱ་ འདིར ]་
+ཀྱི་བསྤྱི་ཡི་ཆ་པ་སོj་ད་
+བ། ས་ས་ངས་གྱིསུ་བའི་ནང་དུ། འཛམ་གླིང་གི་ཟད་པ་བརྒྱ་དང་དྲུག་དཅ་བཞི་བྱུང༌། བརྒྱ་དང་་གབཅུ་དཅ་ངུག་ནི། འཛམ་གླིང་གི་སྤྱིར་ཁམསུ་ངུ་ཡདོས། །
+ང༌ནི་ཞང་ཞུང་གྱི་སྐད་ཀྱི་ས་ལ་བཞི་སྟེ། སུག་སའི་སྣ། བར་སའི་ཚ། ཞེ་སའི་ན། ཕལ་སའི་ན་། དེ་ལ་ནང་ཚན་དུ་ཕྱེ་ན། ཕུག་པའི་ནད་ནི། ཀ་སི་ཏ་ལྷ་ལརྩད།
+བར་མའི་སྐད་ནི། སཔ་ཙི་ཏ་མྱུ་ཡི་སྒ་ལྔ་ཆད། སྒོ་སའི་ཚད་ནི། གསུང་སྒྲ་བླ་ཞེས་བྱ་སྟེ། ཡེ་སྲིད་ལྷ་མ་ཆད། ཞང་ཞུང་སྨར་གྱི་སྐ་། ཡལ་སའི་ལྟད་མ། དམ་མའི་སྒྲ་དང་།།
+རི་མའི་སྒྲ་དང༌། གྲྭ་གིའི་ཁྲི་དང༌། ་བལ་སོ་གླང་གི་སྒྲ་དང་ལྔའོ། ད་ལྟའི་ཞབས་འདི། ཞང་ཞུང་གི་སཎ་ཊི་ཏུ་ཆེན་ས། སད་ནེ་གའུ་ལ་པགོས་ཀྱི་དབསྒྱུར་བའི་ཞང་ཞུང་པ་ཚེ་སྒྲ་
+སྒོ་མནོ་ཏེ། ནང་བབསྲུང་། ཐང་ལགོ་དང་། ནང་ཆལ་དང་། འབྱུང་རྒྱལ་དང་། འབྱུང་ཆེན་དང༌། འབྱུང་རྩང་། ཕྱག སྡེ། རྒྱས་ས་ལགོ་སུ་གསལ་དུ་ཡ། མཚམ་སྦྱོར་དང་པ་
+གཉིས་གསུམ་བཞི་ལྔ་དང་། ཕྱག་ནས་བདུན་མན་ཚིག་བརྩད་ཞིབ་སུ་བན དེ་སགོས་ས་ཕྱོགས་གསལ་བསངས་སདུ་བརྟག། འདི་ནི་རྨངས་པའི་བླ་ཆུང་པས་བའི་ཕྱིར་དུ།
+སྒྲའི་ནོ་བསྡེབ་ནང་བསམ་ལྡན་མེ་བདུན། ། ན་མོ་མར་སྤངས་གདན་ཞུནང ང་ལ་འུ་གྱི་མ་སྤེ་ཚི་མུ་ཝཔ། ཨུ་ཡེ་ཐ་ཙཙོ་མ་སྔ་ཤེ་གྱ་ཉི་རི་དང་། གུསུ་
+ཏྲི་ཏི་ཛསུ་དྷ་ཀེ་པ་ཏ་ཡ། མུ་སེ་ཁྱི་ཞི་སེ་སངས་མ་བུ་མ། མ་དད་མ་ནི་མི་ཏི་ཁ་སྤྱོད་ཞི། ཉེ་ཏུདུ་ཉཙོ་དིསྡུ་ས་མ་ཡེ། ས་རི་ཀ་མ་ཐཝན་དེ་པ་ནང ཕྲུན་ལིག་
+གྲེས་འཛིན་ མ ཁའགྲོ་ ཕྱགས་། མཁའ་དཔྱི་སམ་བ་ ༥་ཞིང་ བདག་མེད་ལ་ མི་སྐྱེ་མི་འགང་ མ་བསྒོམོ་ ལྕནབ་ གི་ བདལ་ མིན་ འགྱུར་ བན་གྱི་དབྱེས། རྒྱན་གདམ་གཡསོ་མཇུག་གྱེས་པར་མཛད། བསྐལ་སྲེད་
+སྦྱང་བ་ རྣགྱི་ འཕེག་ནགེ་ ་ ནམས་་ བྱང་མ་ ཆ་ ས་ འབྱུང་བ་ལེགས་་ ཉིམེ ཙམd བ་ རེ་བདུན་ འཁོད་ མཚེ༑ དེ་བར་རལ་བན་ཚརོ་བྱས། ང འ ཛམ་བྲ་ | གླིབེད་ སགོ་ཡི་དབྱིབང་ང ན་གྱི་ ལས་འཐགས་ ཟླ་
+ཁམས། རླུང་མུ་དྲུག་ཅི་ཁྲི་བ་ཏི། ཧསཱ་ཏིའི་རྩད་ཞིང་སྟི་གྱིན། སྤྲོ་གླིང་བའི་ང་ཡ་མ་སྤྲེ་ཆུང་ཡི། ཧ་གྱི་རྒྱུར་སྒོ་ཏིས་པི་ཆམརྒསུང་སྒོ་བྱང་གྱག་ཏི་གློགོནིང
+ཉྩམས་ སྒྲ་མི་ སྙན་ནི་གྲུ་བན་ བྱས།། བན་གླང་སྤྱོདོ་ཙ ཟུ མ་ཡིན། གླིང༌ བཞི་ འཡསནོ་ གླིང་ཆུང་ནང
+པ ་ ལས་རིང་ ལས་བྱུང་ ཉེབྱང༌ འཆེ་ ༣
+**
+
+
+
+བའ«
+ནས་དགའ་བའི་ཆ
+རྩལ་
+ལོ་སངོ༌བྱ་
+མ་''
+པ་ ནས་
+ཡི།
+ཉི་མ། ཟླ་བ་
+fར་མ་
+སྤྲིན་ན་རུངས། ་
+་ ཡར་ས་
+གནམ་འཁྲུག་རྒྱག། ས་ར་ ལྗང་ དམར་ པ་ སངོས་འཇའ་ཚོན་ འད་
+.
+གངས་བ
+:
+ཡའ་བབ་ད་ཤེཌ་་༌ "ང༌།
+ཀྲྀ༌་
+པསེལ་ སམ་ ག་པོ་གྲོང་དུ་འབཙལ་
+མུ་ཉི་ཏི་ཞི་ཁསླནོ་སྤྲེའུ་ལྟུ། ཊཱིནཱང་ཐུང་ལ་ཅིང་ང་ཅི ཏེ་ལ་ནེ་སུཾ་ཅུ་ཅེ་དལ་སུམ་གྱིན
+འ ས་མི་ འོ ༢ སམཐ་ ལོ་མ་
+་ཙེ་སད་ཀྱི་སེ་ཏ་རྨདུང དེ་ཕྱིར་ས་་གྱི་མ་ཚོགས་གྱིན། ཏུ་ན་རྒྱུར་ཚྭ་ཏས་ཡི་དཅལ།
+པ ང་གི་ ཁང་བ་བཟང་མི་ལོ་ལ། ཕྱི་པ་ཡིན། འགྱུར་ལས་དགའ་བ་དང་།
+་མཚར་ཉམས་གཞེ་ བཟང༌ བྱང་ ནབ་ བྱ་ #ས་ མང་མཚལ་ཏེ་
+རང་མ་ཀྱང་སངས་རྒྱས།
+པཱཡི་ མཚན་སྤུངས་པ། །
+དར་སྨན་བླ
+རྒྱུ་ནི་ མེ་ ཆུ་ ས་ གཞི་རེ་ཐཱ་བ་ན་གནས།
+འ ་ན་གནསང་་ བན་ ་ ལ་མ། གླིང་པ་བར་གནམམཊ དམྱལཕ་མེ་གས་
+ངང་གྱུར་མུར་ཟངས། ཏྲེ་དང་ཉི་སྤྲདུ་ཏུ་ཅུ་སད་མན་པ། མི་ནི་སེ་་་ཉེས་ཅ་དལ་བྲང་ཁྱུ་ཆེར་ཁྲི་ དྲིསུང་ང་མ་བསང་མི་ལ། ཙདང་ཁར་སྔན་གར་པ་་བྱད་ཞན ལ་ཐེབ་ཝེར་ཉི་
+་་ ཚེ་དང་ ཚེ་མན་ བ་ ལ་མིནཨཱ། ། སྨྲ་མེ་ ཁྱིམ་གྱིན་རྩ་འཁདོ་ལ་ བསྒྱུར་ལ་ བཞི། སློ བང་རམི་ བཞི་མདམ། ལག་པ་ ག་ཨ་འབལ་ འཁྲི་བ་ ཕུགཔ་ཨིན། རག་ཚུ་ དྲལཚོན་
+སད་ལ་ཉལ་ལ་གནང ཉི་ཏི་ཟླདུ་ཚེག་ཞི་དུ་དང་་ཡང༌། རུ་ཏགོ་ཁྲ་དེམ་མ་ལན་རྒྱུང་། བམ་ནེལ་མང་ཏིང་མར་སང་བྲི་ཞམ་ཁྲི། སྟེལ་རུང་བ་ཟད་བྱུང་ལྡེམ་ལ། ཏདུསུ་
+ཏེ་ཨ་ཙ་ཟི་ཁྱིལ། མིང་ནི་ག་མུན་ཁྲུན་ཞི་ལོ། པདོ་ལིང་ཤམ་ཏེ་སྤྲུལ་ཞི་མ། སང་གང་ལགས་རྐྱེལ་ཚེ་ཞི་སྦྱང ཏིང་ཟླ་པ་ཞེའུ་ཞི་སུག་མི་སྣུམ། གན་ཏི་ལ་ལེ་
+༦། ས་ལུས་ཤིང་ཉིང་རྩ་ཉིས་ཁྱད། མིང་ཉིང་མི་གླཧ་ཏི་ཏིང་ལྕི། གེ་གྲྭ་མང་དུ་ཏུ་གྲྭ་། དམ་ཁག་ཏེ་ཏཱབ་ཁ་མྱང་གྲུ་པུཀྐ་ལ། འཚེ་ཏག་ཐད་པའི་སླམ་ཞི།
+བ་ས་ལ་མི་དམ་ལག་ཉི་སམ། ད་དྲ་དེ་རྩ་མ་པི་སྐྱིད ཏདུ་ས་ཁྱི་སྟེ་རྒྱ་རྩི་ མ་པ་་ཝེ་བདུ་གེ་ཁོད་དརྩལ། ནུ་ཏིག་ཝེའུ་ཧྲིམ་ཀི་ལ་ཡ། གྱི་གྲན་ཙིཏྟ་ཙཀྲ་ཛ། གྱི་གྲན་
+མ་ ལ་གསུམ་ སྲིད་ པ་ གསུམ། དེ་བཞིན་རྒྱུ་མཐུན་པར་སྐུམ། པོ་ ཡོd ལྟ་ཡི་ གྱི་ ཡེ་ སྟག་ལ་ ལ་་༌ནམས་སྟོབས་ ཀྱི། ། བག་ལ་ མདའ་ གཞུ་ ཡར་ པ་ ༣རོངོ ད ཌ་ སྙི ངལ་ རཚྭསེང་ཞའ་ ཁྲཚག་
+ཨ་བྷེ་ལ་ཉི་ཚེ་། པཉྩཙེ་ཤེ་ཝན་བུ་འབལ་ཟླ། གྱེར་ཊོ་ས་ལ་་བ་ཡང་བཏེག། གྲན་གྱི་ལུང་ནི་ནེ་སུ་ལུ། ཏང་ཏིང་ཀ་ཏྲ་ཤཉེ་ན་རྨ། གེ་ཀྱ་མ་ཏི་མ་ལུང་དང་།
+༢ (གྲྭ་ས བ་དཔོང་ བསྔོ།
+g
+ཝརེ་སཔཀྲ་ཏཱིག་བྲན་དུ་རྒྱས།
+ལྟས་ངན་འདྲེ་གེ་ན་་་རིན་པ༌།
+ཡ་ནིང་ལག་ཞི་གྱེར་སྤྱི་ཞནང ་མ་ཁ་མ་མ་ཉིས་བ།
+བད་ བ བན་ཤུ་བཙན་མ་མང༌།
+ཟླ་དྲི་གསྤྱི ་ཞག་དུ་་བང་ཚེ། སུས་ཉི་མ་ལ་ཅི་ཕྲུག་མར། དེ་མ་བྱ་སས་
+ཡདོ་ཁམས་སྲིདེ'པ་ ན ་གྱི་ འཛིན།་་ ནམཁn• བྱིངས་ལ་ ཉི་མ་རང་ ཟླ་བ་ གཟའ་སྐར་ སྤྲི ན་ཕུང་འཁྱིལ། སྦ་བ་ཞེའི ཀྱང་ད་ལོ་ནབ་ བཤང་། ད་ནང་ གསལ་ལ་
+ལན་པ་
+འ«
+སང་པ་སྔོ
+བསྒོས་
+་
+)
+འs
+oང་་མ་
+དང་དད་
+འཆ་
+མིང༌ ས་
+ཏང་ཙུ་ར་ཀུ་ཏC
+iའི་ཀྲུ་ བཙན་ སྔོན་པོ་འདུ་གདན
+ལ
+ཁའིང༌
+མང་པ
+ལྟ་ཕྱོགས་མ་དག་ གཅུ་ཧཱ།།
+བསྐྱད་དང
+པས་ ནག་ཟ་
+མ
+ཆ་གསུམ་ན་
+4
+ལ
+«་
+།་ ནུབ་ནང་
+གཡོགསུ་བསྐོས།
+*
+1•!
+
+
+
+གཡུ་་་ བྲས་ ཏྲ ༌༌ །
+པ་ནས༢་ མཚt
+གངས་རི་༢ པ་
+ལ་ མེ་ གེ་ }ཅལ་
+-
+བIམ་སགས
+་་༩་་་ ང་
+༡ རྱ་མིསྡུམརང་དྭངས། སུའུག ཤཱཚུལིལ་སྨན༑ །
+༡༡། ཏང་པསན་གྲག། \བྱུང་སག་སྐྱེ་ལ་ཞུང་ཞག་ནིལ། ང་དུ་ཕྱིང་ ་ལ་མདུབ་པ། ཉིམསུང་མ་མ་སང་གེ་་རྩེt སྲས་ཞི་ལྕི་མ་ཧྲང་ཧས་ཏི ་ཡ། ནམ་མ་སེ ་
+དཔ། བམ་ འོངམ་ ་སྲུང་མི་
+ས་ཡི་ བགེ་ལ་རྟ་དང༌ གླང་མན་ མགྱོགས། གནས་དང་ཁང་ས་
+དང་ཡག་སུ། རྣལ་དུ་ཤང་ཟུར་, ཁྱུང་ཕྲོམ་ལོན) བ་ནི་ཞེདུ་ཁྲི་དརྩེ་མ། * སད་ནི་ཁྱེར་སུམ་མུ་ཚུག་ཞེན། ནི་ན་ནུ་གང་་གཅིt ཙང་དྲི་ཡུད་མང་རྣཔུར་སྣུམ་ཞིང ལུང་
+མཛདམག་སཟང་། ཅ་ ས་སངས་པ་ ང་ སྲིད།། སད་མ་ ་ལོག ཁྲུས་ བ།། ལྷ་མི་ བན་ ས་ས་ ཁུ་ཐག་ འཛིན།་ ནང༌ ནད་ མཛད་ལྔ་༤ ཟླང ་ ༩༤་ མགོ་བོ་ མཚལ་མ་ན་ས། ་
+རླུང་སད་ཤིན་ཏུན་གསོ་བྱེད་པ། ཤེ་ཐུན་དང་ཁྱི་ནི་དེ་ན་ག་དུན་ཏི་ཙགོ་གྲུང་། སྒྲ་བརྩེ་སང་གྱེད་མུ་ཡེ། ག་ཡངང་ཏགོ་ཤེ་གནཙང ཏེ་བར་གྱུར་མ་བན་ཙག་ནི། ཏག་ཏེ་
+པཚེ་iyཙེ་བ་ ཁྲི་དེ་གླན་ཤན།
+སྐྱེ་མག་ཧྥ་ཙན་ཀའི་བར་ན། ད་་་མ་མན་༡༥ཅུང་ཧྭ་ས་ནི་པུསྟི་ཤད་ཅག་ཚིམ་ཏག་ཨུཏམ་ཁྲིལ་དུབ་དུབ་ས་སྐྱོངུབ་ཁྲི་ཅུང་སྤྱད་ མཔཐུན་ རྐ་ཛ་ པ་སྟེ་
+བླང་བི་མ་ལ་ཞི། ད་ཏོག་ ཟག་རྩེ་ རྐངག་ ཏང་ཕྱིན་ པ་ཏག་ མ་ཡུ་ སྐུ་སྲུང་ དངཔ་གུན་ སྒྲན་ཤི་ཏིང་ཙནོ་ ར་ཐུན་ མ་ཁྲི་ པ་ཁྲི་ པ་མག་ ག་
+ངས༌་ ་་རྔ་་ཡས ཧན་ཟས་་པའི་ སྤང་པ་ རྣམ་སསེ་སྟང༌ས་༧༠ རིག་པ་ ཡང་ དུ་བྱེད་ འདུཅུས་དག་ཤསེ་ རོ་བ་ གལ་ མང་ན་སོ༔ གགསེས་
+འ་འ་མ་
+ཝས་སར་ ༥༠
+སྒོ་ནི༌མེཀ་ས་ཀ་མ་་་ཀྱི་ཉེ་ས་ན་ཅི་ ཟི་ཛམ་ ཅག་ན་ ནམ་ནམ་ད་ཚུརོ་སུས་སངས་་ལྷ་ཡ་་ལ་སང་ཉི་ཧ་ཀྱང་ཇུན་
+སྲསའི་ས་ ད༌ ཐན་ཡཁ་ སྣ་ལག་ པ་ད་ ངས་་འབྱས་ན་ཕ་མཚུན་ ་ནང་ འཛན་ལེགས་ འདོད་མ་ས་སྦྱརོབ་གྲར་ ་ འཁར་བའི་ས་བནོ་མ་ཚུལ་ཁྲིམས་ ན་ ཨ་ཡབསྐྱས་པའི་ཕྱི་དེ་དག།
+དམག་ཅི་ལ་མིན་ལ་སྙན་བ་ཡན་ཉེ་ བྱ་ཇི་ས་མིན་དུ་ཕུན་མ་ནིང་ཞི། མག་གི་སྲུང་ཟེ་མ་མག་མyt “ར་མག་ཁ་སང་སེ་གྱིst ཏིང་ཕུང་དྲུག་འགིར་རྩ་གྱིན།
+བ་ བ་ ་ .:|::y ང་ ་ བྱ : ཕབ་ཟ་་ཡས། སྤྱན་སརག་ལགི་འབྲུས་ནོརོ་བ་མི་བདེ་གཞི། ་
+མ་ནགེ་རྒན་མ་ མག་མིདེ་ས།་་ ཟj་བྱ་ རྫས་མཁན་བུ་ཕོ་འདྲ། ་་
+་ ཕུངས་ ་་ བྱ་སྔག་ ༥ནང །
+དེ་མི་ཡི་བསླང་ན་གླང་ཡ། ཏིང་འཉྩངང་དྲུག་ཆུ་བལ་ཞིང
+ལི་ཀླུ་ནེ་གཱི་ཏིང་སུསྶཁཱི།་་༌་་ཕྲུག་རྒྱ་སཱལ་ནི། སྤྱི་དོ་མི་གླང་ཏ་པུ་བ།
+n，
+ནང་བདེད་
+མ་མ་༤༥་
+༼་བཞིན་ མ། ས་
+༩
+ཞེ་སྡང་
+ནི་ཡག་བྱ ས་ འ་|་ཆཌ་
+ལ་ས་
+ཞན་ཡངས་ ཕུ་རྒྱས་
+་ལག་
+IE
+པོ་པས་ནད་
+་
+
+
+
+པའ་འམ་
+འང་
+བ་ལ་
+འདགས་ལྔ་ཉམ་གསོ་མན་ལག་ན་
+བང་ས་
+ཉལ་
+ད་ལ་་བ་་༴
+བད་བ་སྟགེལ་གཏང་རྣམ་རྒྱ་ཆེ་
+་བS
+དུན་པའི་ནསེ་བའོ།
+དད་
+ས་ག་
+ནས་བས་
+གས°་པ༥
+བྱ་བ་་་་་་་་
+མེ་ ཡིན་ བགན་པོའི་ཀུན་དགའ།
+ད་
+གན་ ཚེག་འ དམ།
+བ་དང་
+༣་བ་བྱམས་པོའི་
+རའ་
+མ་རྩའiu་
+་་འདག་ལྟ་བ་
+མ
+。
+མཁན་འ ན་ ཀའ་རྟཌ་སོན་
+རྒན་མ་
+གི་སོ་བའི་
+•་མ་
+་
+ག་
+མ་ཆག་
+རྒན་སི་གནསྡུ་བ་
+ཉེ་ལ་པཏཱ ''ལོ་སྔ་ནི། ཀོ་བླང་ང་དྲུག་ཏུ་ཁ་ཐ་མྱ་གྱ། སྐྱ་ཐཔང་དྲུག་ཞིམ༌ཞལ་འོ་ཐང་ལྷ མིག་ རུ་ཙོ་ ལྷུལ་ཞིང ལྷོ་ཏི་ ཝ་ཡ་་ ནི་བྱང་།
+འང་གླང༌ བན་གློག་ ཞལ་ཟེ་གླེ། ལ་དྲུབ''་ཛམྨེན་ཧྥ་ཐ་རྡོ་ལ་བྱི་བྱིན་ ས་ཙག་ མི་སམོ་ དེ་ཐུ་བུ།ཚུད་ག་ལག། རྩེ་གྱི་གླུ་པ་ ''ཁྲི་་༌་
+རྡ་ཡི་ ཏ་ཏན་ གྱུར་ཤུད་ དྷ་བན་ སྔགོ་སེ་ ཀསུ་ དུར་ འགྱུ་དི་ གྱིམ་མགརླབ་སྟེ་ རྒྱ་མན་ སག་སྦེ་ ཤང་ཟེ་ དང་སེ་ སྲ་མ་ཏ། ཏག་
+དལི་བྱིལ་ འབྱ་ཧིང་ག་ག། མི་སམ་ སྟེ་ལས་ དྷར་ དྷ་ནད་ ཐ་དུ་པོ་ཏེ་ ཕྲ་ར་ མང་ནམ་ད་རྒྱུན་ ་ད་ལང་ ནམ་དུན་ ཁྲ་ཅགི་
+(༤༽ གོ ན་ སྨའི་ རྒོད་པ་ང ་ ལ་ མེ་ལེ་
+བག་ ཡོདོ ཛད་(འོ་
+མ་མན་ བསྔལ།... -ཞུག་ པ ་ ན་་པ་༌ ་ནང་ཀུན་ཞེ་ ཡ་་སངསཾ་ཏེ་ཅདེ་ཐ་ཚན་གྱིན། ད་དྲ་ཁྲི་ཙན་ལས་སངས་ཏི་སངས་རྩ་ ལག་དྷང་ཞུང་དང་ཉམ་ལ་
+ན་ ཐམསཅད་ཡནང་ དེ་བཞིན་ན་ ལས་ དབང་ གི
+སྲིད་ ཅགས་གནང་གནས་ ས་ཡེ།
+༧ག་རྙིང་ཞིག བླུན་ཞི་ཧྥ་ཚན་བ་པསྐྱེ།ཧྥེར་ཞི་ཞ་ཚན་མ་ར་ད་ར། ཏག་རྒྱལ་དྲནི་རྩི་བསླང་ནི། ཏག་ཏི་ ་བར་ ཨམ་ཟི་ཚཔ་སྤུ་གླིང་། ཟུང་དྲུང་
+ཏུ་བན་ ཧྥ་ལོ་ཙང་ ཤན་སྦྲུམ་པང་ང་། ཁདོ་དརྩལ་ཞུད་མན་ནི་ཅ་སོང བྷ་ཏུ་ལྕམ་ཞི་ནི་གྱད་ ངུ་ལ་་མི་དྲུད་ཅ་ང་དྲུག༌ལག་ བྱ་ང་ཅུ་ནི་ སྐུ་ཞི་ཞེ་ཁྲི་དརྩེ་
+འདེག་མད་་་ བཅུ་གསུམ་ ཐར་པའམ ་ ཕྲད་ པ་ལ་མི་ལུགེ་བཐུག་༤་ ལན གཅེག་ ཨིར་འངོ་བཅག་ཤུལ་ཞུགས་ འདྲེས་བུ་
+སྟེ་གྱད་ལཾ། ཨ་ཙག་མ་མན་བང་༌། མ་ཙག་གླེར་ན་ག་དན། ངས་དེ་བན་ཙས། གྱེད་པོ་ཏི་ག་འིངས། རྩྭ་ས་རྩ་ཕྱི་ཟིང་ངུ་། སྐྲ་ཅར་ཤུ་རྩི་རྩིས། བ་གླི་
+བ་མེང་བ་འཁྱཊ་པ་
+”འཚད་ས་དགོངོས་སྦ༑་ས་
+མེ
+།
+སJང་
+ལ་མr，
+འ་ལྡན་
+བསལ་.•་ ན
+•·་ས• •
+གླ་
+ལ
+ལག་
+，11
+ཉེ་བཞག་བཞི་གླིང་
+བླu
+སjག་
+•
+འགུར་མདོ་
+༨༩༥གི་
+་
+ས་ནས་ མན་པ་
+བཞི། །
+ས་སར
+ཡངjག་
+བའི།
+་
+མེ་ཝཞེས་གདངས་ བདུན་ ་
+གཟར་གྱི་
+
+
+
+s
+་ཀྱིདཀྱི་
+སྡོམ་འ5ག་ གླང
+མཔག་མ་)ས་
+t
+ར་
+དེ་ན་་སྲུང་ཙ་
+༡བ། ནི་ལོ་ག་དུནང དེ་ཅི་མ་མན་སང་ང་། སྐུམ་ཞི་སི་རྒྱམ་་༌༌ཤེ་རྐྱ་ དཆེ་དེ་ཀུན་ མ་སུསུ་མ་མན་དེ་ལ་་སུམིང རྒྱ་མིན་དོན། ཏེལ་དུ་ཡུག་
+བཅད་ ་ ག་ཏུ་གནས་པ།
+༤ ༥ རྗེ། རྣགས་ས་ཚན བསྤང་དུ་མདོ་ས་ ལྷུནབ་འཕྲིནས། *
+ཉེ་ཞ་དང མྱ་ཁྱུང་སུ་ཐད། མ་སེ་གླང་ཆེནང མུ་ནེ་ཤེ་ཐུན། ཐ་ཚན་ནསུ་ཏག། མ་ཡེ་ན་དག་ནི། _ང་མ་སྲུས་ཞི་ཅཅནིt སྲས་ཞི་ཏི་ཞི་ག་ག་སླས།
+འམཱཁའ་ལྔ་པའི་སྒྲ།
+༡༨ ནམཁའ་ལྟ་བུའི་འགྲུས་བྱང་ གཡུང༌ ས་ བདུ་ ཕོ་སང་ ས་
+ནེ་སུམ་ཁྲོཙང་མ་མིན་པས། སུམ་ནི་མི་བདུ་སཾསུ་ད་ཀྱི་བང་ང་ཁྲི་ཏགོ་ཏེ་ཅི་སུས། ང་སླག་གྱུར་ཞི་དུ་ཁྲུང་ནི་ དུསཾཉིས་དེ་ལས་མ་དག་པས། ཉིདརྩེ་ནག་སུ་
+གསུམ་ས་ འ་ཏེ་ འ བྲི་བ། བཞི་ས་ སྤེབ་ རྒྱན་བསྡུར་ས། ་ ལས་ བཞོ་ཉིད་སྤྲོའི་ཚད་བཅུད་ ཕྱག་ས་ བདེ་ལྡན་ རྣགས་པའི་ ས། ་ ཐན་ས་ཡིད་བཞིན་འགྲུབ་པའི་ས་
+•ཏམགས་
+ང་ བ་
+ནམསའ་འར་་ས་བྲང་ང
+ནམསའ་ལྟ་
+གས་བག་ས།
+n
+，
+ཅན
+་་་་་
+ག་བ
+ག
+ཤ་ས་
+ག་བ་ཆག
+ཡི་གེ་ ར་ལ་
+མ.i་་་་་་་་
+ག་ཀྱང་ འ༦་
+ཙ་ རྩིག་ཀུནསྲུ་ག་
+བJ་ས་
+ཀབ་ དཔག་ ས་
+ས་
+བབས་
+ཟ་གསམ་ འནས་3:]
+བླ་མཱད་
+༢ ཏི་སཔ། རྩི་ཁྱད་ཀ་ན་ཀྱེ་མཱན་དུས། གྲུ་གེ་རྒྱག་དོ་ས། སྦྱཙོ་ཀ་ང་མ་འགླུ་སླ། ཟླ་ཏ་གླུ༌་སྤྱི་ཉི་སླ། རྒྱུནེ་ཏི་གླུ་གྱེརྩེ་ཕྱོགས་སླ། རྒྱ་སུམ་ཁྲི་ཙ་
+མྨ་མག་མ་ཡེ། ཏེ་པྲ་ཏུཏུ་ནི་རི༔ ལོ་ཀྱི། ཟངས་ཉིང་འབལོ་འམ་དྲུག་དང་ཧས། ཉི་མུ་ཏུར་ཏེ་ས་མིན་གྱི། སུ་མ་ཟག་ཅི་ན་སྒྱུར་སྲནང སྲན་ཚོཙེ་ཏེ་བྱ་བ་ང་དརྩ་
+སྒྱུ་རུང་བ་ང་ཝི་ཏག་ཏི། ་ོང་ར་འ་གླང་གྱིན། བ་གླང་ནི་གྱད་གེ་རྣམ་པ། དགོ་ཙེསྡུ་ནུས་རྩཙེ་ལེ། ཏག་ཏག་མརྩི་མིན་ཏེ་སྤྱན། །དྲུག་ཅ་ཏི་ཏང་སི་
+ཏི་སྤྱད་དྲག་པ་སུམ་ ཅ་རྒྱུ། ཟླ་རི་རྩ་ཚིས་ལ་མ'། རྒྱུ་གང་ཏི་ཛཱ་ཏི་ཕྱེ་ཚྭན། ཏ་ནཱི་ཏེ་སམ་གླིང་ང་དྲུག། ཨཱ་ཧ་རྩཅིས་་ནི་རྒྱ། སུམ་རྩ་ བི་རྩ་
+ཉོར་ན་བླ་མས་་ རག་ ནས་བག་འགྱུ་ལྟ། མར་ཚགི་ གགིས་བརྒྱ་ བ་ སྦྱང་
+སྡེ་དབ༔ ས་དང༌ལ་བརྔན་ ཤིང་
+ལྕ གས་ ཆུ རེ ཐང་ང་
+”ནི་ ཟད
+ས ་་༌ ལྔ་
+མ་
+ཀན་ཨ་
+jདོག་ལྔབདུདང་འདས་་
+གླིང་ག་བདཔོའི་
+དག་
+ག་་་་་་
+བ་
+སམ་པ་
+ཅམ་དུ་སྦ ས་སst
+ག•ས་
+།
+ཟླituཙཔ་
+9 ''ར།།
+བ་བཅོས་
+ནས་རྩ་ གྱད་ཅུ་ ག་ཅུ་ རུ༥ང་ཞི།
+ཐ:་ཡའི་ གོ་ ཟླ་
+ང་རྩ་ ཕྱགཅུ
+ལུང་བུད་
+བྷ་ཏ་ཁྲུང
+སུས་ཇུ་
+མི་ནད་
+ལ་སྦྱར་ “iགི་གན་
+གྲྭ་“ གངས་མ
+ཀིང་ཤེ་
+ན་ཤར་
+མི་ཏིད་ནིནབ། གདང་ལད་
+དང་ ཐབ་ནུབ་
+，
+•དབཅུ་ག•st
+༤ན་ ཅ་
+བtt མི་བྱ་ བཅ༔རྒྱ༔ ནཾ༔ ཐུས་
+འབུ་ཕྲ་ལྡེ།
+མིང་ཕྱིར་
+བ་བབ་
+
+
+
+། བྲང་སེ་
+སྤོ་པེ་ དང་པོ་
+ཏྲི་ཙ་ པ་མེད་ གྱེར་ཙོ་ མན་ཙོ་ སུ་ དམིག་
+ར་རྩེ་
+སྤྲུལ་ འད་
+རྨ་རྨེ་ ཁག་
+སྒོད་ སྐྱོལ་ ཅནོ་
+alde
+ན་བ་
+་་པ་
+༥
+འ༥，༠པའི་
+ག་
+གླུ་མ་
+བ་མས་་
+བ་ས་ས་ཀོའ་མ་ གནན་ན་ཕྱིན་ ཐ་མ་ བཞོ་པོ་དརྣམ་ཀ་བན་དྷེ་རྣམས་མགོ་
+ན་བ་མ་མཐ་མ་མཆུ་
+ཁྲང་ ཀམ་ཁྲི་ཚོ་ དུ་ ཤེ་ན་ཀུན་མ་ཆེ་ རྩལ་ག་སམ་ཁ་ལ་ བ་དང་ དུའི | ཐལ་སླད་ནང་ཟག་་ ་ སྦྱོབ་ ཤེ་ནད་
+འདེབii སག་ས་
+Jཅང་ས་ག་ དར་གོས་ཀྱི་དལྡན་
+སྔོན་ལས་
+དགེས་་ ལའ«་ བསམ་སྤྱོ དཀྱི་༌༌རླརྐང་པ་
+ལུང་ བའི་ རྐ་ལངྐ་ དབལ་ཏིཙུམ་མགོའི ཚ་ སུང་རྒྱུད་པད་ བད་ དཔག་ རྒོ་ མཐུན་ཁ་བ་་3ག་ཐོན་
+ད༌མཆེས་ མཁལམ་
+ཁྲག་
+མཚད་པ་
+མཁྲིས་པ་ •
+རྩལ་
+གྲོད་པ་
+ཧི་ར་པད་མ་ ཞུང་ཞག་ མུ་་མུན་ལ་པུལ་ཡག་ད་སང་རྐ་ བྱང་ཏི་ནས་ནི་དྲུང་ཆེ་ཡི་ཀླསུ་ ཅ་ས་ ༡ཧྲང་ ལ་
+པ་མཆན་མ་མཚོན་ བྱ་ཁྱུང་
+ཡག་
+མཁའ་
+འག་ ཧ7
+ཀྱང་
+རྟ་ གླ ་ཚན་འིར་དགས་
+ད་མེན་ ང་མ་ གྱུརཔོ་་་་མུ་གt ཅི་ མ་མན་ཁོ་སྤྱད་ཞིt ནམ་མན་ཏྲེ་ཏུའུ་ཧུའེ་ཆང་། ཧ་ཅན་གྱན་སྨད་རྒྱ་ར་རུ ༎ སསི་འ་མ་ཡི་
+འགག་ས་ ལ ་མད་
+མཐོང་ཟག་ ཀུན་ བཟང་
+ཁོ་ ཀུན་གཞེ་ མ་གཡོས་
+ངས་དI
+གདམ་པ་ལས
+འཛིན་རྣག་ མཚན་མ་མི་འབྱུང་ཞིང་ པ་འཕུལ་ན་འདུས་
+་་་ང་ག
+པ་ལ་ས་དང་
+གི་ བ་) |ག་བབས jet༌ས་མེད།
+སྟག་
+ཆ་
+Vornice
+boqiunisi
+གསང་
+བན་ག•
+མ
+ས་གསལ་་བ་མལ་ནན་
+དཔ་ལས་ཟླ་ ་
+དང༌ཞ་དག་ལདབྷ ང་
+u བཛ:ང་མ
+ཡ་རྫོང །སྨྲསྤྱི་སྤྲད་པང་ས་་་ཅིཧསཱུ་ཝཱ་ཙེ་གེ་ཝུང་ཞི ཡེ་སངས་ལ་བུ་ཡི་ནི་མེན། གླུ་གླུ་མ་ཚོ་ཨ་མིན་གྱི་ཆུང་སྒྲིག་ཁྲི་ཏ་རྩ་རླུང༌།
+ཏེ་ཏཙ་མ་ཏི་ཧ་ཝང་། སྤྱི་ནམ་ན་ནམ་ཐེ་གཏིང་ཀས་ངུར་མན། ཀུན་མྱུང་བ་ས་གླེ་རུ་ག་མིན། གླུ་མ་པ་ཏག་དྲུང་མུ་མྱང སཱམཱི་མ་ཏི་ཉི་མྨ་མང
+ལ་ཞི་ག་མན་དུ་དྲད་ཞི་ ཁྲི་ཙེ་མ་ཞི་ན་ཅེ་ན། ནམ་ལ་རུ་མན་ད་ར་ཞེ(* ལམ་ཞི་ཅུར་དརྩེ་ཝུའུ་ཞི་ཞི ད་མུ་མ་ཏག་ཏསུ་ཞི་ ཏ་ཏན་
+II.
+་
+རྒྱན་ས་གོ་ གཡས་
+ལད་ མང་
+ན་ན་ མ་ཅས་མནམ
+བདེས།
+，
+བས།
+tan
+7ནས་
+ལུལ
+.: ཀེ
+བ༥་་རྟགས་པའི་
+"ཀའི་དོ་
+ཉིད།
+འབུས་
+ཀྱིསཉིད•
+ཆན་སོང་།
+་
+གནས་སjཛོ་མདེ་ མ་
+་
+འགྱུར་བ་ལྷག་མཐོངོ་གསལ་བའོ།
+ར་ཞིག
+་ལྔ།
+
+
+
+ss
+་་
+ཇུན་གྲུབ། རྨན་པ་ སྐྱབས་མ་
+མ་བས ་ ཡས་ འ་རེ་ཅན་
+སམསཅད་མ་བདུན་པའི་
+，
+་
+དབ། ཞུང་ཞག་མ་མ་ལྷུབ། ཉེ་ལ་མ་ནི་ཁྱེད་བུ་་རྩ། ཉམ་ ོ་ག་གེད་ཏགོ་པ། ཁ་སྤྱད་ཐཱ་པ་ཏ་ཡ། མ་ཏི་ཏསུ་ཁི་ཁཝི རྒྱན་ཐང་ཀུན་
+ཕུང་ཅིས་ ཡཁrལ་ ལྟོ ་ བ་ཎ་པ་ ''ཁྲུལ་པའི་ རྫོམ གཆོད། སྤྱོད་ོས་ འཛེན་ གོ་མབའ་བྲལར་ ལྷན་ གྲུབ་ རྨན་པ་ སྤྱབས་མ།་ མ་བd
+བསངུ་ཞེ་ཏི། ན་ཅི་ཕྱོགས་་ཡེ་སུ་རྒྱུད་ཡེ། མི་སང་ཉལེ་ཉེ་མ་གླིན། ཧཙན་ཁྲེར་ས་མ་ཡེ་སྙིང་པོ་མ་ཙ་ཡི་ཡོ་པས། སྒྲ་ཙན་དི་རུ་ཁྱེར་ནང་ཞི་
+ཡིག་མ་བརྒྱ་ཡས་ ན་མས།,
+སྤྱདེ་ཅི་མ་ས་ཡ
+མིས་ལན་མ ་ ༥༦
+བློ་པ་དུ་ཁྱེདུ་་མ་་སེ་ཏང་གི་སྤྱང་གྲུ་གེ་མ་ནིང་་། ཧ་དུ་ཧྥ་རྩེ་མི་སེང་གའི་ ཡུ་ཁྲི་དྲི་དང་དེ་སྲ་དི་པ་ཙང་། དམ་ཨན་ད་སྒྲ་སང་ཅི་ ཧདུ་ཐཙེ་མི་ཞི་
+མཚོན་པ། འཨུདོ་ བན་གྱི །སྨི༥༣?ང་, ཚིག་དང་ཡི་གེ་མངེ༌ རྣམ་པ། ་ ཡP ཆེན་ པ་ནི། ཡོན་་ གཔར་ གྱི༣དུན་དེ་བཞིན་འགྱུར་རྒྱུ་ མཁའི་འབྲུག་ར་གྲགས་པ་ཕྱིན། མ མན་
+སད་
+མག
+ཉན་ཚན་མ་ཡཱངས་དག
+ལ་ལོ།. བབྱས་ཡཱས་
+J་འg}
+ཅན ་ མཚན་
+，
+1
+|
+urulan
+: མི་ཙ་རྗེ
+ཛད་དིཝཱ་ས་ན་ཏིང་བ་གླང་། མ་བན་ཚ་སྤྱོད་སཏགོ་ཤྲཱི་ཏི།
+སྤྱི་ཡད་ན་ས་ཏཱ་ཡ།
+ཁྲི་ཝན་ཧྥེ་རྒྱ་ཨཱ་ཙེ་ཞི། །སིང་ངེ་བློ་སངས་རྒྱ།
+མ
+༤ ཅན་
+2་ བjལ་
+ད་་ས་
+སྤྲུལ་སྐུ་བྱས་ནམ་ཡས་༣
+ནའ་རན་ རྩ ་བ་
+ཀ་བྱབ་ jམས བདག•ན་
+ནས་མལ་ཤགལ་ལ། ད་
+ཞང༌
+མདུ་དེ་བུ་པ་ཏ་ཡ།
+སང་ནི་ཡུངས་རུད་ན་དརྩེ* གླི་ར་མི་ཕྱད་སླས་འཛཕྱི ནུརྩི་གླ་1ཉི་ཞི་གྱང་།
+མུ་མང་ཉེ་མག་ཞི་གང།
+ཡུ་ཞི་ཉི་མ་སང་གེ།
+གཤའབ(དེ་ལ་ཕྱི་མ་ལ་
+ལྕམི་ ས་ཆ
+ནི་
+བབ་
+ན་མུན་པ་གསོལ་ས་ཝཔ།
+འམཁའ་གསུམ་གོ་ས]་པ་སྶཇང་
+བ་གཡ
+པ་མཁྱ༥ །
+གསད་ནམས་་
+ན་བ་
+་བཏ ང་ནསྙིང་།
+་ཇུས་འ ག ༢་ འོ། རླང་ལེ་ཆར་ས་ འབབ།
+དང་ཤང་ཟ་རྒྱལ་རྩེ་མག། ལ་ཙབ་་སེ་ཏ་མ་གྲང་། ལི་མ་ཐཱ་བ་དེ་ཅོད་གྱིན་
+གཡབ་རྫག་ ཀྱིས་ བྲལ་སྡེད། ་ བཀྲིས་ ཁངd ཙ་ ཁང་ སa ལངས་སྤྱོད་ མིན་ མདོ་ས་ ཡི ་
+Huyền My Lagu giờU,trung đầu vớiền IUI
+I
+་
+ས་གཞི་ཐོག་ལ་ གས་བཟང་ འཁྲུངས་ ་ འཛམ་བུ་གླིང་ན་གནས་ཡུལ་ཡང་ ། འ བ་ངས་དེ
+ཅི་ཡ་མསུ་མ་ཁྱེད་ཞི་དི། བྲན་དང་ཧྲང་ཧས་འག་རུ་སུ། བྱུང་ལྡེམཅི་
+ཐ ་མ་ བཟང་ ལ་ རྒྱལ་པོ་འཇིག་ ལྡན་ འམ་ རྟ་ ཀྱང་ གྲངས་མེད་ རིགས་ ཀྱི ས་ ཤིང་ ལ་
+9 ང་བླ་མ་དུ་བབས་
+THƯgggiờ, đậuuuu7319
+འབལ་ལས་བ
+ngay •
+ཡག་ དོན་ རྒྱུ་ གན་ཤབ ་ས་ བསམ་
+རྣམ་ ཡིད་ ༌ ཅག་ མ་ མདང་ ལRY རུ་མཱ་ར་
+*ལག་སང་སྤུནང
+ངཤུ་ཉིན ཆག་
+“པཱ་
+ས་ལ་
+་ རྫུ་འཡུམ་ Jང་Jན་ ཚེ་ ་
+11
+ག་ས་ གཞི་ ས། ་
+རྟ གས་ བ་ ：
+ནི གམ་བྱད་ གས་ ་
+།
+འབྱུང་བ་
+དབྱངས་
+
+
+
+[1
+]
+ས
+ན་ད•་བ་བབས་
+བ་ས་ཆེ།
+དག་
+འ
+རྒྱབ
+ངའ།
+།
+བ་པས་་n
+་་་་་
+༨ ཀརི་ལ་གཞན་ མ་ ་
+ལགློབཱ་ཡཱ་ཏི་རྒྱལཾཞི་ཙེ། ཉྩེ་མྱོ་མི་དྨ་ཁྲོད་ཚུལ། མྱུད་པནྟི་ཏི་སུ་མ་མཁྲེ་མ། ཚུ་རྩི་ཉིདྨ་ཙེ་ལེ་སྤྱི་ཡོང ཙྩ་སྨན་གླིང་（ལྕེ་ལ་ཏན། ས་དྲུབ་རྒྱུ་ཡོད་
+ལ་ལ་ཟིང དྷ་སྤྱི་རྒྱུག་ཅི་ཧོ་པཱ་པང་། གྱེར་སྤུ་གྲྭ༌མང་སྐྱོམ་ཁྲི། ཏ་ཅན་ཀུན་ཤ་པ་གྱེན། མི་མ་ཙ་རི་ས་གློ་དང་། ཀྱི་ཀྵ་རྒྱུ་་་་རྩ་ལ།། བསྔལ་
+ཞག་མྱང་རྒྱལ་ཧྥ་ཡད་། དཱི'''ཁྱམ་མྱུང་ཧོམ། ཏཱ་ལ་ཏི་ཏ་གྷག་རྫུན། ནང་པེ་ཡོསྤྱི་ཏིཊཏག་ཟླ་ཀླུང་སེ་ནི་ནམ་རྩག་རྡོ་ཚེ། དྭི་ཙྪ་རྩ་མེད་ཚྭ་
+སམོ་ཚུ་ ཉུག་ཉམ་ཏི་ཁཱལ་སླ་ཟལྟ་རྒྱུར། ན་ཚ''ལ་ལ་མ་ཏགལྕེང གྲེ་ཙེ་ཀཱ་རི་ཧྥ་ས་ཆ་ སྡིག་སི་ནཱི་ཧཱལ་ལྷུང་དྲུང་ཁྱུ། སཨག་ཨཱ་ནཱ་ནཱམ་ས་ཏྲིག་
+ཙྪ ༄༅་ཧེ་ཧོ་བེ་ཙྪ་ཙེ། སུ་ནི་སྐྱོ་ཞེ་ཏཱི་སྐྱེས་སླུས་ཏྲི་ནཱམ་ཁགེལ། ཙག་ཙེ་ནི་ནམ་ལྷ་ཚེ་ཙེ ཚུས་མ་ཙ་མེད་པད་མ། བྱིས་ས་རྩིས་
+ཁྱོ་ཧཱུྃ''། ཀླསྤྱི་ཉི་ཀྱི་སུ་ཡི་རྩ། ཚུལ་ཏི་རྒྱལ་ཁུང་ངུ་འཁྱིལ། ཏིག་མཱནྟི་ཙི་བྱིག་པ་གྲིན་ སང་གློ་བྷ་གི་ཉིཙྩཾརུང་ཞིཅུ། ཏིང་གི་དམ་སྤྱན་ལྕང་སླང་གའི་
+ཏུ་ཏུ་ཨུ་ཚབ་ག་བ་འོ། བཞུཝཾ་ར་ཏི'ལྷམ་ལ་ཕྱགླང གྱུར་ཁང་ལ་ཀཱ་མ་པ། མ་བ''མ”
+ས སོ་སས་པས་ས་ཁྱི་ཙཀ་བསྔ་མ་བཞག་
+དང་མ་གྱེརདུ་དམྱསུ་སྤྱངས་གྱི་དང་།
+ཚེས་ཞག་གཡི་དངས ཡད་ ༡༥།
+ཏ་ཐ་ག་ཏ་བྷ་བ་བློ་རྒྱ་ཅི་ བྷད་དྷ་ས་ཏཱག་ཏུདུ་སིདྷི་འད། ཅི་པར་བྷོཥ་ཛི་དྲུ་བྷ་གའི་ རུམ་ལོ་ཀི་ཏི་སནྣ་བ་ཚ, དྲང༌། །
+ལ་བ་ས་
+ད་དམལ་
+I
+tu་
+ས་དཔ་ཨ
+ག་
+སྐྱོན་པ་ ཆགས་མད་སབས་ཆེན་བསྐྱེད་ ་
+ས་་་ ཚད་དམག སྨད་ཛོ་ བཆན འཁྲུས་ འག་ ལྡན་
+s༌ ག་ཐུབ་་ ད
+གསེ; བྱ: སེན་
+འས་ རབ་ བབས་ཅན་
+་བད་བ་ས་
+པ་ལ་ས་བ་ བ་རྨད་ད་ཅད་ཚལ་བསལ་
+་།སེལ་ འབར་ མ་ལག འཆལ་ བ་
+བག• མ• །་ ， དེ་ ཚེ་ ཡིད་ ཀྱིའཁྲུལ་
+འབྱེད་པ་ འགས་པ ལས་ མད་n .
+6.. ..
+བད་ : aལག།ཀའཐབ་ཡག་
+སད་་་་་་
+་་་་་་་་་་་་བ་
+འཇམན་ ས་ ཉམས་ འཅུལ་ ས་
+ཅམས་ གོ་
+རྒན་པ་རྒན་མོ་ཞིང་ལ:
+ཆེ་ རྣམས་ ལ་་
+བཀབྱསོ་་་
+[iiuད་
+ད་དུ་ས་
+jག་་་་་
+དམ་་་་་
+ས་ བན་འདབས་
+བན་ གོ་ ཁུལ་ མའི་ ་
+སབ་ མ.7 : ཞེ་
+ས， རྒྱ་ མི་ རྣ་7བ་པ་ཆས་
+ག ང་ གི་ མི་ ཉམས་ ནས་རབ་
+བ་ལ་ལ་ལ་་པ་་མ་་། iབས་པ་ཆ་
+ཏེ་མི་ ཐམས་བས..
+ད་དམག་མིར་པ་མདའ་
+༡། འགད་
+] ལག་ བ་ ལ་ མོ་མཚན་ནt ཤྲལjམི་མིང་ས་ ད་ .
+བདུན་
+་་་
+དབང
+དྷང་ག་མ་ས་ལ
+མི་རྣལམ་བཟ་མའོས་སྤྱ།
+འངས་མཆནས་
+ལང་ན་བཝ།
+བཟང་ མི ཡི་ནན་
+སུ་མི་འཇུག་མི་ཟད་པས་
+འcག་
+དབས་ལ་མ་ས
+བང་སོ་ནམ་ལན་གས་ཆེ་
+བས་ ལ་ མང་
+ངལ་ན་མི་
+་
+- མ་ ན
+སམས་ན་ནནམ་
+ལ་
+ས་་
+t
+འཨཱ།་ ་ན་དང་ འབཅོམ་ ལྡནོ་་་ /c།
+དེ་བཞིན་ གཤགས་ས་ནི་གྱི་སྐྱེ་པོ་ ་
+གསལ་བ་བསེའམ་
+ཡས་ སློབ་ གསལ།
+བློ་
+བྱས
+ལྟོ་
+ཡེ་་
+ཐབསདང༌ བསརཱམ་ ཚན་ན མིང་ ]l
+
+
+
+6•
+པར་རྒྱལ་བ་
+་ས་
+སྟན་པ་
+I
+ངའ༄༅། ཐེ་ཚྭ་ཇ་ན་ལ་ཡ་སཾཧ་ང བ་ནི་ཝེད་ཡ་སད་ནེ་སྤངས་ཀུན་སྦྱང འགུ་ཡེ་ས་ཧྲག་ཐ་ཚེ་ཧི་ཨང ཏ་ཀི་དན་ག་ཝ་སྲ་་སུ་སྡུད་བྱང་། ཏ་གྲུ་ཧྥ་
+རོ།་ ཀྱང་ བའི་ ༣༠་རབ་ ཚན་ དང་སློབ་གསལོ། དེ་ས་ དགུ་ འགྱུར་ ཡེ)བཞིན་ ན་བུ་ མཛོད་ དཔ སེ་
+སྤྱད་ཏུ༔་སིདྷ། དཔཙོ་གསས་རྩལ་ནེ་པཧྥ་ཏུ་ཏ། ཤི་ཤན་མ་མ་ཁྱེར་ཉི་གུང་། འགྱསུ་ཨ་ཡུ་ཇུསུ་རྒྱུ བསྟི་་བུ་ཆེན་པཛ་གྱང་། ཉེ་ལ་སྤཔ་འདུ་དེ་བ་ཞིག
+བཞིན་ འདྲུབས།་ ༥ང་རྒྱུང་ མ ཐཱན་ ཡབས་པའི་མཚན། རིནམ་ འམཁའ་ བཞོ་ཕྱེད མང་ བྱ་མ་ ཚེ་དབང་ རིའི་ཞི་རྫོང་ མལྡན་བསང་མའི་ཤ་འམཛད། ་ ག་ས་ས་སམ་ ག་མ་ པ་
+ཏུ་ན་ཐཚན་མ་ཡེ་སིདྷ། ཁ་མུན་པ་སྲུང་ལ་ཞི་རྩེད། ཏྲེ་གེ་དག་སཅམ་ནུ༩ ཟད་ཀྱ་ཏུ་ག་གྱི་གྲན་རྨ༌སཾ་གྱི་རྒྱན་པ་ན་་མི་འ་
+ད་༌་་ོཝང་། གཤེན་ལ་པན་ཏུ་ཉི་དྷཱི་ཝར།། ཉ་ལ་པཎ་ཏྲི་ཏྲསུས༴། བླ་ལ་པཎ་ཏྲི་ཆེ་ས་དང་ལུང ས་མ་པཎ་ཏྲི་མ་ལ་མར་ཞུ། རྨོ་བ་ལ་པཎ་ཏྲི་པཏུ་ཏྲི་ཙེ་
+པཎ་ཏྲི་ཏ་ས་ཏྲ ག་ཐེར། སཔྲ་ཏི་ཟུར་དྲུང་དུད་ན་ཁི་མུ། པདྲ་ཏཱི་ཐགོསཙྩ་མཁྲ། པཉྩ་ཏུ་སྤ་ཚལ་དྲུང་མ་ཞེན།། པ ཟུར་རྒྱང་ཆེ་ཡ་ཁེ་ཁ། སཱརི་ཏ་
+མས་མ་ཆེན་ རིན་བཀྲིས་ _་ མཁས་པའི་གཙུགགན་གཕྱུང་རྒྱས། མཁོམ་པའི་ དབང་པོ་ཙ་བ་འདརོང
+རྣམས་མ་ག་དུནན་ ཁ་མ་བ་ཁྲི་པར་བྷཙེ་ཏན ཐེ་ཤུན་དྲུང་ཆེའི་ཁད་དརྩམཁན། ཨ་སིང་རི་རྒྱལ་སིང་ངེ་ཚུལ་མི་ནི་ ཧྲནི་ཨན་ཞི་མདུ་མ་
+དམ་
+i|་གt་དབང་བ་སྔ་
+མི་ད• ཤས་མ་ སྟབོས་
+རྟགཞི་
+ལར་ས་
+་མ་ ་
+བཏྟ་སྲསལ་
+གཉེན་མ་མཁས་སཞོ་མེ་རྒྱལ་མམ་ ་
+་་སས་ལསན་
+ཤ་ལ་མཁས་ས་རྒྱལ་བ་གཡུ༌
+སཱ་མཁས་ས ནམཁའ་བཟང་།
+བ་ས་སྨཁས་ས་མཁས་ས་དཔས་ན་
+མཁས་་་་མམ་ན་སོ་བདུན་
+མཁས་པའི་སང་ས་
+ཉམས་མ་ལས་པར་འད།
+་ས་བྱེདཡེ་ཧེ།
+དྭ་སེ་སུ་མ་ནས་ཡ་མ་བཞིན་
+མ་དེས་ཞི་ཞི་གྱི་དངོས་ གློ་གི་འཚོ་གནས་ཡེ་མི་མས་མ་ག་ཐའ་གཉིས་སམ་ཨ་པོ་མང་
+བཀའ་དང་༌་
+-མ་ བབ་བ་ལ་རྟེན་སཾ་བ་
+གསང་རབ་ གྲངས་མེད་ཀྱི་
+༼གསལmན་དམ་
+སོགེ•Jང་
+ཅན་
+གྲུ་གེ་ཐད་ཁེ་ཕྱརྩི་ན།
+མག་ཤེ་ཝང་ཡང་ན་མགྲུངཧི་པ
+ན་ཡ་གེ་ཁྱི་མག་གེ་གླང་།
+ཨ་མགི་ལ་རྒྱུ་མ་ཡིན་མི་བྷི་ཡ།
+ས་ཏག་བྱ་་སང་
+སོ་བlས་སའི༼ན་འབྱོར་ ན་ ་
+རྣ་བསམ་
+ངལྡན་ ན་
+ང་མདོ་འདི་
+མཁས་པའི་མམགགེ་གཱ་འབྱས་ན་མཛངས་མང་
+མ་མང་ལན་མ་འ་ལ་གསང་བར་༥་་་
+བག་ཡལ་
+ཊི་གེའབྱ
+
+
+
+ཨ་ཤེ་
+པ་་ང་
+-
+ས་ག་ལ་
+མཔང་
+ས་ག་
+jབa
+བ་ལས
+བལ་དག་
+འབག་
+I
+ཧ་ནི་ཧ་ས་ག། ད་ལ་གྱལ་ཏི་གཱན་ཁ་པ་ཀླུང༌།
+བ་མད་
+་པ་
+ལ་ལ་ད་
+སྒོ་ ཞེན་མག་གི་ཟ་རླུང་མཱ་ཁྱི།། བླ་སྤུ་ཟ་རུང་ལ་མ་ཝཱལཡ། ཨ་ངསཎཱ་སུ་ཁལ་ལས་རྒྱབ༌ནས་
+པ་ རྣམཾ། །གླའ་བའི་སཱ་ གསར་ དཞེ་འབྱར་ བཤད་པའི་གསུང་རབ་སྒྲོགོས།་
+ཐ་ཚན་བྷོ་ཏ་སླ་ཞི་འ་ངལ་ཡུ་ཤེ་ཙiཔནྟི་ཏ་སང་ཉི་པམ་སད་མ་འགི་ཡ། ད་བཤ་ཡེ་ལག་བ་ངང་ཟད་ཡའམག་རྡུལ་ནག་མ་མ་ལག་
+མགར་ཐུག་ བསྡུས་
+ག་སའི་འཕྲེང་བ་ཁ་ཡི་ཟ་མ་བཟང་བའ།
+ས་
+ལ་མོ་ ཕའོ་བརྗེས་བ།
+ཆེ་དང༌བདེ་ དང་སློབ་ ལན་
+རང་ཕྲག་ལ་བབ་པ་གཤིན་མེ་ལཱཉྩ་ཨཱ།
+ཉེ་ས་མཱ་ཏེ། སུས་ཞི་དཱ་ཟདས་ཏི་སྤྱན་ཕྲད་སངས་ཏིང་ འདྲི་རུ་བ་ཨ་ཡུ་ཀ་ཡ་བག། ནེ་སུ་པ་དག་མ་ཟངས་ཡག་ཉེ་པའི་ང| ན་ནམ་བག་ཅེ་མུ་ལ་
+ཀྱིལ་ན་ལྕམ་བརྟནམ་དགུས་ནང་ནས་ རྔ་ནི་འབྱུང་བ་ཚེ་དང་བཀྲག་མངཝཔས། ་ ས་མི་གཞི་མ་སྤྱི་རུ་པད་མའི་གླིང་།
+ཟ་འོག་འམོ་ལྡན་མཁའ་སས་
+ཉི་འབཅུ། སྒྲ་ཡི་སློབ་སྦྱོ་མཐང་བ་དན་གསའམ་འ། དྲི་མ་མེད་པ་གཟི་བརྗིད་འམ་བའི་མདོ། སྲིད་པའི་མཛོད་ཕུག་སྒྲ་འགྲེལ་དང་། མ་རྒྱུད་ཐུགས་རྗེ་
+ཉི་མའི་རྒྱུ། མཁའ་འགྲོསུན་འཕྲེང་བའི་རྒྱ། དེ་རྣམས་དགོངས་སའི་་ན་བསྡུས་ཏེ། སྒྲ་ཡི་དནེ་བསེབ་མེ་མང་འདི། མཁས་གྲུབ་བློ་གྲོས་རྒྱལོན་དང་། །
+མཁས་མཆོག་རྒྱལ་བ་འ་དེ་གྱི་ རྗེསུ་འཛིན་སའི་ཁ་བ་ཡི། རྒྱལ་བའི་བཀའ་དང་བླ་མའི་ལུང་། རུང་དགི་ཚད་གསུམ་སྲང་ལ་ཤད། མི་འཁྲུལ་མེ་
+པར་བཀོད་པ་ལ། འནོ་ཀྱང་བསེ་བྱའི་གནས་ལགས་ཀྱི་ ནདོ་འཁྲུལ་ཞེས་འགལ་གྱུར་སྲི་་ན( ཡི་དམ་ལྷ་དང་བླ་མ་དང་། དགི་འཛིན་མཁའ་འགྲོ་བ་འ་སྐྱོང་མ།
+ས་ནང་ཞིང་འགདོ་དེ་བཞུགས་བྱང་གསལོ། དགེ་བས་མཁའ་ཁྱབ་འགྲོ་བ་རྒྱན། མི་བུས་རྨངས་པའི་བླ་བཀྲལ་ན། བླ་གྲས་ཡེ་ཤེས་རྒྱས་པ་དང་། བླ་མེད་གོ་
+，
+
+
+
+IT
+་
+r
+6 Jག་བདུན་བརྒྱད༡)།-
+70
+། འཕང་ཐོབ་པ་ཤ་ [ ཞེསཝ་ཡི་སྡོབ་རོ་མཝོང་བ་གནོ་གསལ་གི། རྨང་པའི་བློ་ལ་ཕནསྙོམསྶཏེ། དགར་ཕྱགོཔ་ཧཟླ་དྲུག་པའི་ཚེས་བཅུ་ལ་དབེད་སྦྱོར་གྱི་ལྷུན་གི་ཨོམོ་༥།
+༄༅ ཤུ་ཡི་ཞལ་འབྱརོ་ཉི་མ་གྲགས་པ་བཀད་ས། མུ་ཙུག་སྨར་རོ། ཞུས། སླར་ཝརཡཁརཚརསebན་པས་སྔཚཔོ༄དཔཡོད་མག་ལ ）
+འཕ། རྣམ་མཁྱེན་རྒྱལ་བ་གཤེནབ་གྱི་མཛད་པ་བརྒྱདང་དརྩ་བརྒྱད་ནི། མད་དྲི་མེད་ལས། དེ་ལ་བྱེ་བྲག་ས་ཡོདབྱེ་བ་ནི། ཐོག་མར་འདི་གསལ་ལྷ་ལས་བབ་ནས། །ཐ་མ་ཏུའི་བརྟན་
+རྟང་མ་ཏྲཌ་ན། ཞེས་ཏུ་དབྱེ་བ་སྤྱདང་༼ཅ་ད་ད། དེ་ཡང་མེ་ལ་སྤྱད་སྟངོ་རྣམེ་བརྒྱ་ལ། གཤེན་གྱི་མ་ནི་ྋརྒྱ་རྩ་གཉིས། དེ་དག་སྐུ་ཚེའི་ཚད་དུ་འཛིན་པ་ལ། མ་ཤིང་རེ་ལ་གང་དག་
+མཛད་པ་སྟེ། ། ཞེས་མས། དགུང་ལ་དང་བསྟུན་པའི་མཛད་ས་གྱཟླ་གྱི་གཉིས། དེའི་གང་དུ་ཡང་བའི་མཛད་པ་བཟློང འགྷཱ་ཏུ་འབྱུང་བའི་བཙུསྟེ། རྒྱ་རྩ་བརྒྱད། དེ་ལ་གང་དུ་མཛjས་ནི།
+དང་པ་སོའགོ་མན་དབྱིངས་ནས་ལྷ་གཤེན་སྲིད་པ་བཀའ་གྲས་ལང་མཱནས་པ། ཟ གཉིས་ས་ཞོ་ར་ལྷ་འདོགསལ་གནས་གསྤུང་མེདིའི་འཁརོ་ཚཌ་གྱིས་བསེ་སྒྲིབ་སྦྱང་བ། ལག་པ་གད་གསལ་
+ལྟ་ནསྨརིམ་སར་བབས་ས། མ བཞི་ས་ཆ་གཟིགས་གནསུ་བན་འཁར་བྦསྐཏོ་བ། ཁ ལྔ་པ་འཆི་མེད་བྱམས་ལྡན་མ་ནོ་ལྟ་ཡུལ་དུསྱལ་ཚབས་བསྐས་ས། ལ_ག་ས་རྩག་གྱུར་ཚམསུ་སྨིན་
+ང་ཚ'''ས་བཏགས་པ། ལ སྨན་ས་བནོ་འཁཎཕྲོང་རྩེ་ནས་གཤེགས་གངསོ་མཛད་པ། ༧ སྐྱ་སར་འམ་གླིང་དམུ་རྒྱལ་སྲས་ཡུམ་གྱི་ལྗོང་ཞགས་པ། ༄༅ དག་ས་གྲང་ཁྱེར་ཡང་སའི་ཁྲང་་ཁྱད་
+
+
+
+གྲུབ་དམ་པར་ཐར་བ་དམ་པ་མེད་སྤྲུལ་ཐང་པར་ཁང་
+In
+ཟླ
+།
+•་
+|
+མཁར་དུགཤིང་ཁྱེན་ལ་སྒྲ་བསྐོས་པ། ལ བརྒྱ་པ་ནི་གླིང་ལ་གཞན་ཨ་རམོ་རྩེད་མཛད་པ། ༧ ཐིག་དུམ་པར་ཁུང་ཏེ་སྲིད་གསུཾ་ཚེ་དགུ་ཡང་གྱི་རྗེཅུ་བགོས་པ། ལ ཕྱིསི་ཨིནགི་ས་
+གཏན་ལ་ཕབས་ཏེ་འཛུང་རྒྱན་དྲུག་དཔལ་དང་བདུན་མ་བསྟན་པར་མཛད་པ། ལ བཟློ་མངའ་བདག་དགེ་བཀའ་གྲོས་ཚྭ་གྲུ་མི་གནཾ་ཡ།པེ་ལ་དམལ་བ་ཞེས། ། ལ ལ་མཛདོ་དང་བསྟུན་པའི་མཛད་
+པ་ལ་དཆུ་གྱ་གཉིས་ནི། དེ་ཡང་མདོ་ལས། ལྔ་གསུཾ་བཅསུམ་བུའི་ཚ། གསང་བའི་ ༧ དང་པ་མི་ལ་བསྐྱ་རྫོགས་གཉེན་ལོ་གཅིག་པ་ནས་ལེགས་རྒྱལ་ཐང་པར་ཁྱ་གཞེན་སྐག་ས་གསུངས།
+དེ་བཞིན་གཙག་དགཉེན་དགུ་ལ་ཐགེ་སནམ་དགུ་གསུངས། གཉིས་པ་སྒེང་མ་གན་ཐག་སང ༧ ག༔ཡའཕྲུལ་གཤེན་སྨག་སང ལ ཉི་མསྲིད་གཤེན་ཐག་པ། ༧ ལྔ་བདག་གཉེན་ཐགེ་ས།
+ལག་ཡང་སྤང་ཐག་པ། མ མུནས་ལ་དབལྟ་ཐབས། ༧ བརྒྱ་བ་ཡོན་ཝག་ས། དགུ་པདག་པ། ལ་རྩ་སཞུང་ལ་བབ་ནསཇི་གསྲུང་དགུ་རྩེཌ་ཀྱི་དརྩེ་ལ་སྐད་འགྱུར་པར་གཞན་
+༧ མཐོག་ཁྱི་ཁྱན་ཡུམ་གཔསོར་བཞིངས་ནས་བྱོས་ལྡན་གསུངས།༤ བཟློ༧་ལྷ་ཀླུ་མི་ཡི་སྤབ་མར་སྦག་ས་སྒོ་གསུ་དཔ་སྦེ་བདུན། ལ ་ བརྩི་འཇོ་གླེང་བྱེ་བ་ཕྲག་ཁྱད་དུ་སྤྲུལ་
+བྱེ་བ་ཕྲག་མྱ་སྤྲས། །མ བརྟོགས་པ་གར་བུ་ གྱི་ཤི་་ལ་ར་ཙ་བགྱིས་དབང་ཞེས་བདག་གླིང་ངངས་འཚེ་ཐུང་བཞངསདེ་དུས་འཁོར་གསུངས༔ གུ་ཞེ་འཁྲུ་ལེང་ཡཌ་གྱི་འགྲོ་སོང་སྡཡ། ༡སེན་མད་ལ
+ལྔ་གསུ་བཟོ་ཁབ་བཞེས་ཚད་དུ་གསུངས། ལ བཅུག་གི་ལོ་འགན་བབྷཱ་ཞེས་སྲས་སྤྲུལ་གླིང་བཞེད་ཞབས་བཅག་བན་འཁོད་བཀོདོངཁ། ཛཀ་ཆེན་མི་ཁ་དྲངས་ཤིང་རང་ཕྱོགས་ལྷ་ཡུལ་དུ་བོན་
+བསྟན་ནས། མ བསྐྲུན་གལོ་གླེང་དང་འཛུང་ཡུལ་ཚན་བསྐྱོད་ཀྱི་རྒྱལོ་ཞེduང་གྲུ་སི་ཡུལ་དུ་བཞོ་འཁོར་བྦསྒོརས། ལ བརྩོད་དད་གྱི་གྲོལ་སྣ་དགུ་བཏུལ་ནས་ཁྱད་ཁོ་དབྦང་དུ་བཉྩས། ལ ཐུ་ཞུ་
+ལསན།
+
+
+
+|
+1ད། གསས་ཁསཾ་ཁགཔྱདང་ན་བཀདེ་འམདྲུག་སྔས་ལ་ལྟ་ཅུད་ཡིས་མནོ་སྦྱར་བསྟན། ལ ཉི་ཤགརགེས་རྒྱལ་པར་ཐོག་དགའི་བསྟན་པ་རྗེསུ་བཞགམི་ས་མཛདང ལ ཤད་གཅིག་ལྕམ་
+རགེས་རྒྱལ་པརོ་སྐུ་གདུང་ཙུ་བརྒྱ་དྲུག་ཅུའི་བསྟན་ས་བཊི་པ་དང་། ཚངས་རབས་མར་ག་འཕང་སྒྲུབ་ཐབས་བསྟནང ༧ ལྷར་གཞེས་ལྟརི་ཡ་ཙོ་མནན་སེ་མ་བཟ་འ་རབ་འབྱམས་་ཐག་ཆན་
+དང༌། སྤ་དཔོ་མད་བསྟདང་སླདེམཉི་ཁྲི་ཝེསཾ་བརྒྱད་ལ་པཌ་འཐདེ་དུས་འབྲི་ཅུས་གསོ་གཏན་ལ་ཕབས། ལཕནད་གསོ་ཐཟད་བྱའི་ཁབ་ཏུ་གསྶཡོ་པརྨ་གླིངཞེ་བཞེངས་པའི་ནང་དུ་བསྡུ་
+༧ག་ས་བོས་སྒོ་ནས་མངའ་ཁུལ་དབ་གནས་མཛད་སད༌། གནོའི་རོ་གྱི་གླིང་ལཱ་པgའདགཟངས་གསུངས་ཏེ་མན་ངག་དན་གྱིལྡེང་ས་རྫས་བཞཎི་མཱཛདང ལ གདེ་བཞིར་གདུང་འཛིན།
+ཀང་ས་སྤང༌: ལེ་པཎ) ༼བང་ལྡན་འཁྲུངས་ས་རྒྱལ་ས་ཝགས་སོ་སད༌། གཝན་རིགས་རྒྱན་གྱིས་མ་འདེ་གཅིག་བནོ་ཞེས་བསྟན་ཀྱང གསྤུང་ནུ་བརྩེགས་་ཥི་དང་རྒྱལ་ས་གླིང་སྤྱད་ནང་
+གླིང་བརྒྱད་བཅས་མཐུན་གནས་སརྒྱས་ཁྲི་དང་འདུན་ནང་མཚན་མདོ་གསུངས། ༧ ཉེར་ལྔ་རྒྱ་རྗེ་ཀངོ་ཙེའི་གསསང་མགན་དུ་ནོར་རྒྱལ་བའི་སྐྱར་བཞེངས་ཐ་་སྲན་གཡུལ་ངོ་བཟློག་ནས། །རྡོ་དམ་ཅུད་མན་
+འཛུལ་རྔ་བ་ཡཁྲུག་བཟས་པར་གསུངས། མ ཉེར་དྲུག་བན་འཁར་དང་ས་ཐག་ལ་དམ་དྲག་དང༌། ༧ ཉེད་དུན་བན་ལོ་གཉིས་པ་སྒོ་བཞི་མཛོད་ལྔ་དང༌།ཁ དེ་ཁྱད་བནོ་བཞོ་གསོ་པ་ཁྱེང་གསང་ག་ཞེསཾ་
+རིགེ་བའི་གླགས་བོ་བདེབ་ཕྲག་བརྒྱར་སྤྲེས་ནས་དཀར་ནག་བཀྲ་གསལ་གནས་ལྟོས་ལ་མངའ་དབུརཏབ་གནས་མཛད་ནས་རིནེསྒྲོན་མའི་མད་སྡེ་གསུངས། མ སོརྩ་གང་ཚ་འཁྲུལ་མང་སྲསུ་འཁྲུངས་ནས་
+གཙུག་ལག་དརྩིས་ཀྱི་བསྟན་པ་བཞཊནས་ཐཔེརླལས་གླིང་བརྒྱད་གནས་ཕྱིར་ཐོས་པབྲས@མི་བག་ག་ས་རོམ་ན་ཐལ་ཨམ་མས་བདགོས། ལྔ་གཡུ་རབ་བྱུང་ཚད་དུ་གསུངས། ༧ སོ་གཅེས་
+'ཞེ་བའི་སྟགྲལ་གཞི་ནས་ཁྱིམ་སྤང་རབ་ཏུ་བྱུང་ནས་དད་པའི་འཚུ་ལ་རབ་བྱུང་བ་དག་ཞིན་གྱི་བནོ་ཞེས་གསུངས། ༧ ས་སོགས་རབ་བྱུང་འབྲིང་པ་གཙངེ་གཙག་ཁྲིམས་བག་མ། ལ ས་
+་མཛ
+་ས་བ་
+1
+;：་，
+，
+as:
+
+
+
+I
+གསི་གླེད་གོ་འཕང་སྒྲུབས་ཐབས་མདལྡེ་བཞོ་ལ་གསུངས། །ལས་བཞ་འགོ་མཱན་དབྱངས་འཨ་ནས་བསྙེན་རྫོགས་བཞེངས་ནས། རྨ་གསོ་གནས་བྱཡི་ཀབ་ཐབ་མ་སྒམ། །བཀྲིས་ལྷོམོ་
+གདན་ལ་པརྨའི་བགྲེས་གསལ། ༧ ས་ལྔནི་གན་གནས་སྤྲེའུ་ཞིག་འཐུབ་མད་སྐབས་ཞ་ཝི་ཝཱཎོ་ཕྱག་་ལ་གསེར་ཉའི་བགྲེས་གསལོ། ལ པ་དྲུག་འལེ་གླིང་ལེགོ་གླིང་དུ་མི་ཡི་དགའ་བྦད་
+སྐབས་ལྷོ་བརྟན་མས་གསེར་ཐོ་བཙད་ལྡན་ཁུལ་ནས་མགུལ་ལ་ཕྱོགས་པའི་བཀྲིསེ་གསལོ། དངུས་སྦྲང་དན་དུ་མ་ཞོ་རྒྱས་པའི་ཚུལ་བསྟན་པས་ཁྱབ་པ་གྲལ་ནས་ཁྲིད་མི་ལྡོགོ་པའི་ས་ལ་བཀོད།
+༧ ས་བདན་མཱིག་གླིང་ལ་ཁྱབ་པ་ལ་པཎོ་སྤྱད་སྔོན་མེ་རབ་ཏུ་བྱང་དུ། རྒྱལོན་ལྷས་ཐད་ལས་དུལ་བའི་སླཞི་ཙག་ནས་སྒྲ་ལ་བཀྲིས་གསལ། ལ སེ་བརྒྱད་ནི་བོ་གན་ལྡན་ཁ་བར་གྱིས་ཤང་
+ལ་འགྲྭ་ནེའུ་ལྗང་ཚལ་པ། འཆད་རྩོད་དཙོ་གསོ་བན་གྱི་འན་སྡེ་བཞི་བསྐན། ལ ས་དག་ལུལ་བ་ཁྲིམས་ཀྱི་གླིང་ལ་རྒྱང་དྲུག་སྡེ་བཞི་མན་ངག་སྡེ་གསུ་གསུ། ལ བཞི་ཝ་ཁྲིཚན་གལ་
+ག་སྲུང་ཁྲི་མནོ་རྒྱལ་བའི་རྒྱུད་འཆད་སྐབས།ཕ་ཚན་ལྷོས་གསུངས་ལ་དྲུང་ཆེ་བཀྲིས་གསལོ། ལ ཞེ་གཅིག་ཁོ་མའི་གནས་གཡུང་ཁང་མ་དག་པའི་རྒྱུད་གསུངས་སྐབས། ལྷོ་དཔལ་ཐེག་མwཐང་
+ལ་དཔལ་བའི་བཀྲེས་གསལ། ལ ཞེ་གཉིས་མཚོདོན་ནོ་གསུང་ངུ་ལས་འབྲས་དང་། ནང་བ་དང་བྱ་བ་དང་ ཐག་་ལ་ཕཊ་མངར་ལྡན་པའི་བན་བསྒྱུར་སྐབས། ལྷོ་འམོ་མཀོས་དབྱིངས་ན་གཡེ་གྱི་འཚོ་རྩིས་
+སྡང་དཅིགས་རེ་ལྷ་རྒྱལ་ཚངས་ས་རེ་རེ་བརྐྱེན་ནས། །བཀའ་འཚོ་བསྐོར་ན་ནུས་ཤིང་ཞབས་ལ་འཁོར་བཀྲིས་གསལོ། ཞེ་གསན་བཞིའི་ལྟོ་ལ་ལུལ་སྡེ་མི་འདྲ་ཉེར་ལྔའི་ཁྲིམས་ཐགེ་མཛདལ
+ཉེ་བཞི་གཤེན་གྱི་དགེ་སྤྱོད་ཡརླག་བརྒྱད་པའི་ཚད་སྡེ་ཚངེས་ས་གཙགླུ་རྒྱུད་ལ་༧སྐྱབས་མད། ལ ཞེ་ལྔ་གཤེན་གྱི་མདོ་ན་ནི་ཀ་དང་ན་རག་སྤྱང་ཀང་གེ་རྒྱས་ཞེས་པའི་གཟུངས་སྡེ་གསུངས། དེ་ནས་
+མདལས། རྫོགས་གཙོ་ཚོསྲོགན་པའི་ཚད། ལྔ་གསོ་བསྔོ་མཐར་ཕྱིན་ཚད། ཅེས་གསུངས་པས། ལ ཉེ་དྲུག་དགན་ས་མཛདུ་གཤེང་ཁན་བཙན་ས་ཁྱབ་པས་ན་ཞན་ཕལར་ལ་ཅིག་བན་གྱི
+•ཀྱི་བདག་ཞིབ་ཏུ་སྨད། ། ཉེ་བན་དགངོས་སའི་གོ་ན་མི་གཡོ་བསཾ་གདན་གྱིང་ངུ་བཞིས་སྒོ་ག་ཝན་མཤི། དབུ་ཡི་མཁའ་ལ་གདུགས་ཆེན་ཐུབ་བ་སྤྱིལ་པོ་སྒོ་སྟེ། དེ་བཞིན་ཉིད་
+་
+ར
+
+
+
+2
+---
+-
+•
+།
+། འབ། གྱིསཞི་རྒྱ་དང་ཉི་ཤུ་མ་མོ་དརྩ་ཐོ། ལ ཞེ་བརྒྱད་ཀུནསྐུ་སྣང་གི་ནི་ཞི་དང་ཉི་མ་སྤྱནུ་བཤོང ལ ཞེ་གྱ་སྤྲུལ་ས་སྐྱའི་ཏ་ཞེ་བརྒྱ་དང་ཉི་མི་ལོ་བརྒྱསུ་བསྒོས། ལ ལྔ་ཙ་རིན་
+གལ་གྱི་ངང་ལ་ཞེངས་ནས་ཐགེ་ས་སྤྱིར་གཅོད་ཆག་བཀར་ནས་གསུངས། ལ ང་གཅིག་སྤྲད་པ་ཆེན་གསེར་གྱི་འཕྲེང་བ་གསས། ཁ ང་གཉིས་མཚུག་གམོ་འོད་གསུངས། ལ ང་གཙུ་སེལཾ་ལང་ཡེ་ཁྲི་དཀར་ས་
+གསུངས། བ(སྨཞི་ཡང་གསང་ཐིག་སེ་པརྩད་བསྩ། ལ་ལཙ་བལ་ཀྱི་ལུང་ཚིགེ་དང་ཞཡཔྤཡེངས་ཀྱི་ཡུརྩེད་གསུངས། པངཕྱུག་ཐུགས་རེདཞིབད་པའི་ཁ་ཆུང་གསང༌།
+༧ ང་ཨན་ལྟ་བ་སྤྱི་གཅོདོ་སྡེ་དྲུག་གསུངས། ལ ང་ཁྱད་མནག་སྤང་གཞན་ཐར་བཞི་གསུངས། ཐ ང་དག་ཀྱང་སོ་གབ་པ་དག་བསྐོར་གསུངས། ༧སྦག་ཐ་མཎྜག་གོ་བཞག་ལ་དྲུག་གསུངས།
+• རེ་གཅིག་རྫོགས་ཆེན་ཡེ་ཁྲི་མཐའ་སེལ་གསུངས། ལ རེ་གཉིས་རྫཊ་ཆེན་གསུང་ཀློང་ཡངས་གསུངས། ལ དེ་གཞི་གསལ་བྱེད་སྒྲོན་མ་དག་སྐོར་གསུངས། ལ རེ་བཞི་དྲི་མེད་ཤལ་གྱིཞིང་གསུངས།
+ལ དེ་ལྔ་མནག་གསལ་སྒྲོནོསྐདས་ས་གཡངས། ལ རེ་དྲུག་གཡུང་ཐབས་ས་གསུངས། ལ དེ་ཐན་གསྲུང་གསང་བའི་ལང་བ་གསུངས། ལ དེ་དརྫཎ་ཆེན་ཐོག་སྒྲོན་མ་གསུངས། མརེ་དགུ་
+ཡང་རྩེ་ཀློང་ཆེན་ཝའ་ཡངས་པའི་ཀློང་ཞེས་བྱ་བ་གསུངས། ལ ཐ་ན་རྩ་མ་མེད་ནས་འབྱོས་ཞེས་ཁྲི་དཀརེ་གསུངས། ཐ དན་གཅིག་སྒྲིང་སྒྲ་སྒྲོག་ཡས་རྩེ་ལ་གསུངས། ཐིག་ན་བན་རྗེས་རིན་
+ཞའི་གློག་བ་སྟེ་བརྒྱ་དྲུག་ཅར་བྲིས་ནསྶ་ཝོ། བཀྲིས་ཞལ་བསྔ་མནོ་བྱ་ཚརེ་གནས་པར་མད། དེ་ནས་རྩ་རྒྱུད་ཉི་ཟེར་མས། གཤེན་མ་སྤྱན་རྩ་དན་གཉིས་དུས། ང་མན་བད་ཀྱི་མྱ་ངན་
+=དབ་དགས་ཟཏེ། ཐད་ཀྱི་ཀི་རྩབ་ཞི་བ་དང་། དད་ཀྱི་ཞང་བསྒྱུར་མངའ་བརྩག་ཕྱིར། ཐག་སྒོ་རེ་ལ་ཚེ་སྒྲུབ་ནི། ཕྱོབ་མད་སའི་ཡེན་གྱིས། མི་ལ་དང་ཁྲག་གཅིག་ལ་བསྲིང༌། །
+ཞེས་པས། མ )ནོ་གཉིས་དཔཱ་ཐབས་དང་ནམེ་བདད་བཞི་རུལ་ནས་དང་གསན་འདས་དུབ་ཏུ་བགྲོད་པར་མཛད། ཕྱགཤེན་སྒོ་ནས་ཁྱེབ་ལྡན་པས་སྐུ་ཚེ་མི་མོ་བ་སུ་ཡི། །རྣལང་ཕྱི་
+,
+，
+，，
+:
+བརྙན
+
+
+
+འོ་ལྟར་ཕྱོགསཨཤདེ་བགོ་སྐོར་རྩོད་སྒྲུབ་བསྟན་པས་རྒྱུ&མིའི་སྤྱིར་བསྙིང ་
+ཡི་མདོ་སྡེ་གངས། ལ ཞེ་གཙོ་ནང་གཤེན་སྒོ་ནས་ཚིབ་བསྡན་ས་སྒྲ་མི་ལ་བཅརུལྡིང། སྒམཱང་ཞང་གེ་མདེ་ལེགསང༌། ལ དན་བཞི་འཕྲུལ་གཤེན་སྒོ་ནས་ཚེས་ཞན་པས་སྐུ་ཚེ་
+ཀལཱཊཡང་གསང་མདོ་སྡེ་གསུངས། གསུང་མཱད་ཆོས་ནི་ཡི་གློག་ཕོ་བྲིས་ནས་བཀྲིས་ཞལ་བཀྲ་དགའཞཞོ་དང༌། འཁར་ལ་བཙན་ས་ཟིན་གྱི་གཉེར་གནད་མ ༅ དན་སྲུག་དགེ་བསེ་ཞེ་ཚེ་མདོ་
+བསྟན་པས་སྐུ་ཚེ་མི་མ་རྒྱ་རུ་བསྲིངས། ལ དོན་རྒྱན་དྲང་སྲང་ཐགེ་ར་ཚེ་ཆོག་བསྟན་སས་སྐུ་ཚེ་མི་ལ་བས་བསྡེཝཾ། ལན་སྤྱད་ལ་དན་ཕག་མོ་རྩེབ་བསྟན་པས་སྒྲ་ཚེ་མིག་
+ཚརུ་བཛྲ་བོ། ལ དཞེ་དགྲ་ཡིན་ཐག་སྒར་ཚུལ་བསྟན་པ་སྐུ་ཚེ་མི་མི་མྱ་རུ་བསྲིང༌། ལ བཁྱད་ཙ་སྐྱེད་ཐེག་སྒར་ཤ་མེད་ཁ་ཚོ་ཡི་ང་སྤྱོད་འཚོ་ལ་གནང་བའི་ཡན་གྱིས། ཉིད་ཀྱང་མི་མི་།
+ཉཔི་ཁྱར་བརྫིང་ཚུལ་བསྟན། ལ གྱ་གཅིག་བླ་ན་མེད་པའི་བྱང་ཆུབ་མཆོག་ཏུ་བསྔོ་བ་སྨནོ་ཚིནརོ་གདན་ས་ཡངང་མ། མ གྱ་གཉིས་མི་རྟག་དཔེར་ལྡན་ནས་འགྲོ་བ་དག་ཏུ་རེ་བ་ཞེས་
+ན་ལུང་ཕྱིར་འདའ་བར་དགོངས་ནས། འདའ་ཁའི་ཞལ་ཆེམན་པ་ཚནོའི་དོན་སྤྲོས་བྲལ་ཀ་ལྕའི་བནོ་བཤད་པས། ད་དམག་དུང་ཕྱུར་གྲལོ་ཞིང་ཐུལ་ནས་ཕར་ཕན་མཱགདོ་དེ། ཆ་ཡསོ་
+ཁན་རའི་གནོ་གང་ཐོ་རེངས་དབྱིསུ་གཤེ་ན་མཛད།། དེ་ཡི་འགོ་དུ་འབྱུང་བའི་མན་ས་བ་གཙོ་ཞི། པ དང་པད་གབདེན་བ་སྐྲ་རྩར་འདོའི་ཁྲི་ལ་བམ་སུ་གསལོ་ནས་མ་ཧྲང་གསན་ཚུལ་འ་ཞ་
+ཞུས་，
+ལ་བཊི་ཤ་བཙའི་འན་ལཎི་ས་ནས་གང་འདལ་མཛད། ལ གཉིས་ས་ྋསྐོ་མཛད་སས་གྲྭ་གླིང་ཁྱད་ཀྱི་བྱ་ར་གླང་དརེ། ས་བདག་ལོ་རྔལ་ཞལ་བསྟན་སྤར་བྱང་ས་གནས་ཁྲལ། ལགཙོ་ལ་
+གནས་དེ་སྔགེ་ཁང་བ་དེའི་སྟང་གི་དཀྱིན་ཁྲང་བཞེངས་སྐུ་སྤྱར་ལ་བཞསུལོང ཞེ་ཁྱིའི་བར་དུ་མཆོད་ཡིན་ཁུལ་ཞིང་མདོ་ཕྱོགས་གཟུངས་རྒྱུད་སྨཡོད་ཀྱགོ་ན་མཛདང ལ བན་པསྐྱངམ་དགོམིའི་
+ཁགོ་ཕུབ་སྐབས་ནཁན་སྐྲ་བཞི་མཛེས་པའི་ཞལ་བཞི་བསྟན་པའི་ཐུགས་ལས་གད་འཁྲུསོ་ལྡག་ཁངནང་འན་བྱུང༌། རིལུསུ་ཡས་གར་ཚབ་མངར་མྱས་ཙཝེ། ༧ ལྔ་ཞནང་ཐད་ང་
+सार
+ས
+བa
+
+
+
+3
+བ། ལྡང་སྤྱན་གཟིགས་ལས་བཞི་རྒྱུན་ལོའི་ལྷ་སྒྲ་གཀ་ཁྲི་གཙོ་རིན་ནི་འདསོའན་ཅན། ལཕག་ས་སྤྲིག་འ་བྲལ་ཆེན་ཞེན་ལ་ལྟ་སྤྱད་དང་ཅ་སྤྱད་ཅདོང ལ, ཐན་ས་རིན་༣འི་བདེ་འབད་
+རིང་ཕྲོམ་ཁལ་གཅིག་བྲེ་ལ་སྤྱན་བ བཤ་ས་གང་རུཔ་རྣཝཾ་ལ་མཚྭ་ན་སྤྱད་དང་མ་སྤྱད་ཅནང ལ ཨ་མ་བཀའང་དུང་དཀར་གཡས་འཁྱིལ་བ་དང་ཅ་ཁྱད་ཐནང ལ རྩ་སརན་ཞའི་གདང་ག་ཤ་རིར་ཁ་དགོ་
+སྣང་ལྡན་ས་དང་རྩ་བརྒྱད་བྱོནོ། །ལ ཐོག་སྒྲ་གདང་སྦས་ཚལ་ལ་མ་གླིང་སྤྱད་ཀུནསྡུ་མཚོ་ན་བཞེངས་པ་དང༌། ནི་ཕྲལ་ཤརམི་སྒོམ་ལ་ཀླུ་མི་ཡལ་གན་ཏུ་ཁགསོ་ནས་མ་ས་མནོ་ན་བཞེངས་གསམ།
+ལམཐསི་ཤར་ཕྱོགས་གཡུང་བཀད་སའི་གླིང་ལ་སངས་སྲས་དང་འར་ཁྱེཡང་ཕུ་ནོས་གྱིས་བཀའ་ཡི་བསྡུ་བ་མཛད། ྋ བཙོ་འན་ཞེས་ཁྱབ་པ་ཐག་ནི་མེད་མི་བང༌དང་དགྲ་ཨོ་རྒྱན་ཞང་ལ་སཎt:ེཡངས་ཀྱི་འབྲས་
+ཐ་ཊེ་ཕར་བརྗེསཾཏེ། བགེད་ཡེས་འདེ་གྱི་རྒྱརུ་གྲམ་ལ། དག་ནི་མཛད་པ་སྤྱད་པ་ཙམ་གྱི་དབྱེ་བའོ། བཀྲིས། སོ་
+ནང་ལྡནན་པོ་དང་དམས་སྒྲོག་རྒྱན་ལ བདས་གང་ཛཱཡཱ་ཛཱསཾལ་མཱམཱདེན་བརྒྱ་དང་མ་སྨད་བྱན་ ལག་མཐག་ས་སློག་འབྲམ་ཆེན་ཞེས་ཨ་དཀར་མདོ་དང་དལ་གྱད་ཅན། ལ བན་
+
+
+
+ŚATAPITAKA SERIES
+Sudarshana Devi, Wphaspati-tattwa
+2. Sharada Rani, Ślokāntara
+Lokesh Chandra, Tibetan-Sanskrit Dictionary
+4. Sushama Devi, Samantabhadra-caryā-pranidhānarāja
+5. RaghuVira, Mongol-Sanskrit Dictionary
+6. Sudarshana Devi Singhal, Ganapati-tattwa
+7. A. Zieseniss, Studien zur Geschichte des Śivaismus
+8. Lokesh Chandra, Dpag-bsam-ljon-bzan
+9. Lokesh Chandra, Mkhas-pași-dgaḥ-ston, parts 1-4
+10. Raghu Vira & Lokesh Chandra, Gilgit Buddhist Manuscripts (facsimile
+edition), Parts 1-10
+11. Rinchen, Four Mongolian Historical Records
+12. Lokesh Chandra, Vaiļūrya-ser-po, parts 1, 2
+13. C. R. Bawden, Tales of King Vikramaditya and the Thirtytwo Wooden
+Men
+14. Lokesh Chandra, The Samye Monastery
+15. RaghuVira, Araji Booji
+16. Lokesh Chandra, Eminent Tibetan Polymaths of Mongolia
+17. J. M. van Gelder, Mānava-Srautasūtra (Sanskrit texi with variants)
+18. RaghuVira, Mañjuśri-nāma-sangīti
+19. RaghuVira, Pentaglot Dictionary of Buddhist Terms
+20. Sharada Rani, Wratiśāsana
+21. RaghuVira & Lokesh Chandra, A New Tibeto-Mongol Pantheon,
+parts 1-20
+22. Charles R. Bawden, Vikramāditya Tales from Mongolia
+23. Sudarshana Devi Singhal, Tattwajñāna and Mahājñāna
+24. RaghuVira, Sārasamuccaya
+25, 26. Jan Kochanowski, Gypsy Studies, parts 1, 2
+27. J. M. van Gelder, Mänava-Srautasūtra (English translation)
+28-30. Lokesh Chandra, Materials for a History of Tibetan Literature,
+parts. 1-3
+31. RaghuVira, Indo-Asian Studies, part 1
+32. RaghuVira, Sarasvati Vihara
+33. Rinchen, Catalogue du Tanjur Mongol Imprimé, parts 1-3
+34. Lokesh Chandra, The Golden Annals of Lamaism
+
+
+
+35. Kakasaheb Kalelkar & others, Raghu Vira Śraddhāñjali (Homage to
+Prof. Dr. Raghu Vira)
+36. RaghuVira, India's National Language
+37. RaghuVira, Indo-Asian Studies, Part 2
+38. Lokesh Chandra, The Amarakośa in Tibet
+39. Lokesh Chandra, Sanskrit Bījas and Mantras in Japan
+40. Premnidhi Shastri, Jaiminiya-śrautasūtra-vrtti
+41-68. Lokesh Chandra, The Collected Works of Bu-ston, vols. 1-28
+69, 70. RaghuVira & Lokesh Chandra, Kālacakra-tantra and other Texts,
+parts 1, 2
+71. Lokesh Chandra, Sanskrit Texts from the Imperial Palace at Peking,
+parts 1-22
+72. Lokesh Chandra, Yuthok's Treatise on Tibetan Medicine
+73. Lokesh Chandra & Lopon Tenzin Namdak, History and Doctrine of
+Bon-po Nișpanna-yoga
+74. Denis Sinor, Studies in South, East and Central Asia
+75. Lokesh Chandra, Tibetan Chronicle of Padma-dkar-po
+76. Lokesh Chandra & S. D. Singhal, Prof. Raghu Vira's Expedition to
+China
+77. Lokesh Chandra, The Autobiography and Diaries of Si-tu Pan-chen
+78. Lokesh Chandra, A 15th Century Tibetan Compendium of Knowledge
+79. Lokesh Chandra, The Life of the Saint of Gtsan
+80. Lokesh Chandra, Kongtrul's Encyclopaedia of Indo-Tibetan Culture
+81. Lokesh Chandra, Sanskrit Manuscripts from Tibet
+82. Lokesh Chandra, An Illustrated Tibeto-Mongolian Materia Medica of
+Ayurveda. .
+83-91. Eric Grinstead, The Tangut Tripitaka, parts 1-9
+92. Lokesh Chandra, The Esoteric Iconography of Japanese Mandalas
+93, 94. Lokesh Chandra, Sanskrit Manuscripts rom Japan, parts 1, 2
+95, 96. Perala Ratnam, Studies in Indo-Asian Art and Culture, vols. 1, 2
+97. Lokesh Chandra, Buryat Annotations on the Lam-rim
+98. Lokesh Chandra, Buddha in Chinese Woodcuts
+99. J. Gonda, Sanskrit in Indonesia
+100. Lokesh Chandra, The Collected Works of Longdol Lama, parts 1, 2
+101-208. Lokesh Chandra, Mongolian Kanjur, vols. 1-108
+209. Perala Ratnam, Studies in Indo-Asian Art and Culture, vol. 3
+210, 211. Lokesh Chandra, Sadhana-mālā of the Panchen Lama, parts 1, 2
+212. Lokesh Chandra, Blue Annals (Tibetan text)
+
+
+
+213. Soewito Santoso, Sutasoma (with English translation)
+214-222. Lokesh Chandra, Collected Works of Sum-pa-nıkhan-po, vols. 1-9
+223. Perala Ratnam, Studies in Indo-Asian Art and Culture, vol. 4
+224. Lokesh Chandra, Sudhana's Way to Enlightenment
+225. Lokesh Chandra, Dharmatāla's Annals of Buddhism
+226, 227. Lokesh Chandra, The Ocean Annals of Amdo, parts 1-3
+228. Heinz Bechert, Bhāgavata-purāņa
+229. Lokesh Chandra, Saddharma-pundarīka-sūtra
+230. Lokesh Chandra, Bodhicaryāvatāra
+231. J. Terjek, Tibetan Compendia written for Csoma de Koros
+232. Sharada Rani, Buddhist Tales of Kashmir in Tibetan Woodcuts
+233. Lokesh Chandra, Buddhist Philosophical Systems written by Lcan-skya
+Rol-pahi-rdo-rje
+234. Lokesh Chandra, Lankāvatāra-sūtra
+235. Dharmatāla, The History of Buddhism in Mongolia
+236. Sharada Rani, Kriyā-sangraha
+237. Lokesh Chandra, Kriyā-samuccaya
+238. Lokesh Chandra & Perala Ratnam, Studies in Indo-Asian Art and
+Culture, vol. 5
+239. Lokesh Chandra, Vajrāvali
+240. RaghuVira, India and Asia
+241. Josef Kolmaš, Iconography of the Derge Kanjur and Tanjur
+242. Sharada Rani, Skanda-purāņa
+243. Lokesh Chandra & Sharada Rani, Mudrās in Japan
+244, 245. Lokesh Chandra, Multilingual Buddhist Texts, vols. 1, 2
+246. Geza Bethlenfalvy, A Catalogue of the Urga Kanjur
+247. R. H. van Gulik, Siddham
+248-250. Lokesh Chandra, Multilingual Buddhist Texts, vols. 3-5
+251. Soewito Santoso, Rāmāyaṇa Kakawin, vols. 1-3
+252-258. Lokesh Chandra, Multilingual Buddhist Texts, vols. 6-12.
+259. Lokesh Chandra, Studies in Indo-Asian Art and Culture, vol. 6
+260, 261. Works of Agwangdamba (Nag-dban-bstan-pa), vols. 1, 2
+262. Isshi Yamada, Sarva-tathāgata-tattva-sangraha
+263. Lokesh Chandra, Abhidhānottara-tantra
+264. Lokesh Chandra, Sarva-durgati-parisodhana-tejorāja-kalpa
+265. Lokesh Chandra, Așta-sāhasrikā Prajñāpāramitā
+266. Champa Thupten Zongtse, The Biography of Chag-lo-tsa-ba Chos-rje-
+dpal (Dharmasvāmin)
+
+
+
+267. Lokesh Chandra, Panca-raksā
+268. Lokesh Chandra, Kāraṇdavyūha and Other Texts
+269. Lokesh Chandra & David L. Snellgrove, Sarva-tathāgata-tattva-sangraha
+(facsimile edition)
+270. Lokesh Chandra, Pañcavimśa-Brāhmaṇa with the commentary of Sāyaṇa
+(facsimile reproduction of a Devanāgarī manuscript)
+271. Louis Ligeti, History of Buddhism in Mongolia (facsimile edition of the
+Hor chos-hbyun written by Tshe-hphel in 1819)
+272. Raghu Vira, Vedic Studies
+273. Shashibala, 1919 # face gat #gfaat-getur
+(Iconography of Hindu Deities in Japan)
+274. Hartmut Walravens, Buddhist Literature of the Manchus
+275. Lokesh Chandra, Sanskrit-Japanese Dictionary of Dhāraṇīs
+276. Lokesh Chandra, Vibrations of Ahimsā in China
+277. Lokesh Chandra, Quadrilingual Mahāvyutpatti (Sanskrit-Tibetan-
+Chinese-Mongolian Lexicon of Buddhist Terms)
+278-281. Lokesh Chandra, Collected Works of Jaya-pandita Blo-bzan-
+hphrin-las, vols. 1-4
+282. Lokesh Chandra, Sanskrit Texts on Phonetics
+283-288a. Lokesh Chandra, The Collected Works of Dalai Lama XIII, vols.1-7
+289,290. Lokesh Chandra, Four Tibetan-Mongolian Lexicons, vols.1,2
+291. Lokesh Chandra, Works of Bstan-dar Srags-rams-pa
+292,293. Lokesh Chandra, Rāmāyaṇa of Vālmīki, vols.1,2
+294. Lokesh Chandra, Life and Works of Jibcundampa I
+295. Lokesh Chandra, Biography of Jibcundampa IV
+Lokesh Chandra, Biography of Dam-tshig-rdo-rje
+297. Lokesh Chandra, Indian Scripts in Tibet
+298,299. Lokesh Chandra, Sanskrit Texts from Kashmir
+300,301. Lokesh Chandra, Early Buddhist Texts in Mongolian
+302. Lokesh Chandra, Buddhist Iconography in Nepalese Sketchbooks
+LOKO
+296.
